@@ -1,0 +1,2501 @@
+Age,Gender,Country,Depression_Score,Anxiety_Score,Stress_Level,Sleep_Hours,Physical_Activity,Mental_Health_History,Treatment,Work_Status,Physical_Activity_missing
+56,Male,Germany,4,10,High,8.2,Moderate,No,Therapy,Unemployed,0
+69,Male,South Africa,22,4,Severe,6.2,Low,Yes,,Employed,0
+46,Male,South Africa,4,2,Low,10.4,,Yes,Medication,Employed,1
+32,Female,Australia,19,16,Low,10.0,Moderate,Yes,Both,Employed,0
+60,Female,United States,14,1,Severe,7.9,Low,No,Therapy,Employed,0
+25,Male,Japan,17,0,High,4.4,Low,No,Therapy,Employed,0
+78,Female,Brazil,14,6,Low,5.3,Low,Yes,Therapy,Employed,0
+38,Male,United Kingdom,1,13,Medium,9.6,Low,No,,Unemployed,0
+56,Female,Brazil,12,4,High,10.3,Low,Yes,Therapy,Employed,0
+75,Male,Japan,3,18,Medium,5.5,Low,No,Both,Unemployed,0
+36,Female,United Kingdom,9,10,High,6.3,Moderate,Yes,Both,Employed,0
+40,Male,United Kingdom,12,1,Medium,3.7,Moderate,No,Both,Employed,0
+28,Male,United States,9,7,Medium,9.4,,No,Medication,Employed,1
+28,Female,Brazil,8,8,Severe,3.0,Moderate,No,Therapy,Student,0
+41,Male,South Africa,7,2,Low,3.4,High,Yes,Both,Employed,0
+70,Female,India,2,1,Medium,3.0,,Yes,Therapy,Employed,1
+53,Female,Brazil,15,6,High,8.8,Low,No,Both,Student,0
+57,Male,France,13,4,Low,6.8,Moderate,No,Medication,Employed,0
+41,Female,France,8,20,Medium,5.7,Moderate,No,Therapy,Employed,0
+20,Female,United Kingdom,20,4,High,11.2,,No,Therapy,Retired,1
+39,Female,India,10,19,Medium,4.7,Low,No,Therapy,Unemployed,0
+70,Female,Canada,2,12,Medium,6.5,Moderate,No,,Employed,0
+19,Female,Japan,4,20,Medium,11.5,High,Yes,Therapy,Employed,0
+41,Male,Australia,9,19,Medium,6.8,,Yes,Both,Student,1
+61,Female,India,12,5,High,8.0,High,No,Medication,Student,0
+47,Female,Australia,3,19,High,3.7,Low,No,Therapy,Unemployed,0
+55,Female,Brazil,23,17,Low,10.1,Low,No,Therapy,Student,0
+19,Female,Brazil,12,1,High,6.8,Low,Yes,Medication,Employed,0
+77,Female,Australia,11,5,Severe,10.2,Moderate,No,Therapy,Retired,0
+38,Male,Japan,4,8,Medium,5.3,Low,No,Therapy,Unemployed,0
+50,Female,India,9,2,High,6.8,Low,No,Medication,Unemployed,0
+29,Male,Canada,27,0,Medium,10.1,High,Yes,Therapy,Unemployed,0
+75,Male,United Kingdom,23,0,Severe,11.8,High,No,,Unemployed,0
+39,Male,United States,8,18,Severe,3.5,Low,Yes,Therapy,Student,0
+78,Male,Brazil,19,4,Low,10.3,,No,Therapy,Employed,1
+61,Female,France,6,12,Medium,5.7,Moderate,No,Therapy,Employed,0
+42,Male,Japan,1,18,Medium,8.0,Moderate,Yes,Therapy,Employed,0
+66,Male,United States,21,11,Medium,5.6,,Yes,Therapy,Unemployed,1
+44,Female,Canada,23,15,Low,8.5,High,No,Both,Employed,0
+76,Female,Germany,27,18,High,6.2,,No,Medication,Student,1
+80,Female,United Kingdom,22,2,Low,6.0,Moderate,Yes,Medication,Employed,0
+59,Male,Brazil,6,11,Medium,3.3,Low,No,Therapy,Student,0
+45,Female,United Kingdom,7,4,High,4.3,Moderate,No,,Unemployed,0
+77,Female,United States,6,1,Low,11.3,Low,Yes,Therapy,Employed,0
+33,Male,United Kingdom,20,21,Severe,12.0,Moderate,No,Both,Employed,0
+32,Female,Germany,22,6,High,10.0,High,Yes,Therapy,Employed,0
+79,Female,United States,13,12,Medium,5.6,Low,Yes,Medication,Employed,0
+79,Female,Brazil,25,14,Medium,6.6,Moderate,No,,Unemployed,0
+64,Female,India,18,21,Low,9.7,Low,Yes,Both,Employed,0
+79,Male,France,4,2,High,11.7,High,No,Both,Retired,0
+68,Female,United States,22,20,Low,7.1,High,No,,Retired,0
+61,Female,South Africa,24,19,High,10.5,Moderate,No,Medication,Retired,0
+72,Male,Germany,17,4,High,11.8,Moderate,Yes,,Employed,0
+69,Female,United States,19,7,Low,10.9,High,Yes,Medication,Retired,0
+74,Male,United States,11,21,Severe,5.0,,No,,Employed,1
+20,Female,South Africa,22,0,Low,3.1,Low,No,,Unemployed,0
+54,Male,Brazil,16,7,Severe,7.4,Moderate,No,,Retired,0
+68,Male,United States,12,17,Low,7.8,Low,No,Both,Retired,0
+24,Male,France,1,19,High,4.8,Moderate,Yes,Both,Unemployed,0
+38,Male,United Kingdom,24,15,Medium,5.6,Moderate,No,,Employed,0
+26,Female,Brazil,12,17,High,9.9,,No,Medication,Student,1
+56,Male,France,25,19,Medium,7.2,Low,No,,Employed,0
+35,Female,Brazil,6,11,Low,5.9,Low,Yes,Therapy,Unemployed,0
+21,Male,France,27,12,Medium,8.6,Moderate,No,Both,Student,0
+42,Male,Germany,9,12,Medium,8.9,Low,Yes,,Employed,0
+77,Male,France,22,9,High,9.9,,No,Medication,Employed,1
+31,Female,Australia,5,6,Severe,4.4,Moderate,Yes,Therapy,Employed,0
+67,Male,France,2,13,Medium,9.7,High,No,,Retired,0
+75,Female,India,25,15,Medium,8.4,High,No,Therapy,Employed,0
+26,Female,India,2,14,Low,3.5,High,No,Both,Unemployed,0
+43,Female,Japan,17,11,Medium,10.0,Moderate,No,Medication,Employed,0
+70,Female,Australia,10,8,Medium,6.4,,Yes,,Unemployed,1
+19,Female,Australia,21,7,Medium,6.0,High,No,Both,Employed,0
+37,Female,United Kingdom,19,17,Low,7.0,Low,No,Both,Student,0
+45,Female,Australia,4,17,Medium,6.1,Moderate,No,Therapy,Retired,0
+64,Female,United Kingdom,18,12,Severe,6.0,Moderate,No,Therapy,Employed,0
+77,Female,Japan,21,17,Medium,10.3,Moderate,No,,Employed,0
+24,Male,Japan,26,14,Medium,4.1,Low,No,Therapy,Employed,0
+61,Male,Germany,27,3,High,11.7,,Yes,Medication,Employed,1
+78,Male,India,18,16,High,8.0,Moderate,No,Therapy,Employed,0
+25,Male,France,14,4,Medium,4.6,,Yes,,Student,1
+64,Male,France,15,21,High,4.2,High,Yes,Therapy,Employed,0
+52,Female,South Africa,23,15,Severe,8.3,Moderate,Yes,Therapy,Employed,0
+31,Female,South Africa,8,8,Low,8.7,Moderate,Yes,Medication,Employed,0
+34,Female,Canada,3,9,Medium,3.5,High,No,Medication,Employed,0
+53,Female,Brazil,14,17,Low,5.2,Moderate,Yes,,Retired,0
+67,Female,Germany,24,16,Medium,10.2,Low,Yes,Therapy,Employed,0
+57,Female,Canada,11,17,Medium,3.4,Low,No,Therapy,Unemployed,0
+21,Female,Canada,22,6,High,10.7,Moderate,No,Both,Employed,0
+19,Male,United States,2,3,Low,8.9,High,No,Therapy,Employed,0
+79,Male,United States,22,4,Medium,6.9,Moderate,No,,Student,0
+23,Male,Canada,13,15,Medium,6.1,High,Yes,,Student,0
+71,Male,Australia,16,2,Medium,3.2,,Yes,Therapy,Employed,1
+59,Female,Brazil,18,17,High,10.4,Low,Yes,,Employed,0
+21,Female,Germany,5,20,Medium,4.3,,No,Medication,Unemployed,1
+71,Female,Canada,3,13,Severe,5.8,Moderate,No,Both,Employed,0
+46,Male,France,6,14,Medium,8.1,,Yes,Therapy,Unemployed,1
+80,Female,Brazil,18,16,Medium,5.2,,Yes,Medication,Retired,1
+35,Female,United States,16,0,High,7.5,Moderate,No,Medication,Student,0
+43,Female,France,24,20,Medium,10.3,Low,Yes,Therapy,Employed,0
+61,Male,United States,15,16,Low,7.2,Moderate,No,,Employed,0
+51,Female,United States,14,10,High,11.5,Low,No,,Employed,0
+27,Male,Brazil,21,16,Medium,10.6,Low,No,Both,Employed,0
+79,Male,United States,7,13,Severe,6.0,Low,No,Both,Unemployed,0
+53,Male,Japan,18,19,Severe,6.6,High,Yes,,Retired,0
+31,Male,India,7,18,Medium,6.8,Low,No,,Unemployed,0
+48,Female,Japan,17,20,Medium,8.6,Low,No,Medication,Employed,0
+65,Male,India,27,6,Medium,5.6,Low,No,Therapy,Employed,0
+32,Male,South Africa,15,12,Medium,11.7,,No,Medication,Employed,1
+25,Female,South Africa,19,17,High,8.5,High,No,,Employed,0
+31,Female,United States,18,13,High,6.6,,No,Both,Employed,1
+40,Male,Germany,9,0,Medium,8.8,High,Yes,Medication,Student,0
+77,Female,Germany,16,6,Low,6.6,Low,Yes,,Retired,0
+74,Male,India,12,7,Medium,10.4,High,Yes,Medication,Unemployed,0
+79,Male,France,12,17,Medium,8.1,Moderate,No,,Employed,0
+57,Male,Brazil,6,8,High,3.4,Moderate,No,Therapy,Retired,0
+38,Male,United States,26,0,Low,4.6,Moderate,Yes,Medication,Employed,0
+33,Female,Brazil,9,21,High,10.8,Low,Yes,Therapy,Student,0
+62,Male,Japan,1,16,High,8.1,Moderate,No,Medication,Unemployed,0
+35,Female,Germany,3,18,High,11.6,Low,Yes,,Retired,0
+64,Female,Australia,24,5,Medium,3.7,Low,Yes,Medication,Employed,0
+70,Female,Japan,5,2,High,5.7,Moderate,Yes,Therapy,Student,0
+41,Female,Japan,23,4,High,4.7,Low,Yes,Medication,Unemployed,0
+43,Male,India,17,1,High,8.0,Moderate,No,,Student,0
+42,Female,United Kingdom,22,19,Medium,6.4,Low,No,Therapy,Employed,0
+77,Male,Japan,5,3,Medium,4.4,Moderate,No,Therapy,Employed,0
+77,Female,United States,24,9,High,8.8,High,No,Therapy,Retired,0
+77,Female,Canada,22,9,Low,7.8,Moderate,Yes,Therapy,Employed,0
+62,Male,Canada,16,20,Medium,5.5,Moderate,Yes,Therapy,Unemployed,0
+58,Male,United States,13,10,Severe,7.3,Moderate,No,Both,Employed,0
+46,Male,United Kingdom,23,15,Low,9.7,High,No,,Employed,0
+32,Female,United Kingdom,10,16,Medium,4.8,Low,Yes,Medication,Retired,0
+62,Female,India,25,15,Medium,5.6,Moderate,Yes,Medication,Student,0
+18,Male,Germany,18,6,High,6.1,Low,Yes,Therapy,Employed,0
+42,Male,Brazil,1,15,Low,9.7,,No,Medication,Employed,1
+24,Male,United Kingdom,27,2,High,10.6,,Yes,Both,Unemployed,1
+26,Male,Australia,2,15,Low,6.4,Low,No,Therapy,Student,0
+41,Female,India,10,7,Low,5.7,Moderate,Yes,Both,Employed,0
+18,Male,South Africa,5,11,High,11.0,High,No,,Employed,0
+61,Male,France,13,2,Medium,12.0,Moderate,Yes,Medication,Employed,0
+25,Male,South Africa,18,16,Severe,9.0,Moderate,No,Therapy,Student,0
+41,Male,India,25,20,Low,11.9,,Yes,Therapy,Unemployed,1
+80,Female,Japan,15,17,Medium,8.9,Low,Yes,Medication,Employed,0
+28,Male,Brazil,20,10,Low,9.6,Low,No,Therapy,Student,0
+68,Female,France,21,3,Medium,6.5,Moderate,No,Therapy,Employed,0
+34,Male,South Africa,23,15,Severe,6.9,,No,Therapy,Retired,1
+25,Male,France,6,16,Severe,4.3,Moderate,No,Medication,Student,0
+52,Female,Australia,26,8,Low,10.4,High,Yes,Therapy,Employed,0
+52,Male,Australia,7,5,Medium,11.4,Moderate,No,Therapy,Unemployed,0
+50,Female,Australia,18,19,High,8.6,Moderate,Yes,,Student,0
+76,Female,India,19,1,Low,6.1,Moderate,Yes,Medication,Student,0
+22,Male,Brazil,15,8,Low,4.4,Low,No,Medication,Employed,0
+59,Female,India,21,20,Severe,5.4,,No,,Unemployed,1
+56,Female,Canada,26,5,Severe,5.3,Moderate,No,Therapy,Student,0
+75,Female,Japan,6,2,Severe,8.5,Moderate,No,,Unemployed,0
+58,Female,Japan,8,19,High,11.5,Moderate,No,Both,Employed,0
+45,Female,Australia,12,5,High,3.4,,Yes,Medication,Employed,1
+24,Female,Canada,0,6,Medium,3.0,Moderate,No,,Employed,0
+26,Female,United Kingdom,7,0,Low,8.4,,No,Both,Retired,1
+25,Female,United Kingdom,23,0,Low,5.6,,No,,Student,1
+29,Male,Australia,21,4,High,10.9,Low,No,Therapy,Employed,0
+51,Male,South Africa,3,5,High,5.9,Low,No,Both,Employed,0
+50,Female,India,2,12,High,5.6,,No,Both,Student,1
+65,Male,Australia,26,1,Severe,5.4,,Yes,Medication,Student,1
+72,Female,Germany,2,14,Severe,4.3,Moderate,No,Therapy,Student,0
+40,Female,France,21,14,Severe,8.2,Moderate,Yes,Therapy,Employed,0
+79,Male,Japan,12,12,Low,4.5,Moderate,Yes,Both,Student,0
+41,Female,United Kingdom,7,13,High,6.8,Low,Yes,Medication,Unemployed,0
+54,Female,United States,6,21,Medium,7.1,High,Yes,Therapy,Retired,0
+52,Female,United Kingdom,26,6,Medium,3.2,,Yes,Therapy,Student,1
+61,Female,Japan,0,13,Severe,3.2,,Yes,Both,Employed,1
+57,Male,France,26,9,Severe,7.7,Moderate,No,Both,Student,0
+39,Female,Japan,15,16,Low,9.3,,No,Medication,Student,1
+44,Female,United States,5,13,Low,11.5,Moderate,Yes,Medication,Employed,0
+52,Female,Australia,6,7,High,4.6,Moderate,Yes,,Employed,0
+18,Male,Canada,11,3,High,3.9,High,No,Medication,Retired,0
+52,Female,United States,22,15,Severe,3.5,High,Yes,Medication,Employed,0
+54,Male,Japan,8,12,Low,6.9,High,Yes,,Employed,0
+64,Male,Japan,26,21,Low,8.6,,Yes,Both,Student,1
+31,Female,Germany,10,19,Medium,10.6,High,Yes,Both,Student,0
+20,Female,Germany,9,17,Low,9.1,,No,,Unemployed,1
+18,Male,Brazil,20,13,Low,4.9,Moderate,Yes,Both,Student,0
+22,Female,Germany,0,17,Severe,7.2,Moderate,No,Medication,Retired,0
+43,Male,India,17,4,Medium,11.2,,Yes,Medication,Student,1
+72,Male,Canada,3,8,Medium,5.9,Moderate,No,Both,Employed,0
+80,Female,France,4,2,Low,7.5,,No,Therapy,Retired,1
+31,Female,United States,8,7,Medium,11.6,Low,Yes,Medication,Student,0
+56,Male,Japan,26,19,High,9.6,High,Yes,Therapy,Employed,0
+44,Male,Brazil,16,21,High,9.7,,Yes,Medication,Unemployed,1
+26,Male,Brazil,2,9,High,5.3,,No,Therapy,Student,1
+32,Male,France,15,21,Medium,6.7,Low,Yes,,Employed,0
+32,Female,Canada,4,18,Medium,3.7,High,No,Therapy,Student,0
+43,Female,United States,15,20,Medium,8.5,,Yes,,Student,1
+59,Female,United Kingdom,2,2,Medium,3.9,Low,Yes,,Student,0
+77,Female,Germany,19,10,High,10.5,High,Yes,,Retired,0
+30,Female,Australia,14,10,Medium,10.3,,Yes,Medication,Student,1
+68,Male,Brazil,2,16,High,7.8,Low,Yes,Both,Student,0
+80,Female,Germany,19,15,Low,4.3,Moderate,Yes,Both,Employed,0
+49,Female,Germany,13,6,High,3.2,Moderate,No,Both,Employed,0
+56,Female,India,15,3,Severe,10.2,Moderate,Yes,Both,Employed,0
+66,Female,Canada,16,18,High,8.4,,No,,Student,1
+69,Female,Australia,27,11,Medium,9.4,High,No,Medication,Unemployed,0
+78,Male,United Kingdom,23,14,Severe,5.7,High,No,Medication,Employed,0
+49,Male,Japan,19,10,High,7.6,,No,,Employed,1
+21,Male,India,22,4,Medium,9.7,,Yes,Medication,Student,1
+47,Female,Germany,17,4,Medium,7.2,High,Yes,Therapy,Employed,0
+54,Male,Germany,17,14,High,8.4,Low,No,Both,Unemployed,0
+40,Male,South Africa,21,17,High,10.1,Moderate,No,Medication,Employed,0
+56,Female,Australia,13,10,Medium,4.9,Moderate,No,Both,Student,0
+62,Female,Australia,17,11,Medium,3.6,Moderate,Yes,,Student,0
+32,Female,South Africa,14,1,Severe,7.8,Moderate,No,,Employed,0
+60,Male,Australia,14,19,Low,3.6,,No,Both,Retired,1
+46,Male,Germany,5,14,Medium,9.9,Low,Yes,,Student,0
+53,Female,Brazil,26,19,Low,9.5,High,No,Therapy,Employed,0
+30,Female,United States,14,3,High,10.9,Moderate,Yes,Medication,Student,0
+49,Male,Germany,17,21,Low,8.8,Moderate,Yes,Both,Employed,0
+24,Male,India,3,17,High,3.6,High,Yes,Therapy,Employed,0
+76,Female,Canada,22,5,Low,5.3,Moderate,No,,Retired,0
+68,Female,South Africa,7,18,High,10.3,Low,No,Therapy,Student,0
+39,Male,United Kingdom,14,10,High,4.5,Moderate,No,Therapy,Unemployed,0
+45,Female,Japan,2,1,Medium,9.3,Low,No,Therapy,Employed,0
+19,Male,United Kingdom,14,7,Medium,10.0,,Yes,Both,Unemployed,1
+59,Male,Germany,12,10,Medium,6.0,Low,Yes,Medication,Employed,0
+62,Male,India,8,4,Medium,5.9,Moderate,Yes,Both,Student,0
+79,Male,Germany,1,17,High,8.0,High,No,,Retired,0
+74,Female,Canada,23,17,Medium,10.8,Low,Yes,Medication,Student,0
+70,Female,Brazil,7,13,High,5.0,Low,No,Both,Employed,0
+23,Male,Japan,19,21,Low,11.5,Moderate,Yes,Medication,Unemployed,0
+45,Male,Canada,16,9,Low,8.4,Moderate,Yes,,Student,0
+45,Male,South Africa,12,2,Medium,11.9,Moderate,Yes,Both,Employed,0
+61,Male,South Africa,0,8,Medium,3.8,Moderate,Yes,Therapy,Unemployed,0
+61,Male,Germany,1,2,Medium,4.1,Moderate,No,Both,Retired,0
+37,Female,India,14,10,High,10.4,Low,No,,Unemployed,0
+47,Female,Canada,11,11,Low,10.8,Low,No,Medication,Employed,0
+79,Female,France,13,11,Low,7.0,Low,No,Both,Employed,0
+28,Female,India,24,2,High,9.4,High,No,Therapy,Unemployed,0
+75,Male,Brazil,1,20,High,10.8,,No,Therapy,Employed,1
+72,Male,South Africa,17,6,Low,3.4,Moderate,No,,Unemployed,0
+45,Male,Germany,21,13,High,8.2,Low,No,Therapy,Student,0
+42,Male,Australia,6,10,Medium,10.7,Low,Yes,Therapy,Student,0
+56,Male,South Africa,22,6,High,6.6,Low,No,Medication,Employed,0
+79,Female,Japan,24,20,Severe,5.7,Low,No,,Retired,0
+50,Male,United States,5,9,Severe,10.2,Low,Yes,,Employed,0
+18,Female,Australia,13,10,High,6.0,Moderate,No,Therapy,Retired,0
+74,Female,Germany,7,14,Medium,3.0,Low,No,Therapy,Retired,0
+44,Female,France,26,18,High,11.6,Moderate,No,Medication,Retired,0
+79,Female,Australia,21,15,Medium,8.3,Low,No,Medication,Retired,0
+74,Male,Japan,1,21,Low,10.4,Moderate,Yes,Both,Unemployed,0
+69,Female,India,16,20,Medium,10.4,Moderate,No,Therapy,Unemployed,0
+30,Female,France,4,19,Severe,3.6,High,Yes,Therapy,Employed,0
+58,Female,South Africa,13,11,Severe,4.5,Low,No,Therapy,Student,0
+20,Male,France,24,17,Low,5.8,Low,No,,Student,0
+56,Male,Canada,23,12,High,5.9,High,No,Medication,Student,0
+23,Male,Japan,19,4,High,8.9,,Yes,Both,Student,1
+25,Female,Australia,20,3,Medium,8.6,Moderate,Yes,,Student,0
+44,Female,Canada,20,13,Medium,7.5,,No,,Retired,1
+26,Male,France,21,7,High,4.9,Moderate,No,Medication,Employed,0
+79,Female,Canada,2,8,Medium,6.4,,No,Medication,Employed,1
+54,Male,United Kingdom,4,18,Low,7.9,High,No,Therapy,Unemployed,0
+50,Male,Japan,15,2,High,7.2,Moderate,No,Medication,Employed,0
+68,Female,Brazil,17,4,Severe,4.1,Low,Yes,Both,Student,0
+59,Female,India,25,20,High,8.8,,No,,Unemployed,1
+61,Female,France,16,17,High,3.7,Low,No,,Employed,0
+41,Female,Japan,10,0,Medium,6.4,Moderate,Yes,,Employed,0
+32,Male,Brazil,16,7,Low,9.4,Low,Yes,Medication,Employed,0
+76,Male,Brazil,15,18,High,3.2,Low,No,Therapy,Employed,0
+71,Male,Germany,25,16,Medium,8.1,Moderate,No,Both,Unemployed,0
+49,Male,Canada,22,16,Severe,6.0,Low,Yes,Medication,Student,0
+49,Male,Brazil,1,10,Low,3.1,,Yes,Therapy,Retired,1
+41,Female,United Kingdom,3,1,Medium,4.7,,Yes,,Student,1
+58,Male,Japan,20,5,Medium,11.5,Moderate,Yes,Medication,Employed,0
+69,Male,United States,6,21,Severe,7.7,High,No,Therapy,Retired,0
+66,Male,United States,1,13,Low,12.0,Low,No,Both,Retired,0
+79,Female,France,5,2,Low,7.7,Moderate,No,Therapy,Student,0
+66,Female,South Africa,16,11,Low,7.9,,No,Therapy,Student,1
+75,Female,Canada,6,3,High,6.5,Low,Yes,Medication,Unemployed,0
+69,Female,South Africa,24,11,Low,5.8,Moderate,No,,Student,0
+29,Male,Brazil,4,12,Low,5.3,Low,No,Medication,Employed,0
+79,Male,Japan,4,1,Low,6.1,Moderate,No,,Unemployed,0
+56,Female,France,19,1,High,7.1,High,No,Medication,Employed,0
+19,Female,Australia,15,14,Low,4.7,High,No,Therapy,Student,0
+20,Male,Brazil,18,16,Medium,5.0,,No,Therapy,Employed,1
+66,Male,Canada,8,6,Medium,5.4,Low,Yes,Medication,Retired,0
+54,Female,United States,4,13,Medium,7.0,High,Yes,,Employed,0
+66,Female,Germany,7,11,High,8.9,Low,No,Therapy,Unemployed,0
+73,Female,Japan,8,16,Medium,10.7,Moderate,No,Therapy,Employed,0
+34,Female,India,4,13,Severe,5.6,Low,No,Therapy,Student,0
+76,Male,South Africa,9,5,Severe,4.7,Low,Yes,Both,Employed,0
+66,Male,France,24,18,Medium,6.4,,Yes,,Employed,1
+19,Male,South Africa,1,5,High,11.0,High,No,Medication,Employed,0
+19,Female,Japan,8,17,High,3.1,High,No,Therapy,Employed,0
+45,Female,South Africa,10,4,Severe,9.1,Low,Yes,Therapy,Unemployed,0
+71,Male,Japan,3,5,Medium,7.3,Moderate,No,Medication,Unemployed,0
+40,Male,South Africa,21,1,Medium,4.4,Low,No,,Student,0
+54,Male,United Kingdom,21,7,Medium,5.9,,Yes,Medication,Unemployed,1
+49,Male,Australia,21,14,Severe,5.0,Moderate,No,,Employed,0
+50,Female,Brazil,1,14,Low,10.9,Moderate,Yes,Therapy,Student,0
+18,Male,Brazil,22,10,Low,7.3,Low,No,Medication,Student,0
+36,Male,Canada,5,21,Medium,8.1,Low,No,,Employed,0
+79,Male,India,26,21,Low,8.3,High,Yes,Medication,Employed,0
+19,Male,India,13,0,Medium,8.8,High,No,,Student,0
+70,Male,Canada,0,17,Low,7.5,Moderate,No,Medication,Student,0
+61,Male,Germany,17,11,Medium,3.2,,No,Therapy,Student,1
+43,Male,Brazil,6,11,Severe,6.0,Moderate,No,Medication,Retired,0
+49,Female,Germany,0,10,Medium,4.7,Low,No,Both,Unemployed,0
+23,Female,Japan,0,7,High,9.1,High,Yes,Therapy,Employed,0
+49,Female,Japan,0,6,Low,3.5,,Yes,,Retired,1
+72,Female,United States,23,20,Low,8.1,Low,No,Both,Employed,0
+21,Male,South Africa,3,1,High,4.9,Low,Yes,,Unemployed,0
+72,Female,India,3,10,High,11.5,Moderate,No,Medication,Employed,0
+28,Female,United States,17,21,Medium,6.0,Moderate,No,Both,Employed,0
+73,Male,Australia,26,9,Severe,5.9,Low,No,Medication,Student,0
+76,Male,Canada,10,2,Severe,11.3,Moderate,No,,Employed,0
+34,Female,Canada,26,19,Severe,6.8,Moderate,Yes,,Student,0
+80,Female,Japan,0,9,Medium,11.7,,No,Therapy,Student,1
+55,Male,Brazil,27,17,Low,3.2,Moderate,No,Therapy,Student,0
+41,Female,Germany,9,13,High,5.8,High,Yes,,Employed,0
+22,Male,India,8,17,High,9.0,,Yes,Medication,Unemployed,1
+69,Male,United States,22,7,Low,11.0,,No,Therapy,Employed,1
+51,Male,Germany,3,9,High,5.3,Low,Yes,Both,Unemployed,0
+23,Male,United States,27,21,Low,11.4,,No,Both,Employed,1
+39,Female,South Africa,5,12,Medium,8.3,Low,No,Both,Employed,0
+28,Male,Australia,15,20,Medium,10.2,Moderate,No,Therapy,Student,0
+80,Male,Australia,1,7,High,6.6,Moderate,No,Medication,Retired,0
+65,Female,Germany,22,3,Medium,4.9,,Yes,Therapy,Student,1
+33,Male,Germany,17,3,High,11.2,Moderate,No,Therapy,Employed,0
+50,Female,Germany,9,4,Medium,11.4,Moderate,No,Medication,Employed,0
+26,Female,United States,23,0,High,7.5,High,Yes,Both,Employed,0
+77,Female,South Africa,23,16,Severe,3.1,,No,,Student,1
+76,Male,United Kingdom,16,1,High,4.0,Moderate,No,Therapy,Employed,0
+23,Female,Germany,12,7,Severe,8.2,High,Yes,,Unemployed,0
+33,Female,Brazil,23,6,Low,3.2,Moderate,No,Medication,Unemployed,0
+46,Male,India,17,14,Medium,6.6,Low,No,Both,Retired,0
+20,Female,India,21,4,Low,5.7,,No,,Employed,1
+37,Female,United States,12,1,Medium,9.4,High,Yes,Therapy,Employed,0
+77,Female,Germany,16,6,High,3.5,Low,No,Both,Student,0
+76,Female,Japan,4,7,Low,7.4,High,No,Therapy,Retired,0
+53,Female,Canada,10,6,Medium,8.2,Moderate,No,Medication,Employed,0
+36,Male,United Kingdom,6,6,Medium,8.6,Low,No,,Employed,0
+43,Female,Brazil,9,13,Medium,6.6,Moderate,No,Therapy,Retired,0
+20,Female,South Africa,16,20,Medium,5.7,,Yes,Therapy,Employed,1
+80,Male,Japan,14,17,High,9.1,Low,No,Medication,Employed,0
+36,Male,Australia,17,5,Low,10.6,Moderate,Yes,Therapy,Student,0
+37,Male,Japan,22,3,Medium,9.2,Moderate,Yes,Therapy,Employed,0
+49,Female,United States,21,9,High,11.4,Low,Yes,Therapy,Retired,0
+24,Male,United Kingdom,18,17,High,9.5,Moderate,No,Medication,Employed,0
+69,Female,France,25,11,Medium,9.9,Low,No,Both,Employed,0
+58,Female,France,1,15,Severe,4.5,Low,Yes,Both,Student,0
+50,Male,Germany,25,6,Medium,6.8,Low,Yes,,Employed,0
+57,Male,Germany,3,5,Medium,7.4,Low,Yes,Both,Employed,0
+56,Female,United States,2,4,Low,5.3,High,No,,Student,0
+35,Male,South Africa,6,2,Medium,7.8,Moderate,No,Therapy,Employed,0
+57,Female,Germany,23,11,High,5.6,Moderate,No,Medication,Employed,0
+18,Male,Canada,17,14,Low,9.2,Moderate,No,,Unemployed,0
+28,Male,United Kingdom,9,9,Medium,7.2,,No,,Student,1
+45,Male,United States,6,19,High,7.1,Low,Yes,Therapy,Unemployed,0
+74,Female,India,7,18,Medium,11.9,Moderate,Yes,Medication,Employed,0
+42,Male,Australia,5,15,Low,6.5,High,Yes,Therapy,Employed,0
+67,Female,United States,21,10,High,6.3,Moderate,No,Therapy,Retired,0
+40,Female,United States,25,7,Low,5.9,Low,No,Both,Student,0
+48,Female,France,0,2,Severe,11.1,Low,Yes,Medication,Employed,0
+47,Female,Brazil,3,6,Low,7.5,,Yes,Medication,Employed,1
+59,Male,South Africa,13,6,High,8.4,,No,Therapy,Employed,1
+52,Female,Brazil,16,13,Medium,4.6,Low,Yes,,Employed,0
+24,Female,Canada,19,1,Severe,7.9,Moderate,Yes,,Student,0
+77,Male,India,17,9,Low,5.5,Low,No,Medication,Employed,0
+33,Female,France,10,18,High,9.6,Moderate,No,Medication,Employed,0
+43,Male,India,20,8,Medium,10.5,Moderate,No,Both,Unemployed,0
+65,Female,Canada,25,15,Medium,9.4,Low,No,,Student,0
+74,Male,Brazil,13,18,Medium,9.6,Moderate,No,,Employed,0
+69,Female,United States,8,17,High,7.6,Low,Yes,,Employed,0
+77,Male,Germany,26,8,Severe,9.4,Moderate,No,,Student,0
+66,Female,Germany,14,15,Low,6.8,Moderate,No,Therapy,Employed,0
+19,Female,Japan,11,12,Low,8.9,Moderate,No,Both,Student,0
+18,Male,Australia,9,9,High,5.3,High,No,Medication,Employed,0
+65,Male,South Africa,18,19,Low,3.6,,Yes,Therapy,Unemployed,1
+79,Male,Canada,23,13,Severe,6.7,Moderate,No,Medication,Unemployed,0
+29,Male,Australia,18,11,High,7.2,Moderate,Yes,,Employed,0
+22,Female,South Africa,5,18,High,5.3,Moderate,Yes,Both,Unemployed,0
+54,Female,Australia,19,6,Low,9.5,Moderate,No,Medication,Unemployed,0
+49,Male,Brazil,23,14,Low,3.7,Moderate,No,,Employed,0
+76,Female,South Africa,26,15,High,5.0,Moderate,No,Medication,Retired,0
+72,Male,Brazil,5,7,Severe,9.7,Low,No,Medication,Employed,0
+26,Male,United States,7,9,Severe,6.9,Low,No,,Employed,0
+58,Female,France,0,3,Low,9.3,Moderate,No,Therapy,Employed,0
+52,Female,Brazil,21,18,Low,8.1,Moderate,No,Therapy,Retired,0
+36,Female,Germany,16,18,Low,11.6,High,Yes,,Employed,0
+65,Female,Australia,16,20,Severe,8.4,,No,,Student,1
+33,Female,Japan,23,14,Medium,3.1,Low,No,Medication,Student,0
+20,Female,United Kingdom,14,13,Low,6.2,Moderate,Yes,Therapy,Student,0
+37,Female,South Africa,6,0,Low,4.3,High,No,Medication,Employed,0
+41,Male,Canada,18,15,Medium,11.3,High,No,Both,Unemployed,0
+71,Male,Japan,21,9,Severe,3.9,Low,No,Medication,Employed,0
+73,Male,Germany,24,18,Medium,6.5,,No,Medication,Student,1
+50,Male,Brazil,22,21,Low,5.0,Low,Yes,Both,Unemployed,0
+41,Male,France,27,2,Medium,10.6,Low,No,Medication,Employed,0
+69,Female,United States,2,4,Medium,5.8,High,No,,Employed,0
+28,Male,United Kingdom,21,8,Low,11.9,Low,Yes,Therapy,Employed,0
+66,Male,India,10,17,Low,3.3,Low,No,Medication,Unemployed,0
+25,Male,Japan,19,10,High,4.2,Low,Yes,Medication,Employed,0
+53,Male,France,18,15,Low,5.0,Low,No,Both,Student,0
+55,Male,India,8,1,Low,10.3,Moderate,No,Medication,Employed,0
+57,Male,United Kingdom,9,11,Medium,10.9,,No,Both,Unemployed,1
+37,Male,Canada,1,21,High,3.6,Low,No,,Employed,0
+79,Female,Canada,0,5,Medium,3.3,High,No,Medication,Student,0
+52,Female,Australia,15,10,High,9.7,,Yes,Both,Student,1
+65,Male,United Kingdom,17,7,Medium,4.2,Moderate,No,Therapy,Employed,0
+79,Female,United Kingdom,22,11,High,4.2,Low,Yes,,Employed,0
+42,Female,India,25,1,Low,3.2,Moderate,Yes,Therapy,Employed,0
+52,Female,France,16,8,Severe,3.4,,No,Medication,Unemployed,1
+42,Female,South Africa,5,14,Low,5.4,Low,No,,Retired,0
+46,Male,India,13,1,Medium,3.6,Moderate,Yes,Medication,Student,0
+35,Female,United States,22,0,High,6.3,Low,Yes,,Employed,0
+63,Female,Canada,24,9,Medium,10.5,Moderate,No,Therapy,Student,0
+35,Female,Canada,14,1,Severe,5.9,Low,Yes,Both,Unemployed,0
+19,Male,Australia,13,11,Medium,9.6,Moderate,Yes,,Employed,0
+71,Male,United States,23,7,Severe,3.8,High,Yes,,Student,0
+52,Male,Canada,21,4,High,8.9,,Yes,Therapy,Unemployed,1
+33,Male,India,2,21,Severe,5.9,Low,No,Medication,Unemployed,0
+78,Male,United States,23,0,Severe,9.7,Moderate,No,Therapy,Student,0
+58,Male,India,22,14,Severe,4.2,Moderate,No,Therapy,Student,0
+53,Male,South Africa,18,5,High,11.1,,Yes,Both,Employed,1
+50,Female,South Africa,24,11,Medium,5.2,Low,Yes,Therapy,Employed,0
+21,Female,Canada,11,7,Low,6.2,Low,Yes,Therapy,Unemployed,0
+50,Female,Canada,1,12,High,11.6,,Yes,Therapy,Employed,1
+31,Male,France,2,18,Severe,8.2,High,Yes,Therapy,Employed,0
+38,Male,South Africa,17,0,High,6.3,Moderate,Yes,,Unemployed,0
+65,Male,Japan,0,10,Severe,11.5,Moderate,Yes,Medication,Employed,0
+37,Male,Japan,19,19,High,6.0,Low,No,Both,Employed,0
+73,Male,Australia,20,0,Low,3.9,,Yes,Therapy,Employed,1
+25,Female,South Africa,5,7,Low,12.0,High,Yes,Medication,Unemployed,0
+24,Female,India,4,4,Medium,5.4,,Yes,,Student,1
+20,Male,India,0,16,Low,10.7,Low,Yes,Medication,Employed,0
+34,Male,Germany,18,7,Medium,4.5,Low,No,Therapy,Student,0
+50,Male,United States,0,9,Severe,9.6,Moderate,Yes,Therapy,Unemployed,0
+65,Male,Brazil,26,1,High,7.7,Low,Yes,Therapy,Employed,0
+29,Female,Japan,20,8,Medium,11.8,Low,Yes,,Employed,0
+76,Male,Canada,20,2,Low,8.0,High,Yes,Medication,Retired,0
+68,Male,Australia,15,17,Medium,3.2,Moderate,No,Medication,Retired,0
+39,Male,Brazil,11,6,Medium,8.4,,No,Therapy,Retired,1
+72,Male,United Kingdom,26,14,Medium,4.3,Moderate,Yes,Both,Student,0
+39,Female,Australia,21,20,Low,10.2,Low,No,,Unemployed,0
+63,Male,United Kingdom,7,21,Medium,10.7,Low,Yes,Medication,Employed,0
+47,Male,South Africa,25,19,Medium,7.3,Moderate,Yes,Therapy,Student,0
+55,Female,United Kingdom,15,17,Severe,10.0,Low,Yes,Therapy,Employed,0
+55,Female,United Kingdom,27,2,Low,4.3,Low,No,Therapy,Employed,0
+62,Female,France,0,13,Low,7.4,Moderate,Yes,Therapy,Student,0
+68,Male,France,3,1,Low,6.5,High,No,,Employed,0
+71,Male,France,9,13,Medium,8.5,Moderate,No,Medication,Unemployed,0
+25,Female,South Africa,10,21,High,3.4,,Yes,Medication,Employed,1
+44,Female,Brazil,16,10,High,9.8,Low,No,Medication,Employed,0
+44,Female,Australia,24,15,Medium,3.7,Low,No,Both,Employed,0
+51,Female,Australia,26,7,High,8.9,Low,No,Both,Retired,0
+38,Female,Canada,22,6,Medium,3.2,Low,No,Medication,Student,0
+47,Female,France,6,10,High,10.5,Moderate,Yes,Medication,Employed,0
+50,Male,South Africa,11,2,Low,4.6,,Yes,,Employed,1
+45,Male,Canada,20,16,Medium,7.6,Low,Yes,Both,Unemployed,0
+64,Male,United States,6,13,High,5.4,Moderate,No,Both,Student,0
+50,Female,Canada,11,5,High,9.5,Low,No,,Employed,0
+22,Female,Brazil,14,7,High,5.9,High,No,Therapy,Employed,0
+77,Female,Japan,1,21,Low,9.5,Low,No,Both,Unemployed,0
+78,Female,United Kingdom,13,4,Low,5.6,High,Yes,,Student,0
+65,Female,France,12,7,Severe,9.8,High,No,Therapy,Employed,0
+36,Female,Japan,3,1,Low,3.3,Moderate,No,Therapy,Student,0
+21,Male,Canada,13,14,Low,5.5,,No,Therapy,Retired,1
+52,Male,South Africa,13,11,Low,7.5,High,No,,Employed,0
+66,Female,United Kingdom,15,16,Medium,3.4,,No,Therapy,Employed,1
+34,Male,Australia,6,0,Low,4.7,,No,Therapy,Employed,1
+61,Female,India,18,14,Medium,11.4,Low,No,Both,Employed,0
+45,Male,United Kingdom,1,13,Medium,11.8,,No,Therapy,Student,1
+47,Female,Brazil,9,19,Severe,9.7,,Yes,Therapy,Employed,1
+46,Female,Brazil,17,21,Low,5.3,Low,No,Therapy,Retired,0
+63,Male,Canada,16,15,Medium,5.3,Low,Yes,,Employed,0
+70,Male,United States,4,8,Medium,8.8,Moderate,No,Both,Unemployed,0
+23,Female,Brazil,11,0,High,4.1,,Yes,Both,Student,1
+52,Female,Brazil,5,16,Medium,11.5,Moderate,No,Therapy,Retired,0
+77,Male,South Africa,21,12,High,5.0,High,No,Therapy,Employed,0
+58,Male,Canada,8,20,Low,12.0,Low,Yes,Medication,Employed,0
+54,Female,United Kingdom,19,20,High,7.5,Moderate,Yes,Therapy,Employed,0
+41,Male,United States,0,4,Medium,9.9,High,No,,Unemployed,0
+46,Female,Japan,21,9,Low,3.0,,No,Therapy,Unemployed,1
+66,Female,India,14,5,Severe,11.0,Low,Yes,Both,Employed,0
+63,Female,France,20,18,High,5.4,High,Yes,,Employed,0
+70,Female,Australia,25,12,Low,9.0,High,No,Therapy,Student,0
+48,Male,Brazil,5,0,Low,10.3,Moderate,No,,Employed,0
+52,Male,Canada,18,19,Low,4.5,,Yes,,Employed,1
+77,Male,France,17,14,High,7.0,High,No,Medication,Employed,0
+50,Male,Australia,5,13,Low,7.4,,No,Therapy,Employed,1
+69,Male,Australia,12,7,Low,5.8,Low,Yes,Both,Unemployed,0
+80,Male,Japan,0,9,Low,7.3,Low,No,Therapy,Unemployed,0
+78,Male,Japan,22,8,High,5.9,Low,Yes,,Student,0
+38,Female,Japan,22,16,High,6.2,Moderate,Yes,Therapy,Unemployed,0
+49,Male,Germany,25,8,High,9.0,Moderate,Yes,Medication,Student,0
+40,Male,Germany,12,2,Low,8.7,Moderate,No,,Unemployed,0
+50,Female,Australia,6,10,Severe,5.1,,No,Therapy,Student,1
+20,Male,Japan,14,11,High,11.1,Moderate,No,Medication,Unemployed,0
+35,Male,South Africa,11,9,Severe,10.8,Moderate,Yes,,Employed,0
+42,Female,Brazil,26,16,Medium,7.6,Low,Yes,Both,Employed,0
+59,Male,France,25,16,Medium,6.9,High,No,Therapy,Employed,0
+48,Male,France,0,10,High,6.4,Moderate,Yes,,Student,0
+71,Male,Germany,14,21,Low,9.4,Moderate,Yes,Medication,Student,0
+75,Female,Australia,3,3,Medium,9.0,,No,,Employed,1
+20,Male,Canada,12,6,High,4.8,Moderate,No,Medication,Unemployed,0
+57,Male,United Kingdom,22,20,High,9.0,High,Yes,Therapy,Employed,0
+63,Female,United Kingdom,26,13,Severe,5.3,Low,No,,Employed,0
+41,Male,Germany,24,6,High,3.2,Moderate,Yes,Both,Employed,0
+67,Female,Canada,4,7,Low,9.3,Low,No,Medication,Employed,0
+49,Female,Germany,1,0,Low,8.8,Moderate,No,Therapy,Employed,0
+64,Male,United Kingdom,22,21,Medium,6.7,Moderate,No,Therapy,Unemployed,0
+39,Female,Canada,25,3,Medium,7.7,Moderate,No,,Employed,0
+40,Female,Japan,0,11,Low,11.5,High,Yes,Medication,Student,0
+19,Male,Australia,15,2,Low,8.4,Low,Yes,Both,Student,0
+80,Female,France,22,12,Medium,8.9,Low,Yes,,Employed,0
+44,Female,South Africa,5,19,High,3.6,Moderate,No,Therapy,Employed,0
+59,Male,United States,22,5,Severe,4.5,,No,Therapy,Student,1
+19,Male,Australia,15,10,High,5.7,Low,No,Therapy,Retired,0
+43,Male,Japan,13,3,High,7.9,,No,Medication,Employed,1
+34,Female,United Kingdom,25,19,High,10.0,,Yes,,Employed,1
+57,Male,Japan,2,15,Severe,5.9,Moderate,No,,Student,0
+50,Female,Germany,14,6,High,6.2,Moderate,Yes,,Unemployed,0
+26,Female,Canada,2,21,Severe,5.3,,Yes,Therapy,Unemployed,1
+60,Female,France,22,10,Severe,5.3,Low,No,Therapy,Student,0
+71,Female,Brazil,1,0,Severe,11.5,,No,Both,Retired,1
+65,Female,Germany,0,6,Medium,8.7,Low,Yes,Medication,Employed,0
+56,Female,Australia,8,11,Low,4.4,,No,,Employed,1
+46,Female,Germany,8,6,Low,9.5,Low,No,Medication,Unemployed,0
+59,Male,Australia,22,6,Low,9.5,Moderate,Yes,Medication,Unemployed,0
+72,Male,Brazil,6,9,Low,9.0,Moderate,No,Therapy,Retired,0
+43,Female,India,2,15,Low,4.2,Low,Yes,,Unemployed,0
+52,Female,France,25,7,Medium,6.7,Moderate,Yes,,Retired,0
+67,Male,South Africa,17,8,Medium,4.0,High,Yes,,Student,0
+42,Female,South Africa,10,8,High,10.3,Low,Yes,Both,Employed,0
+41,Male,United States,6,1,Low,8.9,Low,No,Therapy,Employed,0
+30,Male,Japan,8,12,High,7.6,Moderate,No,Both,Unemployed,0
+77,Male,India,0,12,High,6.1,Low,Yes,Medication,Employed,0
+75,Female,South Africa,13,3,Medium,4.7,Moderate,Yes,Therapy,Student,0
+24,Female,Germany,19,11,Severe,4.0,Moderate,Yes,Both,Unemployed,0
+74,Male,Japan,5,16,Low,11.7,Low,No,,Retired,0
+53,Male,India,6,1,Low,4.8,Moderate,Yes,,Employed,0
+62,Male,Canada,9,12,Medium,3.5,Moderate,No,Medication,Student,0
+37,Male,Canada,6,17,Low,11.7,,No,Therapy,Student,1
+18,Male,Japan,25,14,Medium,7.9,,No,Therapy,Student,1
+25,Female,Australia,1,7,Medium,10.2,High,No,Medication,Employed,0
+63,Male,Australia,3,14,Medium,3.4,High,Yes,Both,Retired,0
+33,Female,Germany,20,0,Low,8.1,Moderate,No,Therapy,Student,0
+31,Male,India,27,19,Medium,6.6,High,Yes,Therapy,Employed,0
+29,Female,India,16,9,High,9.9,Low,Yes,Therapy,Employed,0
+68,Female,Japan,0,11,Medium,3.3,Low,No,Medication,Employed,0
+40,Female,United Kingdom,9,4,Low,6.6,Low,No,,Employed,0
+32,Female,Canada,18,8,Low,10.2,,No,Both,Unemployed,1
+45,Female,India,14,7,Low,7.7,Moderate,Yes,Medication,Unemployed,0
+51,Female,Japan,9,15,Low,8.0,High,No,Medication,Employed,0
+19,Male,Brazil,18,13,Severe,3.9,Moderate,Yes,Both,Unemployed,0
+49,Female,United States,11,12,Low,4.2,Moderate,Yes,Both,Employed,0
+40,Male,Brazil,23,20,High,9.1,Low,Yes,,Student,0
+80,Female,France,15,12,Severe,9.1,,No,,Student,1
+39,Female,Germany,8,4,Low,11.8,Low,No,Medication,Employed,0
+68,Male,India,14,15,Medium,9.4,Moderate,No,Both,Student,0
+42,Female,France,26,10,Severe,7.4,Low,Yes,Medication,Employed,0
+75,Male,South Africa,27,21,High,10.7,High,Yes,Therapy,Employed,0
+80,Male,France,16,4,Medium,3.9,High,Yes,Medication,Employed,0
+79,Male,Japan,13,12,High,7.0,,No,,Student,1
+78,Male,India,26,10,High,5.6,,No,Both,Employed,1
+39,Female,United States,17,18,Medium,3.9,Moderate,No,Therapy,Employed,0
+75,Female,Japan,25,2,Severe,9.9,Low,No,Both,Employed,0
+75,Male,Japan,1,14,Medium,7.6,Moderate,Yes,Therapy,Employed,0
+39,Female,Germany,3,6,Medium,8.0,Moderate,Yes,Both,Unemployed,0
+66,Female,Germany,17,6,Severe,6.7,Low,No,Therapy,Student,0
+69,Male,Canada,6,5,High,7.1,Low,No,Medication,Employed,0
+59,Female,Canada,12,2,Medium,4.0,Low,No,Both,Student,0
+23,Male,Australia,14,12,Low,9.1,High,No,Medication,Student,0
+32,Male,United Kingdom,24,6,High,6.9,,No,Medication,Retired,1
+71,Female,India,22,4,High,10.4,High,Yes,,Employed,0
+60,Female,India,27,17,High,4.8,Moderate,Yes,Therapy,Employed,0
+77,Female,France,21,21,Severe,4.8,Moderate,No,Both,Unemployed,0
+54,Male,India,25,7,Severe,8.8,,No,,Student,1
+50,Male,India,0,16,Medium,10.6,Moderate,Yes,Medication,Student,0
+25,Female,United Kingdom,10,19,Low,7.2,Moderate,Yes,Medication,Unemployed,0
+70,Female,South Africa,9,0,Medium,9.5,Moderate,No,,Unemployed,0
+77,Female,Canada,24,13,High,12.0,Moderate,No,Therapy,Employed,0
+61,Female,Canada,4,16,High,11.9,Moderate,Yes,Therapy,Employed,0
+61,Male,United States,15,9,Medium,9.7,High,No,,Unemployed,0
+22,Female,India,10,11,Medium,9.7,Low,Yes,Both,Employed,0
+56,Male,United Kingdom,20,15,Medium,5.2,Moderate,No,Medication,Student,0
+21,Male,Canada,5,13,Medium,10.5,,Yes,Therapy,Employed,1
+23,Female,United Kingdom,8,15,Medium,6.6,Moderate,No,Therapy,Employed,0
+62,Female,Brazil,12,7,Low,11.7,High,No,Medication,Student,0
+49,Female,South Africa,23,9,Medium,3.7,Low,Yes,Therapy,Employed,0
+69,Male,India,7,16,Medium,6.9,Moderate,No,,Unemployed,0
+47,Female,United States,13,17,Medium,8.0,Moderate,Yes,Therapy,Employed,0
+64,Female,France,23,19,Low,6.6,,No,Both,Student,1
+52,Male,Canada,0,15,High,4.9,Low,No,,Employed,0
+72,Female,Brazil,16,16,Medium,8.3,Low,Yes,Therapy,Unemployed,0
+57,Male,United Kingdom,23,15,High,9.8,High,Yes,Both,Student,0
+69,Female,Germany,4,18,High,8.8,High,No,,Student,0
+33,Male,Japan,24,7,Medium,5.1,Moderate,Yes,Both,Employed,0
+30,Female,India,1,5,Medium,9.6,Moderate,No,Therapy,Student,0
+67,Female,India,24,5,Severe,5.3,Moderate,Yes,,Retired,0
+77,Male,Brazil,27,20,High,4.6,Low,No,,Employed,0
+59,Male,United Kingdom,23,8,Severe,9.2,Low,No,,Employed,0
+47,Female,Australia,8,3,High,10.6,Moderate,No,,Unemployed,0
+36,Male,India,3,11,Low,7.3,High,Yes,,Employed,0
+34,Male,Australia,16,11,Low,7.8,Moderate,Yes,Therapy,Student,0
+73,Male,Germany,16,16,Medium,5.7,Moderate,Yes,,Student,0
+80,Male,Brazil,20,14,Medium,7.5,Moderate,Yes,Medication,Employed,0
+36,Female,United Kingdom,17,8,Medium,4.2,Low,No,Both,Student,0
+45,Female,United Kingdom,15,6,High,11.6,Moderate,No,Both,Employed,0
+75,Male,South Africa,7,9,Medium,10.2,Low,Yes,Therapy,Student,0
+72,Male,Japan,25,15,Medium,9.0,Low,No,Both,Student,0
+43,Male,Canada,10,11,High,7.8,Moderate,Yes,,Employed,0
+54,Male,Canada,20,6,High,10.1,Moderate,Yes,,Unemployed,0
+43,Female,France,20,17,Medium,7.5,Low,No,Therapy,Unemployed,0
+70,Female,United States,17,14,High,5.7,Moderate,No,Medication,Employed,0
+79,Male,Brazil,22,5,Severe,4.4,Moderate,No,Both,Retired,0
+40,Male,Germany,23,11,Medium,8.8,Moderate,Yes,Medication,Student,0
+80,Male,United Kingdom,9,10,Low,11.4,High,Yes,Therapy,Student,0
+26,Female,Japan,12,19,Low,4.4,Low,Yes,Medication,Employed,0
+29,Male,Australia,16,2,Medium,4.6,High,No,,Employed,0
+70,Female,Brazil,17,1,Medium,6.9,Moderate,No,Therapy,Employed,0
+18,Male,France,9,5,Severe,10.3,Moderate,Yes,Therapy,Student,0
+75,Female,Brazil,15,21,High,5.6,Moderate,No,,Student,0
+75,Male,France,19,4,High,5.3,Low,No,,Employed,0
+18,Female,United Kingdom,4,17,Severe,8.6,,No,Medication,Retired,1
+64,Male,United States,12,15,Severe,7.8,Moderate,Yes,Therapy,Employed,0
+51,Male,France,17,7,Medium,3.5,Moderate,Yes,Therapy,Student,0
+49,Male,United Kingdom,16,19,Low,3.7,Moderate,Yes,Therapy,Unemployed,0
+79,Female,United Kingdom,8,21,High,8.8,Low,Yes,Both,Employed,0
+71,Male,United States,13,10,Medium,7.2,Low,No,Therapy,Student,0
+65,Female,Canada,16,9,Medium,11.7,Low,No,,Employed,0
+42,Female,Brazil,3,11,High,9.1,Moderate,No,Therapy,Unemployed,0
+57,Male,India,17,20,Severe,3.1,Low,No,Medication,Unemployed,0
+62,Male,India,26,5,Medium,7.3,Moderate,Yes,,Employed,0
+70,Male,Australia,19,19,High,6.7,Low,No,Therapy,Employed,0
+18,Female,Australia,23,4,Medium,4.0,Moderate,No,Therapy,Employed,0
+33,Male,India,23,8,High,11.3,,No,Therapy,Student,1
+78,Female,Germany,14,15,Low,10.2,Low,Yes,Therapy,Retired,0
+56,Female,India,10,21,Severe,5.1,Moderate,No,Medication,Employed,0
+80,Male,Australia,11,13,Low,5.3,Moderate,Yes,Both,Student,0
+22,Male,Japan,8,21,High,3.3,Low,No,Both,Employed,0
+39,Male,Australia,12,7,Low,5.7,High,Yes,Medication,Employed,0
+46,Male,Germany,14,19,Medium,8.3,Low,No,Therapy,Retired,0
+72,Male,Brazil,26,18,Medium,6.8,Low,No,Both,Unemployed,0
+20,Male,India,14,13,Medium,11.7,Low,Yes,Both,Student,0
+29,Female,United States,27,6,Low,3.5,Low,Yes,Both,Unemployed,0
+43,Female,Japan,4,4,Medium,8.3,Low,Yes,,Employed,0
+33,Female,United Kingdom,22,17,High,10.7,Low,No,,Student,0
+68,Male,Germany,18,1,High,7.3,Moderate,No,Both,Employed,0
+54,Female,Australia,25,10,Low,3.0,Low,Yes,Both,Employed,0
+39,Female,United States,19,21,High,5.2,Moderate,No,Medication,Student,0
+74,Female,France,25,7,Low,5.9,Low,Yes,Both,Employed,0
+46,Female,Canada,24,0,Medium,11.7,Low,No,Medication,Employed,0
+31,Female,India,25,21,Medium,11.2,,No,Therapy,Student,1
+45,Male,Canada,25,11,Medium,11.5,Moderate,Yes,Therapy,Employed,0
+22,Male,Germany,13,1,Medium,10.4,Moderate,No,Medication,Employed,0
+64,Female,France,27,17,Severe,6.2,Moderate,No,Therapy,Student,0
+66,Female,France,16,6,Medium,11.2,Low,Yes,Both,Unemployed,0
+47,Female,France,17,16,Low,11.8,Moderate,No,Therapy,Student,0
+63,Male,United Kingdom,20,21,Medium,6.2,Moderate,Yes,Both,Student,0
+79,Male,Germany,2,13,Severe,5.3,,Yes,Both,Student,1
+69,Female,Brazil,1,6,High,7.9,Low,No,,Employed,0
+22,Male,Canada,0,21,High,4.7,Low,No,,Employed,0
+29,Male,Brazil,9,2,Severe,3.3,Moderate,No,Medication,Employed,0
+33,Female,United States,18,5,Severe,11.5,,Yes,Therapy,Employed,1
+43,Male,South Africa,16,19,High,11.3,Moderate,No,Medication,Unemployed,0
+43,Male,Japan,11,1,Low,4.5,Moderate,No,,Student,0
+65,Female,Japan,0,16,High,6.7,Moderate,No,Therapy,Employed,0
+38,Male,Brazil,11,11,Low,10.5,Low,Yes,,Student,0
+56,Male,South Africa,16,11,High,8.9,Moderate,No,Therapy,Student,0
+53,Female,South Africa,23,16,High,6.6,,No,,Employed,1
+50,Male,India,2,9,High,9.7,,Yes,Both,Student,1
+79,Male,United States,10,2,Medium,11.1,Moderate,No,Therapy,Employed,0
+47,Female,Germany,16,19,High,11.3,Low,Yes,Both,Unemployed,0
+54,Female,South Africa,22,17,Severe,6.4,Low,Yes,Both,Student,0
+40,Female,Australia,25,12,Low,4.6,Low,No,Both,Unemployed,0
+75,Male,Japan,2,11,Medium,11.2,Low,No,Therapy,Employed,0
+27,Female,Australia,7,16,High,3.8,,Yes,Medication,Employed,1
+71,Male,United States,19,3,Severe,9.5,Low,Yes,,Employed,0
+22,Female,South Africa,3,9,Low,4.3,Moderate,No,,Employed,0
+53,Male,Canada,20,10,Low,6.5,Low,No,Both,Student,0
+51,Female,Japan,21,5,Low,6.7,High,No,,Retired,0
+69,Female,India,6,5,Low,4.4,Low,No,Both,Employed,0
+48,Female,India,13,8,Severe,11.3,Low,No,Medication,Unemployed,0
+27,Female,France,13,14,High,3.0,Moderate,Yes,Therapy,Unemployed,0
+75,Male,United Kingdom,3,1,High,11.0,,No,,Student,1
+36,Female,South Africa,15,3,Medium,11.0,High,Yes,Medication,Student,0
+75,Female,United States,23,4,High,5.9,Moderate,No,Medication,Student,0
+49,Male,Japan,21,16,Low,9.3,,No,Medication,Unemployed,1
+18,Female,United Kingdom,0,7,Medium,5.3,Moderate,No,Therapy,Unemployed,0
+73,Male,United States,16,7,Medium,9.8,,No,,Employed,1
+22,Female,Brazil,24,21,Low,8.1,High,No,Therapy,Student,0
+62,Female,South Africa,9,11,Medium,5.7,High,No,Therapy,Student,0
+21,Female,Germany,21,20,Medium,6.6,Moderate,No,,Unemployed,0
+33,Male,Germany,15,7,Low,9.2,,Yes,,Retired,1
+41,Female,South Africa,15,18,Low,11.2,Low,No,Therapy,Student,0
+33,Female,France,25,2,High,4.2,Low,Yes,Medication,Student,0
+72,Female,France,7,17,Low,8.1,Low,Yes,Medication,Employed,0
+19,Male,Germany,6,20,Severe,5.3,Low,Yes,,Student,0
+66,Male,Canada,27,18,Low,10.2,High,No,Medication,Unemployed,0
+45,Female,Japan,5,18,High,3.6,Low,No,Medication,Employed,0
+49,Male,Germany,15,14,Severe,9.2,Moderate,No,Therapy,Employed,0
+44,Female,Canada,19,5,Severe,4.6,Moderate,Yes,Therapy,Employed,0
+37,Female,United Kingdom,15,15,Severe,8.4,High,Yes,Therapy,Employed,0
+41,Female,Canada,6,7,Medium,10.5,,No,,Student,1
+29,Female,United Kingdom,8,15,Medium,9.8,Low,Yes,Therapy,Unemployed,0
+67,Female,United States,13,17,Medium,9.8,Moderate,Yes,Therapy,Employed,0
+52,Female,Australia,10,19,Low,7.7,Moderate,No,Medication,Employed,0
+77,Female,United States,25,15,Low,11.0,High,No,Both,Employed,0
+50,Male,Germany,25,10,Severe,8.3,Moderate,No,Therapy,Student,0
+50,Male,United Kingdom,13,6,Medium,11.3,Low,Yes,Medication,Student,0
+78,Male,Germany,6,16,High,7.9,Moderate,No,Both,Employed,0
+68,Male,South Africa,0,16,Severe,7.6,,No,,Employed,1
+60,Male,Japan,25,11,High,5.0,Moderate,No,Both,Employed,0
+54,Male,India,24,12,High,7.9,Moderate,Yes,,Unemployed,0
+29,Male,Germany,12,9,High,4.3,Moderate,No,Both,Employed,0
+20,Female,Japan,19,6,Low,10.8,High,No,,Employed,0
+18,Female,Canada,2,13,Medium,9.1,Moderate,Yes,Therapy,Student,0
+50,Female,United States,19,0,Severe,11.9,Low,No,Medication,Unemployed,0
+57,Female,Canada,3,16,Severe,3.8,,Yes,Both,Employed,1
+27,Male,India,25,3,Severe,5.2,High,No,Therapy,Student,0
+60,Male,United Kingdom,10,20,Medium,10.9,,No,Medication,Employed,1
+61,Female,South Africa,1,4,Severe,6.6,,No,Medication,Employed,1
+46,Female,Japan,13,19,Low,7.2,Low,No,,Unemployed,0
+30,Male,South Africa,11,6,Low,10.7,Moderate,No,Therapy,Retired,0
+29,Female,Australia,16,9,Medium,7.7,,No,Therapy,Employed,1
+48,Female,Germany,11,16,Medium,4.7,High,No,Therapy,Unemployed,0
+63,Female,United Kingdom,25,6,Medium,11.0,High,Yes,Medication,Student,0
+19,Female,Australia,11,0,Medium,3.3,High,No,Both,Employed,0
+78,Male,Brazil,0,6,Low,11.1,,No,Medication,Unemployed,1
+68,Female,Germany,12,10,Medium,3.5,High,No,Both,Employed,0
+67,Female,Canada,13,8,High,9.0,High,No,,Employed,0
+52,Male,United States,23,11,High,3.6,High,No,,Unemployed,0
+40,Male,Japan,1,2,Low,9.4,Moderate,No,Both,Student,0
+34,Female,India,11,3,Medium,3.3,Moderate,No,Both,Student,0
+43,Male,India,25,3,High,10.6,,No,,Employed,1
+25,Female,Canada,20,12,Medium,7.2,High,No,Therapy,Unemployed,0
+46,Female,France,27,18,Medium,3.8,,No,Both,Unemployed,1
+43,Male,India,15,9,High,9.4,Low,Yes,,Employed,0
+27,Female,Japan,3,4,Severe,7.4,High,Yes,Therapy,Unemployed,0
+43,Female,Canada,7,6,Low,4.7,Low,No,Medication,Unemployed,0
+79,Female,United Kingdom,1,15,Medium,3.1,,Yes,Both,Student,1
+51,Female,India,9,0,Medium,6.8,High,No,Medication,Unemployed,0
+68,Male,South Africa,8,11,Medium,3.8,High,No,Medication,Student,0
+58,Male,Canada,22,1,Low,3.8,,Yes,Therapy,Student,1
+24,Female,Japan,14,6,Low,5.4,High,No,Medication,Employed,0
+21,Male,South Africa,12,10,Medium,8.7,Low,No,,Employed,0
+75,Female,Germany,22,12,Severe,7.8,Low,No,Both,Employed,0
+70,Female,Germany,16,1,High,3.6,Low,Yes,Therapy,Student,0
+67,Female,India,15,6,High,11.7,,Yes,Medication,Employed,1
+62,Female,South Africa,27,14,High,11.0,Low,No,Both,Student,0
+28,Female,United States,1,10,Low,5.3,,Yes,,Employed,1
+46,Male,Germany,19,1,Severe,4.1,High,No,Both,Unemployed,0
+73,Female,United States,19,6,Medium,11.5,Moderate,No,Therapy,Unemployed,0
+53,Male,United Kingdom,26,3,Medium,7.2,High,Yes,Therapy,Unemployed,0
+42,Male,Canada,13,10,High,5.8,Moderate,No,,Employed,0
+38,Female,Australia,2,1,High,7.4,,No,Both,Unemployed,1
+78,Female,Japan,22,15,High,10.0,High,Yes,Both,Employed,0
+74,Female,Canada,11,6,Low,4.5,High,Yes,,Student,0
+53,Female,Japan,7,12,Severe,9.9,Low,Yes,,Employed,0
+27,Female,South Africa,1,4,Severe,9.7,,Yes,Both,Employed,1
+54,Male,United Kingdom,3,16,Medium,7.9,Moderate,No,,Unemployed,0
+26,Female,Brazil,13,20,Low,10.8,Moderate,Yes,Medication,Employed,0
+41,Female,India,15,11,Low,4.2,High,Yes,Medication,Student,0
+52,Male,Japan,18,18,Severe,8.4,,No,Both,Unemployed,1
+66,Male,Japan,1,6,Medium,7.0,,No,Medication,Employed,1
+52,Female,South Africa,11,5,Medium,6.8,Moderate,Yes,Therapy,Unemployed,0
+65,Male,United States,13,7,Medium,5.3,Moderate,No,Both,Unemployed,0
+53,Female,Canada,5,12,Medium,6.4,,Yes,,Employed,1
+35,Male,Brazil,12,4,High,4.0,Low,No,Therapy,Student,0
+66,Male,France,3,1,Medium,5.3,Moderate,No,,Student,0
+56,Female,India,21,8,Severe,5.4,Moderate,No,Both,Student,0
+49,Male,Australia,17,10,High,9.5,Low,No,Medication,Student,0
+41,Male,France,11,5,High,3.4,Low,No,,Employed,0
+40,Male,Canada,19,6,Medium,8.9,Moderate,No,Medication,Retired,0
+79,Male,India,26,6,Low,5.0,High,No,Therapy,Unemployed,0
+49,Male,Japan,21,18,Medium,3.7,Low,Yes,Both,Unemployed,0
+54,Male,Australia,20,5,Medium,5.7,Low,No,Therapy,Student,0
+29,Female,United States,18,10,Low,5.0,High,No,Medication,Employed,0
+66,Female,Brazil,7,10,Severe,8.0,Low,No,Medication,Employed,0
+72,Male,United States,6,6,Medium,6.2,Moderate,No,,Student,0
+30,Female,United Kingdom,15,1,Low,11.7,Moderate,No,Both,Unemployed,0
+40,Female,South Africa,18,18,Low,11.7,Low,No,,Retired,0
+42,Female,India,5,3,Medium,7.0,Moderate,Yes,Medication,Employed,0
+52,Male,United States,19,5,Severe,10.2,Moderate,Yes,Medication,Unemployed,0
+58,Female,France,26,16,Medium,3.1,Moderate,No,Medication,Student,0
+47,Male,South Africa,20,4,Medium,7.9,,No,,Employed,1
+34,Female,United States,10,6,High,9.7,High,No,Both,Student,0
+66,Male,Germany,4,8,Medium,5.0,Low,No,,Student,0
+79,Male,United Kingdom,15,0,Low,3.6,Moderate,No,Medication,Unemployed,0
+37,Female,Canada,6,0,Low,4.4,High,No,Medication,Unemployed,0
+65,Female,Brazil,26,18,Medium,7.0,Low,Yes,Both,Employed,0
+42,Male,United Kingdom,4,5,Low,7.6,Moderate,No,Medication,Employed,0
+39,Female,South Africa,10,17,Low,6.4,High,Yes,Therapy,Employed,0
+30,Female,Germany,14,9,High,7.0,Low,No,Both,Unemployed,0
+76,Female,India,2,10,Low,7.2,Low,Yes,,Retired,0
+36,Male,France,25,0,High,9.9,High,Yes,,Unemployed,0
+66,Male,Brazil,4,0,High,3.9,,Yes,Both,Unemployed,1
+53,Female,Brazil,22,12,Medium,9.9,,Yes,Medication,Employed,1
+29,Female,United Kingdom,20,4,Medium,9.2,High,No,,Employed,0
+78,Female,South Africa,4,19,Low,9.7,Moderate,No,Medication,Student,0
+58,Male,India,8,0,High,9.6,High,Yes,,Student,0
+36,Male,Japan,14,19,High,7.2,,No,,Unemployed,1
+29,Female,Germany,2,2,High,4.9,,No,,Unemployed,1
+26,Female,Japan,5,17,Low,7.8,,Yes,Medication,Employed,1
+24,Female,France,16,8,Severe,11.6,Moderate,Yes,Medication,Employed,0
+45,Female,India,25,13,Low,8.3,Moderate,Yes,Medication,Student,0
+31,Female,India,20,16,Medium,3.1,Low,No,,Employed,0
+48,Female,Germany,7,13,Medium,3.5,,Yes,Medication,Employed,1
+69,Male,Australia,20,3,Low,11.9,Moderate,Yes,Therapy,Employed,0
+36,Female,Japan,24,4,Medium,3.6,Moderate,Yes,Therapy,Retired,0
+75,Male,United States,10,20,High,3.4,,No,Both,Student,1
+64,Female,Brazil,5,16,High,6.2,High,No,Therapy,Employed,0
+33,Female,Australia,7,21,Severe,11.7,,Yes,Medication,Employed,1
+70,Male,United States,9,1,Medium,5.9,Moderate,No,Both,Retired,0
+22,Male,South Africa,23,21,High,6.7,High,No,Therapy,Unemployed,0
+52,Male,Germany,2,4,Low,8.7,Moderate,Yes,Medication,Employed,0
+29,Male,South Africa,22,3,Medium,3.2,Low,Yes,Medication,Retired,0
+42,Female,Brazil,13,3,Low,11.1,Low,No,,Employed,0
+69,Male,Canada,22,5,Medium,7.7,High,No,Medication,Student,0
+76,Female,United States,13,19,Medium,7.2,Low,No,Medication,Employed,0
+38,Male,Australia,9,20,Medium,10.7,Moderate,No,,Student,0
+53,Female,United States,11,12,Medium,11.6,High,Yes,,Employed,0
+70,Female,United States,5,21,Severe,6.8,High,Yes,Both,Retired,0
+40,Female,Germany,11,4,Medium,4.6,Moderate,No,Medication,Unemployed,0
+33,Female,South Africa,22,6,Severe,10.3,Moderate,No,,Employed,0
+74,Female,Japan,13,19,High,6.6,High,Yes,Therapy,Employed,0
+56,Female,Canada,1,0,Medium,11.4,Low,No,Medication,Student,0
+62,Male,Germany,8,13,High,11.5,Low,No,,Employed,0
+70,Female,France,9,3,Low,4.0,,Yes,,Student,1
+59,Male,Germany,25,16,High,11.6,,No,Medication,Employed,1
+75,Male,Brazil,16,20,Medium,6.3,High,Yes,Medication,Unemployed,0
+56,Female,Canada,16,13,Severe,8.8,Moderate,No,Therapy,Unemployed,0
+31,Male,India,2,15,High,3.3,High,No,,Student,0
+48,Female,France,18,13,High,11.0,Moderate,Yes,Therapy,Employed,0
+75,Male,United Kingdom,0,15,High,8.8,Moderate,No,Therapy,Employed,0
+22,Female,Germany,11,19,Medium,8.8,Moderate,No,Therapy,Student,0
+52,Male,United States,6,7,Medium,11.1,,Yes,Therapy,Employed,1
+40,Female,Japan,3,2,Medium,7.6,High,Yes,,Employed,0
+46,Female,India,9,18,Medium,6.7,Low,Yes,Therapy,Employed,0
+60,Female,Germany,12,0,Low,10.8,Moderate,No,Both,Unemployed,0
+28,Female,Germany,1,1,Severe,9.7,,Yes,Therapy,Employed,1
+35,Male,Australia,9,14,Medium,11.5,High,No,Therapy,Unemployed,0
+64,Female,Australia,20,21,Severe,11.5,High,Yes,Therapy,Student,0
+29,Male,India,21,9,High,6.4,Moderate,Yes,Therapy,Unemployed,0
+26,Male,South Africa,24,17,Medium,7.0,Moderate,No,Both,Student,0
+27,Male,Australia,3,21,Severe,5.3,Moderate,No,Therapy,Student,0
+75,Female,United States,17,13,Medium,8.9,Low,No,Both,Student,0
+61,Male,France,4,16,Severe,6.3,Low,No,,Employed,0
+34,Male,United Kingdom,18,12,Medium,10.1,Moderate,No,Both,Employed,0
+78,Male,Canada,1,0,Medium,4.1,,Yes,,Retired,1
+55,Female,United Kingdom,11,4,Medium,4.0,Low,Yes,,Unemployed,0
+24,Female,United Kingdom,16,12,Medium,4.8,Low,Yes,,Employed,0
+63,Male,Canada,9,13,Medium,3.8,Low,No,,Employed,0
+30,Female,Australia,1,2,Medium,8.6,,No,Therapy,Employed,1
+57,Female,India,5,14,Medium,4.3,Low,Yes,Therapy,Unemployed,0
+59,Male,Canada,7,18,Severe,4.4,Low,Yes,Medication,Unemployed,0
+26,Male,Brazil,18,16,Medium,3.1,Low,Yes,,Employed,0
+67,Female,South Africa,10,2,Medium,10.0,Moderate,No,Therapy,Employed,0
+44,Male,France,24,15,High,10.3,High,No,Therapy,Unemployed,0
+75,Female,Japan,11,13,High,4.5,,Yes,Medication,Student,1
+19,Female,Australia,8,11,Severe,9.7,High,No,,Student,0
+22,Female,South Africa,1,11,Medium,6.9,Low,No,,Employed,0
+46,Female,Canada,7,10,Low,5.2,Moderate,Yes,Therapy,Unemployed,0
+54,Female,Brazil,25,16,Medium,8.6,Moderate,No,Both,Employed,0
+55,Female,Japan,10,7,Medium,4.6,Moderate,No,Medication,Retired,0
+36,Male,France,27,16,Severe,9.8,Moderate,Yes,,Student,0
+25,Male,France,20,20,Medium,3.4,Low,No,,Employed,0
+65,Female,Australia,3,19,Severe,11.6,Low,Yes,,Employed,0
+62,Female,Canada,9,10,Medium,3.6,High,No,Therapy,Retired,0
+18,Female,South Africa,20,1,Severe,8.2,Low,No,Medication,Employed,0
+39,Male,India,19,9,Low,11.1,,No,,Employed,1
+69,Female,South Africa,15,9,Severe,3.1,,Yes,Therapy,Student,1
+34,Male,South Africa,7,10,Severe,7.5,Low,Yes,Medication,Employed,0
+80,Female,France,3,5,Severe,6.2,Moderate,No,Therapy,Unemployed,0
+24,Female,India,9,3,Low,8.2,Moderate,Yes,,Employed,0
+42,Male,India,11,11,Low,5.0,Low,No,Therapy,Unemployed,0
+62,Male,Australia,13,10,High,3.6,,Yes,Therapy,Retired,1
+21,Female,Japan,15,12,Low,8.6,Moderate,No,Both,Student,0
+53,Female,Germany,21,4,Low,6.8,Moderate,No,Medication,Unemployed,0
+23,Female,United Kingdom,17,5,Low,8.6,High,No,,Employed,0
+77,Male,United Kingdom,20,0,Medium,4.9,High,Yes,,Student,0
+48,Male,France,21,5,Medium,6.0,High,No,Therapy,Employed,0
+36,Male,Germany,20,17,Low,8.1,Moderate,Yes,Therapy,Unemployed,0
+78,Male,Japan,11,21,Low,8.3,Moderate,No,Both,Employed,0
+61,Male,Germany,17,8,Medium,6.4,,Yes,Therapy,Student,1
+71,Male,Australia,6,14,Medium,5.5,Moderate,No,Both,Retired,0
+56,Female,South Africa,19,7,Low,5.5,,No,Therapy,Unemployed,1
+44,Female,France,23,18,Medium,4.6,High,No,Both,Employed,0
+27,Male,India,22,15,Severe,5.9,Low,No,Medication,Employed,0
+43,Female,France,6,5,Severe,4.8,Moderate,Yes,Medication,Student,0
+36,Female,United Kingdom,8,5,Severe,8.7,,No,Therapy,Employed,1
+56,Male,Japan,0,21,Severe,8.1,Moderate,Yes,Both,Employed,0
+79,Female,Germany,25,2,Medium,6.4,Low,No,Therapy,Employed,0
+20,Male,Japan,5,9,High,5.9,Low,No,Both,Student,0
+62,Male,Australia,5,0,Medium,5.1,Low,No,Medication,Unemployed,0
+30,Female,France,21,13,High,7.8,,Yes,Therapy,Employed,1
+67,Male,Canada,11,3,Medium,11.3,Low,Yes,Both,Employed,0
+45,Male,France,21,11,High,9.2,Low,No,Both,Employed,0
+79,Male,India,11,5,Medium,9.7,High,No,Medication,Employed,0
+75,Male,France,9,10,Low,10.5,Low,Yes,Therapy,Student,0
+37,Male,Brazil,22,11,High,6.2,Low,Yes,Both,Employed,0
+45,Male,Australia,25,9,Low,3.6,High,Yes,Medication,Employed,0
+25,Male,United States,5,17,Medium,8.6,Moderate,No,Medication,Student,0
+78,Male,Australia,16,6,Low,4.7,Low,No,Both,Student,0
+80,Female,Germany,18,6,Medium,8.1,Low,Yes,,Employed,0
+58,Female,United States,17,10,Low,9.7,Moderate,Yes,,Student,0
+56,Female,Germany,5,3,Severe,10.1,Low,No,Medication,Employed,0
+18,Male,Germany,23,19,Medium,5.7,Low,Yes,,Employed,0
+20,Male,India,18,0,Medium,7.6,Moderate,No,Medication,Employed,0
+30,Female,India,9,12,Medium,8.6,,No,,Retired,1
+45,Female,South Africa,23,17,High,10.4,High,No,,Employed,0
+79,Female,United Kingdom,7,8,High,9.9,Low,No,Therapy,Unemployed,0
+74,Male,South Africa,20,8,High,11.9,Moderate,No,Therapy,Unemployed,0
+80,Female,South Africa,23,8,High,3.1,Moderate,Yes,,Retired,0
+77,Female,United Kingdom,5,9,Severe,6.9,Low,No,,Student,0
+66,Male,Canada,20,1,Severe,5.3,High,Yes,Therapy,Unemployed,0
+42,Female,United States,24,5,High,4.1,High,No,Medication,Retired,0
+73,Male,Japan,6,14,Low,11.2,Low,Yes,Both,Employed,0
+50,Male,South Africa,23,2,High,12.0,High,No,,Employed,0
+55,Male,France,0,10,Medium,4.6,,Yes,Therapy,Retired,1
+70,Female,France,26,5,High,3.3,High,Yes,Therapy,Employed,0
+23,Female,Germany,17,2,High,5.5,Low,Yes,Therapy,Employed,0
+75,Male,United Kingdom,23,10,High,10.5,Low,No,Both,Unemployed,0
+61,Female,Germany,27,14,High,5.6,Low,No,Therapy,Employed,0
+62,Female,Brazil,24,12,Low,3.5,Low,Yes,Therapy,Student,0
+49,Female,Brazil,19,19,Low,3.5,Low,Yes,,Employed,0
+62,Female,Japan,11,9,Medium,6.8,High,Yes,Both,Employed,0
+78,Male,India,15,5,Severe,11.4,High,Yes,Therapy,Unemployed,0
+64,Female,India,9,14,High,5.6,,No,Medication,Employed,1
+38,Male,United Kingdom,26,17,High,6.8,,No,Therapy,Unemployed,1
+33,Male,United Kingdom,9,17,High,3.9,High,No,Therapy,Employed,0
+71,Female,South Africa,13,6,High,7.4,Low,No,Both,Employed,0
+38,Male,Brazil,24,14,Severe,9.3,,No,,Student,1
+28,Female,South Africa,19,17,High,5.4,Moderate,No,Medication,Employed,0
+77,Female,India,9,17,High,5.7,Low,Yes,Medication,Unemployed,0
+54,Male,United States,9,19,High,10.6,Low,Yes,,Student,0
+53,Male,United States,25,8,Low,3.1,Moderate,No,,Unemployed,0
+52,Male,United Kingdom,24,1,High,8.7,Moderate,Yes,Medication,Employed,0
+36,Male,Germany,10,7,Medium,6.5,,Yes,Therapy,Student,1
+37,Female,India,22,19,Low,5.7,High,No,Therapy,Student,0
+74,Female,United States,1,1,High,8.9,Moderate,No,,Unemployed,0
+35,Female,India,24,10,Medium,10.5,Low,No,Medication,Employed,0
+64,Male,Australia,19,6,Severe,8.0,Low,No,Both,Employed,0
+58,Male,France,7,5,Medium,3.3,,Yes,Both,Employed,1
+66,Male,Brazil,22,9,Medium,7.2,Low,No,Therapy,Employed,0
+31,Female,South Africa,6,4,Medium,7.2,,Yes,Therapy,Employed,1
+32,Male,India,7,10,Low,7.9,Low,No,,Employed,0
+48,Female,France,0,0,Medium,9.0,,No,,Retired,1
+18,Male,Australia,20,1,Medium,3.2,Moderate,No,Both,Employed,0
+70,Female,South Africa,1,0,Low,7.5,Moderate,No,Medication,Student,0
+71,Female,India,17,18,Medium,8.3,Moderate,No,Medication,Employed,0
+71,Male,United Kingdom,14,1,Low,6.1,Moderate,No,Therapy,Employed,0
+20,Male,France,0,20,High,9.0,High,Yes,Both,Employed,0
+33,Female,South Africa,4,19,Low,5.1,Moderate,No,Both,Retired,0
+40,Female,India,1,20,High,5.9,Low,No,Therapy,Unemployed,0
+74,Male,France,19,3,High,11.7,Low,No,,Employed,0
+28,Male,Australia,2,11,Medium,6.1,High,No,Therapy,Employed,0
+29,Female,India,18,21,Severe,6.1,,No,,Unemployed,1
+27,Male,India,17,19,High,8.4,Low,Yes,Both,Retired,0
+49,Female,India,21,17,High,11.7,Moderate,Yes,Therapy,Employed,0
+33,Female,Japan,17,0,Low,11.8,Moderate,No,Medication,Employed,0
+25,Male,United Kingdom,13,0,High,8.2,Moderate,No,Medication,Unemployed,0
+55,Male,Australia,23,13,High,3.0,Low,Yes,Therapy,Employed,0
+29,Male,South Africa,7,3,Medium,11.1,,No,,Employed,1
+41,Male,Japan,11,4,Low,8.1,High,No,Both,Retired,0
+45,Male,Germany,20,10,Medium,6.3,,No,,Unemployed,1
+70,Female,Japan,9,12,High,10.5,,Yes,Medication,Student,1
+25,Female,Brazil,22,15,Medium,6.6,Low,No,Medication,Employed,0
+75,Male,Brazil,19,12,High,3.3,Moderate,No,,Employed,0
+45,Male,India,16,21,Low,10.4,Moderate,No,Both,Retired,0
+53,Male,Japan,10,1,High,7.9,High,Yes,Therapy,Retired,0
+43,Female,Germany,1,15,Medium,6.0,,Yes,Medication,Unemployed,1
+25,Male,Japan,25,5,Low,5.3,Low,Yes,Medication,Employed,0
+75,Male,United Kingdom,25,13,Medium,8.3,Low,No,Therapy,Student,0
+77,Female,United Kingdom,3,0,Low,4.9,High,Yes,,Employed,0
+67,Female,Germany,0,16,Low,5.9,Low,No,Medication,Employed,0
+45,Male,Japan,14,10,Medium,8.7,,Yes,Medication,Employed,1
+45,Male,France,12,18,Medium,10.9,Moderate,Yes,,Employed,0
+54,Male,United Kingdom,7,2,Severe,7.8,Low,Yes,Medication,Employed,0
+58,Female,United Kingdom,24,10,High,9.8,Moderate,No,Medication,Retired,0
+53,Male,United States,3,4,Medium,9.9,High,No,Therapy,Student,0
+44,Male,Japan,9,16,Low,9.0,Low,No,,Unemployed,0
+71,Male,United Kingdom,18,21,Medium,5.2,Low,No,Therapy,Employed,0
+80,Female,Australia,17,6,High,10.8,Low,Yes,,Unemployed,0
+34,Female,Japan,4,9,Medium,6.9,Low,No,Therapy,Employed,0
+26,Male,Brazil,18,10,Low,3.4,,No,Both,Student,1
+50,Male,United States,25,2,Medium,5.2,Moderate,No,,Employed,0
+70,Female,United Kingdom,22,19,High,9.9,Low,Yes,Therapy,Student,0
+37,Female,United States,26,9,Medium,3.6,High,No,Medication,Student,0
+30,Female,Brazil,21,9,High,4.3,Low,Yes,,Unemployed,0
+45,Female,Germany,15,13,Medium,9.2,Low,Yes,,Student,0
+65,Female,Germany,0,11,Low,11.0,Low,Yes,Medication,Employed,0
+46,Female,Japan,11,14,Medium,8.7,Moderate,Yes,Medication,Student,0
+30,Female,Brazil,23,9,Medium,5.0,Low,No,Medication,Employed,0
+63,Female,Canada,1,9,Low,3.5,Moderate,No,Medication,Unemployed,0
+52,Female,Canada,20,18,Low,8.5,Moderate,No,Therapy,Employed,0
+78,Male,Japan,24,0,Low,3.4,High,Yes,Both,Employed,0
+23,Male,India,7,9,Low,8.5,Moderate,Yes,,Unemployed,0
+35,Male,United States,17,1,Medium,5.0,,Yes,Therapy,Student,1
+68,Female,United States,24,16,Severe,11.1,Moderate,No,Therapy,Unemployed,0
+22,Male,Germany,15,6,Medium,7.3,High,Yes,,Employed,0
+64,Female,Canada,4,6,High,5.0,High,No,Therapy,Student,0
+42,Female,South Africa,25,19,Medium,10.7,,Yes,Medication,Employed,1
+19,Male,United Kingdom,21,8,Medium,5.3,Moderate,No,Therapy,Student,0
+27,Female,United Kingdom,12,21,Low,5.8,,Yes,Therapy,Unemployed,1
+73,Male,United Kingdom,18,1,Medium,10.5,Low,Yes,Medication,Student,0
+47,Male,Germany,2,13,Medium,5.8,Moderate,Yes,Medication,Student,0
+67,Male,Brazil,25,16,Low,6.7,High,Yes,Therapy,Employed,0
+76,Female,France,7,0,High,6.1,Moderate,Yes,Therapy,Employed,0
+62,Male,Canada,26,8,Medium,4.0,High,No,Therapy,Unemployed,0
+22,Female,Canada,25,19,Medium,3.4,,Yes,,Employed,1
+72,Male,South Africa,25,20,Low,9.5,,Yes,Medication,Unemployed,1
+73,Male,United States,11,18,Medium,8.8,Moderate,Yes,,Retired,0
+50,Male,India,1,3,High,5.5,Low,No,,Employed,0
+71,Female,Japan,10,7,Medium,5.7,High,No,,Unemployed,0
+18,Female,United States,11,12,Low,11.5,Low,No,Both,Employed,0
+35,Female,Brazil,27,3,Medium,11.9,Low,Yes,,Student,0
+49,Male,Japan,17,8,Low,7.3,Moderate,Yes,Medication,Employed,0
+64,Male,Canada,12,8,High,10.2,Low,Yes,,Student,0
+66,Female,Brazil,4,21,High,9.6,High,No,Medication,Retired,0
+28,Female,Japan,21,17,Low,5.7,Low,No,Both,Student,0
+38,Female,South Africa,11,11,Low,3.5,Low,No,Therapy,Employed,0
+43,Female,South Africa,1,9,High,4.3,Moderate,No,Both,Employed,0
+80,Female,Australia,4,10,Medium,10.5,Low,No,Medication,Employed,0
+42,Female,France,6,6,Low,9.6,Moderate,No,Medication,Student,0
+39,Male,South Africa,25,8,High,9.0,,Yes,Medication,Unemployed,1
+76,Female,Canada,25,5,Medium,4.2,,Yes,,Student,1
+44,Male,India,23,18,Medium,8.8,High,No,Therapy,Unemployed,0
+66,Male,United Kingdom,11,15,Low,9.9,Moderate,Yes,Both,Unemployed,0
+30,Female,Australia,15,14,High,10.7,Low,No,Therapy,Employed,0
+50,Female,United Kingdom,22,6,Medium,3.1,Moderate,No,Both,Student,0
+51,Male,France,7,15,Severe,9.2,High,No,Medication,Student,0
+58,Female,Japan,27,4,High,3.2,Low,Yes,Therapy,Unemployed,0
+52,Female,Germany,8,15,Low,9.4,,No,Medication,Student,1
+80,Male,South Africa,14,0,Medium,8.7,Moderate,No,Both,Student,0
+18,Male,India,4,18,Medium,4.3,,Yes,Therapy,Employed,1
+38,Male,France,12,4,Medium,9.9,,Yes,,Employed,1
+65,Female,United Kingdom,4,6,High,3.6,High,Yes,Medication,Student,0
+72,Male,Australia,10,18,Medium,10.4,,No,Both,Employed,1
+23,Female,South Africa,9,21,Low,5.4,Moderate,Yes,Medication,Employed,0
+45,Male,Canada,19,4,High,9.2,Moderate,No,,Student,0
+34,Male,South Africa,12,16,Low,11.3,Moderate,No,,Employed,0
+22,Male,Australia,8,21,High,6.1,Moderate,Yes,Both,Employed,0
+48,Female,Australia,20,7,High,7.5,Low,No,,Unemployed,0
+22,Female,Germany,13,0,Medium,7.2,,Yes,Therapy,Student,1
+55,Male,South Africa,17,1,Medium,4.4,,No,,Employed,1
+20,Male,South Africa,14,14,High,8.3,Moderate,Yes,Therapy,Employed,0
+70,Male,Germany,9,19,High,9.7,Low,Yes,Therapy,Employed,0
+40,Female,Brazil,23,17,Medium,11.3,,Yes,,Student,1
+54,Male,Brazil,6,10,Medium,10.7,High,No,Medication,Student,0
+70,Female,Japan,7,9,Medium,7.6,High,Yes,Therapy,Unemployed,0
+54,Male,Brazil,27,3,Low,9.5,Low,Yes,Therapy,Employed,0
+27,Male,United States,2,4,Low,10.2,,Yes,Therapy,Employed,1
+27,Male,South Africa,14,3,Low,7.4,Moderate,Yes,Both,Retired,0
+36,Male,India,15,12,Low,4.0,Moderate,No,Medication,Employed,0
+34,Male,South Africa,3,12,Medium,6.9,,No,,Employed,1
+38,Male,United States,20,17,Severe,10.6,,No,,Employed,1
+31,Female,United States,5,1,High,8.4,Moderate,Yes,Medication,Retired,0
+26,Male,United Kingdom,0,15,Low,9.5,High,Yes,Both,Employed,0
+63,Female,South Africa,3,0,Medium,4.7,Moderate,No,Therapy,Employed,0
+18,Male,France,10,18,Medium,11.7,Low,No,,Employed,0
+68,Male,United States,11,8,Low,6.6,Low,Yes,Medication,Unemployed,0
+62,Female,India,25,2,Severe,8.9,Moderate,No,Medication,Unemployed,0
+30,Male,Germany,4,6,Medium,3.2,,No,Medication,Employed,1
+21,Female,Japan,22,9,Severe,4.1,Low,Yes,,Employed,0
+79,Female,United Kingdom,20,0,Medium,10.0,Low,No,,Employed,0
+18,Male,Germany,15,9,High,11.7,Moderate,Yes,Therapy,Student,0
+66,Female,United Kingdom,12,20,Low,5.9,Moderate,No,,Unemployed,0
+57,Female,India,12,8,Medium,3.3,Moderate,No,Both,Student,0
+49,Male,Australia,16,14,Low,6.2,Moderate,Yes,,Employed,0
+51,Female,South Africa,26,14,High,3.2,High,No,Medication,Employed,0
+45,Male,Canada,6,2,High,4.7,Moderate,No,Therapy,Employed,0
+48,Male,France,7,4,High,9.8,Low,No,Therapy,Employed,0
+25,Male,Germany,12,8,High,11.4,Low,Yes,Both,Retired,0
+56,Male,South Africa,22,21,High,3.8,Moderate,No,Medication,Employed,0
+43,Female,France,26,8,Low,8.0,,No,Both,Student,1
+75,Male,Australia,15,6,Medium,5.3,High,Yes,,Employed,0
+51,Male,Canada,3,11,High,4.3,,Yes,,Student,1
+71,Female,France,7,8,High,5.0,Low,No,,Student,0
+71,Male,France,15,5,High,8.2,Moderate,No,Therapy,Student,0
+20,Male,Germany,20,1,Low,3.6,Moderate,Yes,Therapy,Student,0
+76,Female,Brazil,9,8,Low,6.9,Moderate,No,Both,Employed,0
+67,Female,Canada,24,16,Severe,4.2,Moderate,No,Therapy,Employed,0
+29,Female,South Africa,11,0,Medium,5.5,Low,Yes,Both,Student,0
+18,Female,Australia,11,18,Low,4.7,Low,Yes,Therapy,Unemployed,0
+71,Female,Canada,25,5,High,10.9,High,No,Medication,Student,0
+61,Female,India,4,4,Severe,9.4,Low,No,Therapy,Retired,0
+22,Female,Brazil,15,1,Low,10.8,Low,No,,Employed,0
+47,Male,India,0,8,High,6.5,Low,Yes,Both,Student,0
+47,Female,Australia,27,13,Severe,5.8,,No,,Retired,1
+76,Female,Germany,8,3,Severe,6.4,Moderate,No,Medication,Employed,0
+74,Female,Germany,11,3,Severe,3.2,Moderate,Yes,Medication,Employed,0
+34,Male,Australia,4,20,Medium,9.5,Moderate,Yes,Both,Employed,0
+65,Male,United Kingdom,21,14,Medium,6.1,Moderate,No,Medication,Unemployed,0
+80,Female,Australia,19,7,Low,5.8,,Yes,Therapy,Employed,1
+64,Female,Brazil,21,3,Low,8.4,Low,Yes,Medication,Student,0
+40,Female,United States,27,15,Medium,6.9,,Yes,,Student,1
+32,Male,Germany,23,20,Medium,11.8,,Yes,Therapy,Unemployed,1
+54,Male,Japan,2,3,Low,6.2,Low,No,,Student,0
+38,Female,Brazil,4,15,Medium,8.5,Low,Yes,Therapy,Student,0
+31,Male,Brazil,1,21,Low,5.8,Moderate,No,,Employed,0
+19,Female,Brazil,13,11,High,11.9,Moderate,No,Both,Unemployed,0
+28,Male,France,1,15,Medium,7.0,High,No,Therapy,Employed,0
+68,Male,Brazil,12,18,Medium,8.7,Moderate,Yes,Both,Employed,0
+56,Female,Germany,6,7,Medium,4.1,,No,,Unemployed,1
+55,Female,United States,9,5,Low,9.6,Low,No,Medication,Student,0
+77,Female,United States,12,9,Severe,5.4,Low,No,Therapy,Employed,0
+51,Female,Brazil,15,4,Medium,7.0,Low,No,Therapy,Retired,0
+55,Male,India,25,17,Medium,10.9,,No,Both,Unemployed,1
+67,Male,Germany,13,9,Low,11.7,,No,Both,Student,1
+51,Male,Germany,10,9,Medium,6.8,Moderate,No,,Employed,0
+35,Female,Canada,9,6,Low,10.5,Moderate,No,Both,Student,0
+47,Male,South Africa,5,17,Medium,3.5,Moderate,Yes,Medication,Retired,0
+32,Female,United Kingdom,3,0,Medium,10.6,Low,Yes,Both,Retired,0
+44,Male,United Kingdom,20,6,Severe,8.7,Moderate,No,Medication,Student,0
+68,Female,India,0,20,High,7.4,Moderate,Yes,Both,Employed,0
+80,Female,United Kingdom,6,0,Low,11.0,Moderate,No,Both,Unemployed,0
+51,Male,Canada,23,14,Low,10.6,,Yes,,Student,1
+69,Female,Australia,8,3,Medium,5.7,Moderate,No,Therapy,Student,0
+74,Female,United Kingdom,7,19,Low,10.1,Moderate,No,,Student,0
+55,Male,Germany,4,9,Low,3.9,,Yes,Medication,Employed,1
+50,Female,Australia,18,8,High,10.4,,No,Both,Unemployed,1
+41,Female,United Kingdom,9,1,Low,9.1,,No,Medication,Retired,1
+32,Female,Germany,10,13,High,3.8,Moderate,No,Medication,Student,0
+77,Male,Germany,24,15,Low,9.1,Moderate,No,Therapy,Student,0
+47,Male,Brazil,14,0,Severe,8.2,Low,Yes,,Employed,0
+72,Female,United States,5,1,High,8.4,Low,No,,Unemployed,0
+59,Male,India,14,6,High,5.6,High,Yes,Medication,Employed,0
+68,Female,Canada,4,9,Low,5.4,Low,Yes,,Employed,0
+34,Female,France,18,21,Severe,9.9,,No,,Employed,1
+22,Female,South Africa,21,19,High,5.3,Low,No,Therapy,Student,0
+46,Female,United Kingdom,18,0,High,7.0,Moderate,No,,Employed,0
+21,Female,United Kingdom,9,12,Medium,9.3,Moderate,No,,Retired,0
+27,Male,Australia,11,0,High,3.7,Low,Yes,,Student,0
+73,Female,Australia,21,4,Low,8.4,High,No,Both,Employed,0
+34,Male,South Africa,3,15,Medium,8.3,Moderate,No,,Employed,0
+27,Male,United Kingdom,17,14,High,9.2,,Yes,Both,Employed,1
+34,Female,Japan,15,16,Medium,6.3,Moderate,No,,Employed,0
+77,Female,Canada,7,15,Low,7.0,,No,Both,Employed,1
+37,Male,United Kingdom,3,12,Medium,6.0,Moderate,Yes,Medication,Unemployed,0
+41,Male,United States,24,10,High,10.3,Low,No,Both,Employed,0
+22,Male,South Africa,22,16,Low,4.2,Moderate,Yes,Both,Employed,0
+51,Female,Japan,11,16,Low,11.7,Low,Yes,Medication,Student,0
+23,Male,Canada,1,1,Low,8.7,High,No,Both,Unemployed,0
+70,Female,United Kingdom,3,12,High,11.0,Low,No,Medication,Employed,0
+19,Female,France,4,13,Low,6.8,Moderate,No,Medication,Unemployed,0
+30,Female,Brazil,2,10,High,6.0,Low,No,Therapy,Employed,0
+79,Male,United States,8,9,Medium,11.1,High,No,Both,Student,0
+60,Female,France,20,2,High,3.9,Moderate,No,Both,Student,0
+60,Female,Australia,17,16,Severe,4.1,Low,Yes,,Retired,0
+65,Female,Australia,10,14,Low,5.7,High,No,Medication,Employed,0
+28,Female,United Kingdom,2,8,Medium,11.6,Low,Yes,Both,Student,0
+68,Female,Australia,24,9,High,8.7,Moderate,No,Medication,Student,0
+64,Male,United States,22,7,Medium,8.0,Moderate,No,Both,Employed,0
+74,Female,Canada,1,20,Low,9.3,,Yes,,Student,1
+40,Female,Germany,8,12,High,6.8,High,No,Therapy,Employed,0
+72,Male,India,13,17,Severe,9.8,Low,No,Therapy,Student,0
+33,Female,South Africa,3,4,Medium,6.5,,Yes,,Employed,1
+48,Male,Canada,8,5,Medium,10.4,High,Yes,Therapy,Student,0
+28,Female,Germany,12,16,Medium,5.4,Moderate,No,Therapy,Employed,0
+71,Male,Japan,17,10,Low,5.5,,Yes,,Employed,1
+33,Male,United States,14,19,High,7.7,,No,Therapy,Student,1
+25,Female,France,27,15,High,6.9,Moderate,No,,Employed,0
+21,Female,Germany,9,8,Severe,8.8,,No,Medication,Employed,1
+57,Female,United States,15,1,Low,6.3,High,Yes,Therapy,Student,0
+21,Male,Brazil,11,4,Medium,5.1,Moderate,No,,Employed,0
+73,Male,France,19,0,Low,7.2,Low,Yes,Therapy,Employed,0
+42,Male,Australia,4,3,Medium,8.0,Low,No,,Employed,0
+20,Female,Australia,1,3,High,4.3,Moderate,Yes,Both,Student,0
+49,Male,France,9,21,Low,8.0,Low,No,Therapy,Employed,0
+20,Male,Japan,0,2,High,5.9,Moderate,No,Both,Student,0
+44,Female,Japan,6,8,High,6.5,High,No,Therapy,Employed,0
+46,Male,Japan,25,21,Severe,5.5,Moderate,Yes,Both,Employed,0
+49,Male,Germany,16,11,High,11.4,Low,Yes,,Employed,0
+67,Female,South Africa,15,9,High,9.2,Low,No,,Unemployed,0
+78,Male,Germany,26,1,Medium,5.4,Moderate,Yes,Both,Student,0
+75,Female,United Kingdom,26,10,Low,8.8,Moderate,No,,Retired,0
+68,Female,India,23,9,Medium,10.6,Moderate,Yes,Medication,Student,0
+36,Female,France,2,21,Medium,6.6,,No,Therapy,Unemployed,1
+38,Female,Canada,13,5,High,10.5,High,No,Medication,Employed,0
+22,Female,India,9,17,High,4.4,Low,Yes,Both,Unemployed,0
+35,Male,Brazil,21,1,Medium,10.4,Moderate,No,Both,Student,0
+45,Male,Germany,6,1,Medium,7.9,Moderate,Yes,Therapy,Employed,0
+59,Female,Germany,25,9,Low,5.0,Moderate,Yes,Therapy,Employed,0
+78,Female,United States,16,15,High,6.7,Low,Yes,Both,Retired,0
+39,Male,India,5,11,High,11.9,Moderate,No,Both,Retired,0
+38,Female,United States,22,0,High,10.1,,No,,Student,1
+23,Female,Canada,21,20,Medium,8.2,Moderate,No,Medication,Employed,0
+18,Female,United States,3,7,Medium,4.0,,Yes,,Employed,1
+22,Male,India,16,15,High,6.8,Low,No,Both,Student,0
+58,Male,France,26,17,High,5.4,,Yes,,Student,1
+29,Female,Brazil,8,12,Medium,3.6,Moderate,Yes,Medication,Retired,0
+43,Female,Germany,3,14,High,7.9,Moderate,Yes,Medication,Employed,0
+63,Male,Canada,6,20,Medium,11.0,Moderate,No,Both,Student,0
+51,Male,Germany,22,11,High,9.1,Moderate,No,Both,Student,0
+66,Female,United Kingdom,1,7,High,5.2,Moderate,Yes,,Employed,0
+31,Female,Brazil,16,9,High,8.2,,No,Medication,Employed,1
+43,Male,South Africa,23,13,Medium,11.5,Moderate,Yes,Both,Employed,0
+62,Male,United States,7,4,Medium,9.5,Moderate,No,Medication,Employed,0
+44,Male,Australia,22,17,High,9.2,,Yes,Medication,Student,1
+26,Female,India,14,18,High,11.7,Low,Yes,Medication,Employed,0
+43,Male,Germany,14,14,Medium,10.2,Low,No,Therapy,Student,0
+74,Female,United States,7,5,High,4.2,,No,Medication,Unemployed,1
+64,Male,Canada,15,10,Low,6.1,Low,No,,Student,0
+74,Male,Germany,18,20,Severe,11.7,,No,Therapy,Unemployed,1
+39,Male,South Africa,10,10,High,7.4,Moderate,No,Both,Employed,0
+64,Male,Brazil,1,19,Medium,4.0,Low,No,,Employed,0
+73,Female,Brazil,22,19,Medium,7.1,Low,No,Therapy,Employed,0
+47,Female,Germany,23,20,Low,9.3,High,Yes,Therapy,Employed,0
+60,Male,Canada,16,17,Low,12.0,Moderate,No,,Unemployed,0
+80,Female,Brazil,27,17,Medium,5.9,Low,No,Both,Employed,0
+65,Male,Brazil,25,9,High,7.6,Moderate,Yes,Medication,Student,0
+78,Male,South Africa,15,1,Severe,10.9,Low,No,,Employed,0
+34,Male,India,24,8,Medium,6.2,,Yes,Therapy,Student,1
+43,Male,Canada,14,13,Medium,4.0,,No,Therapy,Employed,1
+53,Female,Canada,12,18,Medium,11.5,High,Yes,,Student,0
+18,Male,France,14,9,Low,7.4,Moderate,Yes,Medication,Employed,0
+25,Male,France,26,3,Low,7.5,Moderate,Yes,Therapy,Employed,0
+66,Female,Brazil,3,5,High,8.6,High,No,Medication,Student,0
+52,Male,Australia,15,13,Severe,3.0,High,Yes,,Employed,0
+78,Male,France,11,3,Medium,11.4,Moderate,No,Therapy,Employed,0
+69,Male,Brazil,3,14,High,6.3,Moderate,No,,Student,0
+32,Female,Japan,2,15,Severe,6.6,Low,Yes,,Employed,0
+64,Male,United Kingdom,21,6,Low,4.6,,No,Both,Employed,1
+80,Female,United Kingdom,16,16,High,6.4,Moderate,Yes,,Student,0
+73,Male,Canada,21,18,High,10.2,Moderate,No,,Retired,0
+39,Male,Australia,17,18,Medium,10.2,High,No,Both,Employed,0
+31,Female,South Africa,24,16,Medium,11.4,Low,Yes,Medication,Student,0
+43,Male,India,17,5,High,6.6,Moderate,Yes,,Unemployed,0
+45,Male,France,22,10,High,9.4,Moderate,No,Both,Employed,0
+40,Female,Japan,27,15,Low,7.6,,No,,Employed,1
+31,Female,Brazil,16,7,Medium,10.2,Moderate,Yes,Medication,Employed,0
+41,Female,Australia,11,10,Low,9.4,Moderate,Yes,,Unemployed,0
+19,Female,Canada,22,6,Severe,6.3,Low,No,Medication,Unemployed,0
+62,Female,France,20,21,Medium,6.0,Moderate,Yes,Therapy,Employed,0
+43,Male,Australia,23,18,High,5.3,,No,,Student,1
+31,Female,France,3,9,Medium,8.2,Low,No,Medication,Employed,0
+76,Male,India,11,8,Low,11.7,Moderate,Yes,Medication,Employed,0
+73,Male,India,25,3,Low,4.8,Low,No,Medication,Student,0
+68,Male,South Africa,22,14,Medium,3.9,Low,No,Both,Employed,0
+24,Female,United Kingdom,21,12,Low,4.1,,No,Therapy,Employed,1
+20,Female,United States,20,1,Medium,10.0,,No,Therapy,Unemployed,1
+64,Male,United States,19,1,Low,6.2,Low,No,Medication,Employed,0
+40,Female,France,14,15,Medium,5.0,Low,No,Medication,Student,0
+63,Female,South Africa,22,8,Medium,6.2,Moderate,Yes,Therapy,Unemployed,0
+60,Female,United States,27,12,Medium,8.8,High,No,Therapy,Unemployed,0
+64,Female,Canada,15,2,High,7.9,,Yes,Medication,Employed,1
+77,Male,United States,4,8,High,9.7,,Yes,Both,Student,1
+62,Male,Germany,20,12,Severe,6.1,Low,No,Medication,Employed,0
+35,Female,Brazil,14,20,Low,7.1,Low,No,,Unemployed,0
+75,Male,South Africa,16,21,Medium,3.9,Moderate,No,Medication,Student,0
+55,Female,Canada,17,1,Medium,3.7,Moderate,Yes,Both,Employed,0
+52,Female,Australia,4,7,Medium,7.2,Moderate,No,Both,Employed,0
+68,Male,Canada,12,8,High,5.7,,No,Both,Employed,1
+32,Male,United Kingdom,18,15,Medium,8.5,High,No,Both,Unemployed,0
+42,Male,Australia,12,1,Medium,3.4,,No,Therapy,Employed,1
+72,Female,Japan,17,5,Medium,4.1,Moderate,No,Therapy,Employed,0
+54,Male,Brazil,13,21,Severe,10.8,Moderate,No,Medication,Employed,0
+45,Female,Brazil,3,7,Severe,8.1,Moderate,Yes,Therapy,Student,0
+27,Male,Brazil,3,4,Medium,9.4,Low,No,Therapy,Employed,0
+56,Male,Brazil,19,8,Low,10.6,Low,Yes,Both,Unemployed,0
+74,Female,France,19,0,High,7.2,Moderate,No,Medication,Retired,0
+34,Female,Brazil,18,8,Severe,9.8,,No,Both,Employed,1
+56,Female,Brazil,12,9,Medium,7.7,,Yes,Both,Student,1
+39,Female,Brazil,11,3,Medium,5.0,Moderate,No,,Retired,0
+43,Female,South Africa,6,2,Severe,6.0,Low,No,Both,Employed,0
+79,Female,France,24,9,High,7.4,Moderate,Yes,,Retired,0
+61,Female,India,11,14,Medium,5.9,,Yes,Medication,Student,1
+42,Female,Canada,20,10,Medium,6.0,Moderate,Yes,,Employed,0
+34,Male,Canada,3,13,Severe,6.0,,Yes,Therapy,Student,1
+30,Female,Australia,26,5,High,4.1,High,No,Both,Unemployed,0
+37,Female,South Africa,1,11,High,3.8,Low,No,Therapy,Unemployed,0
+42,Male,Germany,1,12,High,3.4,Moderate,Yes,Medication,Employed,0
+21,Female,Canada,4,16,Low,4.0,High,No,,Student,0
+27,Male,United States,22,15,High,6.1,Low,No,,Student,0
+20,Male,Germany,9,2,Medium,8.3,,No,Therapy,Employed,1
+58,Female,Brazil,9,1,Severe,4.7,Low,Yes,Medication,Employed,0
+62,Male,Brazil,8,10,Medium,11.0,Low,No,,Employed,0
+35,Female,France,12,8,Severe,10.3,Moderate,Yes,Therapy,Employed,0
+64,Male,Germany,6,2,Medium,7.7,Low,No,Medication,Employed,0
+53,Male,United States,4,17,Medium,9.5,High,No,,Student,0
+64,Male,France,25,19,Low,6.3,Moderate,Yes,Therapy,Employed,0
+39,Female,Australia,9,14,High,3.3,,No,Both,Employed,1
+51,Female,Germany,9,13,High,11.1,Moderate,No,Therapy,Retired,0
+64,Male,South Africa,5,1,High,4.2,Low,Yes,Therapy,Employed,0
+25,Male,Brazil,26,16,Medium,11.5,Low,No,Medication,Employed,0
+57,Female,Brazil,27,21,Low,8.1,Low,No,Medication,Employed,0
+66,Female,United Kingdom,18,7,Severe,5.8,Moderate,No,Medication,Retired,0
+61,Male,France,20,9,High,7.5,Low,No,Both,Student,0
+36,Male,India,7,17,High,7.5,Moderate,Yes,,Employed,0
+59,Female,India,0,18,High,3.2,,No,Both,Retired,1
+58,Female,France,27,7,High,6.2,High,No,Both,Employed,0
+54,Female,South Africa,16,7,Medium,9.7,Moderate,Yes,Both,Employed,0
+23,Female,Japan,6,2,High,7.6,Low,No,Therapy,Student,0
+69,Female,France,13,2,High,5.2,Moderate,No,Both,Unemployed,0
+43,Male,South Africa,20,11,Severe,6.0,Moderate,No,,Student,0
+51,Female,Australia,20,21,High,10.8,,No,Medication,Student,1
+76,Male,Brazil,16,16,Low,7.7,,Yes,,Student,1
+73,Female,United States,8,3,Medium,7.8,,Yes,Both,Student,1
+76,Male,Japan,16,16,Low,11.7,Moderate,Yes,Medication,Retired,0
+62,Female,Germany,4,13,Low,5.9,Moderate,No,,Employed,0
+23,Female,Japan,25,18,High,7.3,Low,Yes,Both,Employed,0
+54,Male,United States,24,8,Severe,10.3,,Yes,Medication,Retired,1
+74,Male,United Kingdom,19,20,Low,9.8,Low,Yes,Medication,Student,0
+50,Female,Brazil,7,11,Medium,5.4,Moderate,Yes,Therapy,Student,0
+70,Female,India,5,4,Severe,4.4,Moderate,No,Both,Employed,0
+39,Female,South Africa,10,10,High,9.3,High,No,Therapy,Employed,0
+38,Female,France,18,19,Medium,5.3,Low,Yes,Therapy,Employed,0
+23,Female,France,3,2,High,11.3,Low,No,Therapy,Student,0
+23,Male,India,17,20,Medium,4.2,Low,No,Medication,Employed,0
+72,Male,Japan,0,14,Low,5.9,Moderate,No,Medication,Employed,0
+65,Female,Brazil,12,13,Low,3.5,,No,Therapy,Employed,1
+21,Male,Canada,13,10,Low,9.3,Low,No,Therapy,Student,0
+47,Male,South Africa,23,19,Medium,11.0,Moderate,Yes,Medication,Employed,0
+28,Male,Australia,0,7,Severe,8.7,,No,Both,Employed,1
+79,Female,United States,10,3,High,11.4,Low,No,Medication,Employed,0
+79,Male,Japan,16,11,Medium,4.2,Moderate,Yes,Therapy,Retired,0
+47,Female,Germany,3,7,Medium,3.8,,Yes,Therapy,Retired,1
+48,Male,United Kingdom,25,5,Medium,10.5,Low,No,Therapy,Employed,0
+41,Female,France,11,14,High,10.7,Low,No,Both,Retired,0
+72,Male,Japan,9,11,High,10.5,Low,No,,Retired,0
+26,Female,United Kingdom,5,15,Low,10.2,,No,Medication,Employed,1
+72,Female,United States,24,15,Low,6.3,High,No,Therapy,Employed,0
+20,Male,France,0,20,High,5.0,,Yes,,Retired,1
+68,Female,France,6,19,Medium,11.4,Moderate,No,,Employed,0
+48,Female,Canada,25,19,Medium,5.8,,No,Both,Student,1
+57,Female,Japan,26,3,High,6.6,Low,No,Both,Employed,0
+54,Female,Brazil,20,10,Medium,9.3,,Yes,,Student,1
+53,Female,India,27,12,Medium,5.6,,Yes,Therapy,Employed,1
+41,Female,India,15,8,Medium,10.4,,No,,Student,1
+48,Female,Australia,23,3,Medium,3.6,Low,No,Medication,Student,0
+23,Female,Germany,13,11,Severe,10.1,Moderate,No,Medication,Student,0
+19,Male,United Kingdom,22,8,Severe,8.4,,No,Therapy,Unemployed,1
+37,Male,Japan,19,12,Severe,8.2,High,No,,Employed,0
+45,Female,South Africa,19,15,High,7.1,Low,No,Both,Student,0
+28,Female,Germany,5,5,Medium,5.5,Low,Yes,Medication,Student,0
+21,Male,Canada,21,9,High,7.2,Low,Yes,,Employed,0
+32,Male,France,24,12,Severe,7.1,Low,No,Medication,Retired,0
+23,Male,Brazil,27,6,Low,8.3,Moderate,Yes,Both,Student,0
+71,Female,Japan,4,18,Medium,5.5,Moderate,No,Medication,Student,0
+66,Male,Germany,23,18,High,3.7,Low,No,Therapy,Employed,0
+47,Female,Germany,20,16,High,4.3,Low,No,Medication,Employed,0
+73,Female,Brazil,17,12,Medium,9.3,Moderate,No,Medication,Employed,0
+55,Male,Australia,14,12,Medium,3.2,,No,Medication,Employed,1
+68,Female,United Kingdom,5,20,High,10.7,Low,No,Both,Employed,0
+79,Female,United Kingdom,24,1,Medium,9.2,,No,,Employed,1
+74,Female,Germany,18,9,High,9.9,Low,Yes,Medication,Retired,0
+19,Female,United States,0,21,Medium,10.5,,Yes,,Student,1
+32,Male,Germany,0,12,Severe,4.1,High,No,,Student,0
+28,Male,Germany,12,8,Medium,10.4,Moderate,No,Medication,Unemployed,0
+25,Female,Brazil,2,0,Medium,7.5,Moderate,No,Both,Unemployed,0
+43,Female,France,9,13,Low,11.0,Low,Yes,,Student,0
+68,Male,Brazil,20,15,Low,11.0,Moderate,Yes,Both,Retired,0
+62,Female,Japan,2,19,High,3.2,Moderate,No,Therapy,Employed,0
+61,Male,Germany,8,14,Medium,6.4,Moderate,No,Therapy,Employed,0
+22,Female,United Kingdom,7,0,Medium,7.7,,No,,Employed,1
+23,Female,South Africa,2,16,Low,9.1,High,No,Medication,Employed,0
+43,Male,United Kingdom,24,12,High,5.6,Low,No,Medication,Student,0
+71,Male,India,12,14,High,5.3,High,No,Therapy,Employed,0
+21,Male,Australia,5,15,Low,6.4,,Yes,Therapy,Employed,1
+36,Male,Canada,12,15,High,7.5,Low,No,Medication,Unemployed,0
+37,Female,Japan,22,1,High,11.6,,No,Medication,Employed,1
+50,Male,Japan,19,16,High,9.9,Moderate,No,Therapy,Employed,0
+37,Female,Australia,19,10,Medium,6.9,Low,No,Both,Employed,0
+66,Male,South Africa,11,7,High,3.5,Moderate,Yes,Medication,Employed,0
+29,Male,Canada,12,19,Low,4.5,Moderate,No,,Unemployed,0
+64,Female,France,1,2,Medium,7.1,Moderate,Yes,Therapy,Employed,0
+18,Male,Germany,20,11,Low,10.3,Moderate,Yes,Medication,Employed,0
+43,Male,Canada,23,19,Medium,6.4,Moderate,No,,Employed,0
+31,Male,South Africa,22,15,Low,7.8,Moderate,Yes,Medication,Unemployed,0
+55,Male,United States,15,13,Severe,11.0,Low,No,Therapy,Student,0
+54,Female,India,22,15,Medium,11.2,Moderate,Yes,Medication,Employed,0
+79,Female,Canada,5,20,Low,4.9,High,Yes,Therapy,Employed,0
+28,Male,Canada,18,16,Medium,3.4,Low,Yes,Both,Unemployed,0
+80,Male,India,20,10,Medium,5.7,High,Yes,Both,Employed,0
+53,Male,Germany,12,16,Medium,9.3,,No,Both,Retired,1
+30,Female,Canada,16,18,Medium,11.6,Low,No,,Student,0
+60,Female,India,22,21,Low,3.7,,No,Both,Employed,1
+20,Female,India,8,0,Medium,3.3,,Yes,Therapy,Employed,1
+50,Female,India,16,11,Medium,11.0,Moderate,No,Medication,Employed,0
+23,Male,Brazil,1,14,Low,9.7,High,No,,Unemployed,0
+67,Male,South Africa,18,17,High,11.9,Moderate,Yes,Medication,Unemployed,0
+73,Male,Brazil,18,13,High,6.6,High,No,Both,Employed,0
+27,Female,United States,23,0,High,6.7,Low,No,Therapy,Employed,0
+22,Male,France,6,12,Medium,4.6,,No,,Retired,1
+40,Female,Brazil,21,14,Medium,4.0,Moderate,No,,Employed,0
+27,Female,Brazil,9,6,Severe,8.2,Moderate,No,Therapy,Unemployed,0
+61,Male,South Africa,9,14,Low,6.3,,Yes,Therapy,Retired,1
+19,Male,France,26,19,Low,3.7,High,No,Both,Employed,0
+30,Male,Australia,19,9,Low,11.0,Moderate,No,Therapy,Unemployed,0
+57,Female,India,8,13,Low,4.8,High,Yes,Medication,Employed,0
+19,Female,Japan,16,5,Low,9.7,Low,No,Therapy,Student,0
+37,Male,France,26,13,High,5.5,Low,No,Therapy,Employed,0
+18,Male,United States,14,21,Medium,10.3,Moderate,No,Therapy,Student,0
+80,Female,Germany,1,11,Severe,4.1,Moderate,No,,Employed,0
+54,Male,United States,3,10,Low,9.8,Low,Yes,Medication,Unemployed,0
+26,Female,India,18,19,Medium,3.9,High,No,,Student,0
+34,Female,France,16,21,Severe,7.0,High,No,Medication,Student,0
+26,Male,United States,4,18,High,9.6,,No,,Employed,1
+28,Male,United States,6,1,Medium,4.6,,No,Both,Employed,1
+32,Male,Australia,17,21,Medium,5.6,Low,No,Both,Employed,0
+41,Male,Australia,20,19,High,10.8,Low,No,Therapy,Employed,0
+55,Female,France,21,0,Medium,11.0,Moderate,No,Therapy,Student,0
+72,Female,India,26,7,Low,3.4,,No,Therapy,Student,1
+52,Female,Brazil,6,13,High,4.5,Moderate,Yes,Medication,Unemployed,0
+47,Male,United Kingdom,16,8,Medium,4.1,Moderate,Yes,Therapy,Student,0
+48,Female,Canada,6,1,Low,4.6,Low,No,Medication,Employed,0
+66,Male,Japan,3,4,Medium,11.7,Moderate,No,,Retired,0
+22,Male,Canada,7,7,Medium,8.0,Low,No,,Unemployed,0
+79,Male,South Africa,12,15,Severe,7.2,,No,Therapy,Student,1
+77,Male,Australia,3,21,Low,11.9,Moderate,Yes,,Employed,0
+61,Male,France,5,15,Severe,8.0,High,No,Medication,Unemployed,0
+67,Male,Canada,24,12,Medium,9.0,Low,No,,Employed,0
+31,Female,India,4,19,Medium,6.0,Low,No,Both,Unemployed,0
+70,Male,Japan,11,14,Low,6.4,Low,Yes,Medication,Employed,0
+73,Female,Canada,3,0,High,8.3,Low,No,,Student,0
+28,Female,Japan,23,21,Severe,3.6,Low,Yes,Therapy,Employed,0
+26,Male,Germany,8,2,Medium,5.3,Moderate,No,Therapy,Employed,0
+51,Male,India,3,5,Low,4.8,,No,Medication,Employed,1
+29,Male,United Kingdom,18,21,Medium,3.1,High,Yes,Therapy,Student,0
+52,Female,United States,23,13,High,7.8,,No,,Student,1
+52,Male,Japan,13,3,Low,8.0,High,No,Therapy,Retired,0
+18,Female,India,4,17,High,6.5,High,No,Therapy,Student,0
+57,Male,Japan,17,14,Medium,5.4,Moderate,No,Both,Employed,0
+39,Male,Japan,9,8,Medium,8.9,,Yes,Both,Unemployed,1
+77,Female,Brazil,24,17,Medium,4.2,Moderate,Yes,,Employed,0
+46,Female,Brazil,18,2,Low,7.7,Moderate,No,Medication,Student,0
+25,Male,India,11,9,High,9.9,High,No,Both,Employed,0
+28,Female,Brazil,17,16,High,4.5,Moderate,No,,Employed,0
+58,Female,South Africa,16,6,Medium,9.8,Low,Yes,Medication,Employed,0
+54,Female,United Kingdom,23,14,Medium,9.8,Moderate,Yes,Therapy,Retired,0
+31,Female,France,10,0,Medium,3.5,High,No,Medication,Employed,0
+77,Female,India,2,10,High,3.2,Moderate,No,Medication,Employed,0
+47,Male,India,22,16,Medium,11.8,High,Yes,Both,Student,0
+52,Male,South Africa,16,4,Medium,4.7,Moderate,No,Therapy,Employed,0
+38,Female,Australia,0,6,Medium,10.4,Moderate,Yes,Medication,Unemployed,0
+54,Male,Australia,14,18,Medium,8.1,Moderate,No,,Student,0
+22,Male,Brazil,27,14,Medium,5.4,Moderate,No,Therapy,Employed,0
+36,Female,France,8,2,Low,4.2,Low,No,Both,Student,0
+76,Male,Brazil,14,14,Low,7.5,Moderate,No,Medication,Student,0
+31,Female,Germany,27,4,High,6.7,Moderate,No,Therapy,Employed,0
+43,Female,Germany,23,11,Low,9.3,Low,No,Medication,Employed,0
+79,Male,United States,27,19,Low,11.1,Low,Yes,,Student,0
+21,Female,Germany,2,4,High,10.2,Moderate,No,Therapy,Retired,0
+42,Female,Australia,21,2,Low,5.5,Moderate,No,Medication,Student,0
+62,Female,United Kingdom,26,8,High,10.9,,Yes,Medication,Student,1
+59,Female,Germany,18,8,Medium,10.5,Moderate,No,Therapy,Student,0
+42,Female,Brazil,12,6,Low,11.4,High,No,Medication,Student,0
+35,Male,Japan,11,1,Medium,7.1,Low,No,Therapy,Student,0
+57,Male,India,19,20,Low,9.9,Low,Yes,,Unemployed,0
+25,Female,United Kingdom,0,15,High,8.3,High,No,Therapy,Employed,0
+56,Female,United Kingdom,20,8,Medium,5.8,High,Yes,Both,Employed,0
+57,Male,Brazil,16,12,Low,11.9,Low,No,Both,Retired,0
+31,Female,India,12,18,Low,3.3,,No,Therapy,Employed,1
+49,Male,Australia,0,19,Medium,4.5,Low,No,,Student,0
+68,Female,United Kingdom,9,16,Low,11.0,Moderate,No,Medication,Employed,0
+78,Female,United States,14,5,Medium,3.5,,No,Medication,Student,1
+55,Female,Brazil,26,3,Medium,11.0,Moderate,Yes,Therapy,Employed,0
+50,Female,United Kingdom,26,0,High,9.4,Low,No,Therapy,Employed,0
+40,Female,France,6,17,Medium,3.3,High,No,Both,Employed,0
+80,Female,India,27,18,High,6.9,Low,Yes,Medication,Employed,0
+32,Female,Germany,21,8,Severe,9.8,Moderate,Yes,Therapy,Unemployed,0
+50,Male,United Kingdom,17,12,Low,8.2,High,No,Medication,Unemployed,0
+42,Male,Brazil,15,7,High,11.4,Low,No,,Student,0
+34,Male,Germany,13,12,High,10.8,Low,No,,Student,0
+50,Female,United States,26,14,Medium,6.0,Moderate,Yes,Both,Employed,0
+64,Female,Germany,27,10,Severe,3.8,Low,Yes,,Student,0
+72,Female,France,17,11,Medium,11.5,Moderate,No,Therapy,Student,0
+19,Female,Australia,26,13,Medium,7.7,,No,Therapy,Employed,1
+31,Female,United Kingdom,6,3,High,3.7,,No,Both,Employed,1
+70,Female,Canada,16,0,Medium,10.3,High,No,Medication,Unemployed,0
+57,Female,Canada,17,3,Medium,10.8,Moderate,No,,Employed,0
+57,Male,Germany,11,18,Low,8.8,Moderate,No,Medication,Retired,0
+68,Female,South Africa,7,8,High,7.0,Low,Yes,Therapy,Unemployed,0
+56,Male,India,21,9,High,9.0,,Yes,Therapy,Student,1
+68,Male,Canada,1,3,Medium,9.4,Moderate,Yes,Medication,Employed,0
+23,Female,South Africa,6,19,Severe,11.0,Low,Yes,,Employed,0
+23,Female,Canada,3,8,Medium,11.6,Low,Yes,Both,Employed,0
+20,Male,South Africa,17,12,Low,7.6,,Yes,Medication,Employed,1
+24,Male,India,27,11,High,10.2,Low,No,Therapy,Employed,0
+68,Female,Japan,5,10,High,11.7,Moderate,Yes,Medication,Employed,0
+25,Female,Canada,26,11,Low,4.4,Moderate,Yes,,Employed,0
+59,Male,France,8,17,Low,3.2,Moderate,No,Medication,Retired,0
+69,Female,United Kingdom,26,11,High,10.8,Moderate,No,,Employed,0
+32,Female,South Africa,8,15,Severe,4.8,Moderate,No,Therapy,Student,0
+64,Female,United Kingdom,13,4,High,3.4,Moderate,No,Medication,Student,0
+46,Male,Brazil,7,19,Medium,4.4,Moderate,No,Both,Unemployed,0
+50,Male,Brazil,18,11,Severe,6.5,Low,Yes,Therapy,Employed,0
+69,Male,India,2,20,Severe,5.0,Low,Yes,Therapy,Unemployed,0
+47,Female,South Africa,17,10,Medium,5.7,High,No,Therapy,Unemployed,0
+56,Female,United States,4,8,High,11.8,,Yes,Therapy,Unemployed,1
+44,Male,Brazil,13,17,High,9.3,,Yes,,Employed,1
+53,Male,India,27,2,Severe,9.4,Moderate,No,Medication,Student,0
+46,Male,Brazil,3,19,High,3.9,Moderate,Yes,Therapy,Student,0
+55,Female,Brazil,6,16,High,9.6,Moderate,No,Both,Employed,0
+74,Male,United States,19,13,High,9.7,Low,No,Therapy,Employed,0
+50,Male,Canada,24,0,Medium,8.9,High,No,Both,Employed,0
+78,Female,Germany,27,16,High,5.1,Moderate,No,Therapy,Employed,0
+54,Female,Japan,11,7,High,6.8,Moderate,Yes,Both,Employed,0
+44,Female,Brazil,1,4,Severe,10.6,,No,,Student,1
+72,Male,Brazil,10,4,Medium,9.0,Low,Yes,Medication,Student,0
+50,Female,France,13,8,Medium,9.6,Low,Yes,Therapy,Unemployed,0
+79,Female,Japan,21,2,Medium,8.3,,No,Therapy,Student,1
+21,Male,United States,22,18,High,7.0,,No,,Employed,1
+39,Female,United Kingdom,15,8,High,9.8,Low,Yes,,Employed,0
+19,Male,South Africa,19,21,Low,3.6,Moderate,No,Medication,Retired,0
+27,Male,Brazil,5,17,Medium,9.1,Moderate,No,Medication,Unemployed,0
+22,Female,Germany,22,15,Low,12.0,Moderate,Yes,Medication,Employed,0
+76,Female,South Africa,3,0,Low,10.0,,No,Therapy,Employed,1
+27,Female,Japan,14,1,High,5.6,Low,Yes,,Student,0
+50,Female,South Africa,23,13,Medium,5.5,,No,Both,Employed,1
+71,Female,Canada,24,13,Medium,9.0,Low,Yes,Medication,Unemployed,0
+55,Female,Brazil,0,0,Low,11.1,Low,No,Therapy,Employed,0
+30,Male,South Africa,6,15,Low,8.2,Low,Yes,Medication,Employed,0
+48,Male,United Kingdom,24,14,High,7.7,High,No,Both,Student,0
+64,Female,United Kingdom,11,14,Medium,4.4,Moderate,No,Both,Unemployed,0
+53,Male,Brazil,9,11,Severe,9.4,Moderate,No,,Employed,0
+62,Female,Australia,4,15,Medium,9.3,High,Yes,Both,Unemployed,0
+41,Male,United Kingdom,11,13,Medium,11.7,Moderate,Yes,Therapy,Employed,0
+69,Male,South Africa,17,14,Medium,5.7,Moderate,No,Medication,Employed,0
+73,Male,India,9,14,High,9.8,Moderate,No,Therapy,Student,0
+32,Female,United Kingdom,5,18,Medium,6.9,Moderate,No,Medication,Student,0
+46,Male,Japan,27,7,Severe,8.0,Moderate,No,Medication,Unemployed,0
+25,Female,Australia,11,1,High,10.3,,No,Therapy,Unemployed,1
+22,Male,South Africa,6,1,Medium,5.0,Moderate,Yes,Therapy,Employed,0
+46,Male,United States,17,9,High,6.1,High,No,Medication,Employed,0
+64,Male,France,1,2,Severe,10.0,Moderate,Yes,Therapy,Employed,0
+21,Male,United States,9,16,Medium,8.1,,Yes,,Employed,1
+29,Male,Canada,14,7,Low,3.8,Low,No,,Employed,0
+62,Female,France,11,3,High,6.9,Moderate,No,Medication,Employed,0
+19,Female,Canada,25,13,Medium,8.3,High,Yes,Both,Unemployed,0
+44,Male,France,16,20,Severe,11.2,Low,Yes,Medication,Unemployed,0
+48,Male,France,3,9,Medium,4.7,Moderate,Yes,Therapy,Employed,0
+68,Male,India,6,0,Low,10.3,High,No,Therapy,Unemployed,0
+68,Male,Germany,8,3,Severe,4.2,,Yes,,Employed,1
+53,Female,Japan,18,0,High,5.2,Moderate,No,Both,Student,0
+53,Male,United States,27,16,Low,5.2,Low,Yes,Therapy,Student,0
+43,Female,United Kingdom,26,16,Severe,10.9,Moderate,No,Therapy,Employed,0
+60,Male,South Africa,22,6,Medium,4.8,Moderate,Yes,Medication,Unemployed,0
+44,Female,Australia,6,19,Medium,10.1,Moderate,Yes,Both,Unemployed,0
+22,Male,Japan,22,14,Severe,7.2,Moderate,No,,Employed,0
+37,Male,Canada,1,12,Medium,12.0,Low,No,Therapy,Student,0
+28,Female,India,5,1,Low,10.6,High,Yes,Medication,Student,0
+79,Male,Canada,17,18,Medium,9.7,Moderate,No,Medication,Employed,0
+27,Male,Germany,5,12,High,10.8,Moderate,No,,Unemployed,0
+57,Male,Australia,12,10,Low,8.7,Low,Yes,Medication,Retired,0
+55,Female,India,25,21,Medium,10.6,,Yes,Therapy,Student,1
+23,Male,Canada,18,14,High,5.4,Low,No,Both,Unemployed,0
+25,Male,Germany,1,9,Medium,3.9,High,No,,Employed,0
+40,Female,South Africa,11,8,High,8.5,,Yes,,Student,1
+64,Female,South Africa,14,8,Severe,6.9,High,Yes,Medication,Employed,0
+43,Female,Canada,13,19,Medium,6.8,Moderate,No,Medication,Unemployed,0
+63,Male,Japan,5,0,Medium,7.7,Moderate,No,Medication,Employed,0
+60,Male,Australia,17,16,Medium,6.3,Moderate,No,Medication,Unemployed,0
+29,Male,Brazil,4,11,High,8.6,Moderate,Yes,,Student,0
+43,Female,Japan,17,9,Severe,3.3,Moderate,No,Therapy,Student,0
+30,Male,South Africa,2,4,Medium,11.7,Low,Yes,Therapy,Student,0
+57,Male,Australia,2,17,Medium,11.3,Moderate,Yes,Both,Unemployed,0
+79,Female,Germany,21,14,Medium,11.4,Moderate,No,Therapy,Employed,0
+35,Female,India,21,5,Medium,6.3,Moderate,No,,Unemployed,0
+42,Female,France,9,6,Low,7.8,Moderate,No,Therapy,Employed,0
+50,Female,Canada,18,16,High,11.6,,Yes,Both,Employed,1
+64,Female,United States,2,5,Medium,11.1,,No,Both,Unemployed,1
+57,Male,Australia,11,7,High,10.1,Moderate,Yes,Both,Employed,0
+77,Female,United Kingdom,15,11,Medium,6.7,Low,Yes,Therapy,Unemployed,0
+60,Male,Germany,16,20,Medium,8.1,Moderate,No,Medication,Student,0
+29,Male,Brazil,6,13,Low,10.1,Low,No,Therapy,Employed,0
+61,Female,France,12,11,High,5.5,,Yes,,Unemployed,1
+53,Female,United Kingdom,23,9,Low,8.6,,Yes,,Unemployed,1
+65,Female,Brazil,1,21,Low,10.5,Moderate,Yes,,Student,0
+21,Male,United States,3,19,Medium,9.4,Moderate,No,Medication,Employed,0
+22,Female,South Africa,9,14,High,7.3,Moderate,No,Both,Employed,0
+73,Female,Japan,6,6,Low,8.3,High,Yes,,Employed,0
+54,Female,Canada,23,8,Low,11.9,,No,Both,Student,1
+25,Female,India,16,9,High,8.4,Low,Yes,Therapy,Student,0
+80,Female,Brazil,19,9,High,10.1,Moderate,Yes,Therapy,Unemployed,0
+59,Male,France,5,15,Low,9.5,Moderate,No,Therapy,Unemployed,0
+66,Male,Australia,18,6,High,9.3,Low,No,Therapy,Employed,0
+45,Male,South Africa,4,4,Medium,9.4,High,Yes,Therapy,Unemployed,0
+48,Female,Australia,9,2,High,7.1,High,Yes,Medication,Student,0
+75,Female,France,8,17,Severe,7.3,,Yes,Medication,Employed,1
+26,Female,Australia,26,10,Low,7.2,,No,Both,Unemployed,1
+71,Male,Brazil,12,14,High,3.3,Moderate,Yes,Therapy,Unemployed,0
+68,Female,Germany,18,20,Medium,5.2,Low,No,Medication,Employed,0
+46,Female,Australia,20,19,Medium,4.4,,Yes,Medication,Unemployed,1
+31,Female,Japan,23,4,High,11.0,Moderate,Yes,Both,Employed,0
+57,Male,United States,5,11,Severe,5.5,Low,No,Therapy,Unemployed,0
+58,Female,India,3,3,Low,4.2,Low,Yes,Both,Employed,0
+39,Male,Brazil,23,14,Low,4.1,,No,Medication,Unemployed,1
+28,Female,United Kingdom,26,8,Low,9.3,Moderate,No,Medication,Student,0
+40,Male,France,2,6,Severe,3.1,Moderate,No,,Employed,0
+18,Male,South Africa,2,9,High,7.2,Low,Yes,Therapy,Employed,0
+63,Male,Brazil,3,12,High,4.1,Low,No,Therapy,Employed,0
+54,Female,Germany,24,7,Low,10.6,Moderate,Yes,,Employed,0
+38,Female,South Africa,4,11,Severe,11.6,High,No,Therapy,Retired,0
+43,Male,Japan,7,21,High,11.6,High,No,Both,Unemployed,0
+63,Male,France,15,18,High,7.0,Low,Yes,Therapy,Student,0
+53,Female,South Africa,21,0,Medium,8.8,Moderate,Yes,,Unemployed,0
+71,Female,Australia,2,15,Low,8.4,Moderate,No,Therapy,Student,0
+40,Male,Brazil,23,21,Medium,6.2,Moderate,No,,Employed,0
+74,Female,United States,11,16,High,7.0,Moderate,No,Therapy,Unemployed,0
+18,Female,France,24,17,Low,3.6,,No,Medication,Student,1
+80,Female,Canada,7,10,High,10.2,Moderate,No,Therapy,Unemployed,0
+71,Female,Japan,12,17,Medium,5.2,,No,Medication,Unemployed,1
+72,Male,India,3,6,High,7.1,,Yes,,Employed,1
+68,Female,France,13,17,Medium,7.3,Moderate,Yes,Both,Employed,0
+57,Female,Germany,13,7,Low,8.0,High,No,Both,Employed,0
+32,Male,Brazil,12,5,Medium,10.4,Low,No,,Retired,0
+38,Male,Australia,26,6,Medium,9.2,Moderate,No,Both,Student,0
+64,Female,India,5,21,Low,9.0,Low,Yes,Therapy,Employed,0
+26,Female,India,16,9,High,7.7,High,No,Therapy,Student,0
+70,Female,Japan,3,10,Low,3.9,Moderate,Yes,,Student,0
+26,Female,South Africa,7,12,Medium,6.6,Low,No,Therapy,Unemployed,0
+27,Male,Germany,16,8,Low,11.6,Low,No,Both,Employed,0
+69,Male,South Africa,2,6,Low,12.0,Low,Yes,,Retired,0
+74,Male,Australia,16,8,Medium,9.6,,No,,Employed,1
+70,Female,India,8,12,Low,5.0,,No,,Employed,1
+43,Female,Germany,1,2,Medium,3.9,Moderate,No,Medication,Student,0
+58,Female,Germany,24,2,Low,6.7,Low,Yes,Both,Retired,0
+52,Female,United Kingdom,12,0,High,10.7,Moderate,Yes,Medication,Student,0
+80,Male,Brazil,19,20,Low,9.5,,Yes,,Employed,1
+69,Male,India,1,19,Low,11.0,Moderate,Yes,Therapy,Employed,0
+42,Female,India,19,1,Medium,8.5,Low,Yes,Therapy,Employed,0
+43,Male,Germany,27,2,Severe,4.2,,Yes,,Employed,1
+28,Female,South Africa,10,14,High,4.0,Moderate,No,Therapy,Employed,0
+55,Female,India,26,5,High,3.4,,No,,Student,1
+19,Male,Germany,25,12,Low,8.1,Moderate,No,Both,Employed,0
+24,Female,India,21,20,High,5.2,Moderate,No,Therapy,Unemployed,0
+35,Female,Germany,14,0,Low,9.6,Moderate,No,Both,Employed,0
+44,Male,United Kingdom,10,19,Low,9.2,,No,Both,Student,1
+51,Female,Brazil,22,18,High,5.9,Low,Yes,Both,Employed,0
+44,Female,Germany,2,0,Medium,4.6,Low,Yes,,Student,0
+34,Male,India,2,20,Severe,3.9,Moderate,No,Both,Student,0
+60,Female,Australia,27,21,Low,9.6,,No,Medication,Employed,1
+76,Male,Brazil,25,1,Severe,7.1,,No,Medication,Employed,1
+61,Female,United Kingdom,11,14,High,5.9,Low,No,,Student,0
+76,Male,Germany,23,13,Medium,10.7,Low,Yes,,Employed,0
+68,Male,Australia,4,18,Low,8.3,,No,Both,Retired,1
+71,Male,Germany,19,10,Medium,7.7,Low,No,,Retired,0
+41,Female,South Africa,6,14,Severe,9.7,Low,No,,Unemployed,0
+42,Male,India,6,5,Medium,10.3,Low,No,Therapy,Employed,0
+24,Male,France,12,19,High,9.2,Low,No,Both,Student,0
+69,Male,Japan,8,8,Severe,7.0,Moderate,Yes,Therapy,Unemployed,0
+23,Male,United States,24,4,Medium,6.4,,Yes,Both,Student,1
+70,Male,South Africa,20,19,Medium,9.9,,Yes,Therapy,Student,1
+41,Female,Australia,12,1,High,7.7,Low,No,,Employed,0
+50,Female,South Africa,11,5,Low,9.3,Low,Yes,Therapy,Student,0
+66,Female,Canada,12,17,Low,11.0,Low,Yes,Medication,Unemployed,0
+46,Female,Germany,23,18,Medium,11.2,Moderate,Yes,Therapy,Unemployed,0
+80,Female,Germany,9,8,Medium,5.5,High,No,Therapy,Unemployed,0
+60,Female,United States,0,20,High,4.7,Low,No,,Unemployed,0
+39,Female,United States,24,5,Low,5.4,Moderate,No,Therapy,Student,0
+43,Male,Canada,7,13,Severe,9.8,Low,Yes,Medication,Unemployed,0
+45,Female,India,21,12,Low,6.3,Low,Yes,Therapy,Employed,0
+67,Male,Japan,15,10,High,4.6,High,Yes,,Employed,0
+38,Male,France,12,11,Medium,3.9,Moderate,No,,Student,0
+66,Female,France,2,18,Low,5.9,High,No,Therapy,Unemployed,0
+24,Male,United Kingdom,2,18,Low,4.2,,No,Both,Retired,1
+34,Male,United Kingdom,23,20,High,4.4,,Yes,Therapy,Student,1
+37,Male,India,4,18,Severe,9.2,Moderate,No,,Student,0
+58,Male,United Kingdom,25,12,Medium,3.2,Moderate,No,Therapy,Student,0
+66,Female,United Kingdom,10,13,Medium,4.1,,Yes,Medication,Employed,1
+37,Female,Canada,6,17,Medium,10.6,High,Yes,Medication,Employed,0
+71,Female,Canada,20,11,Low,10.6,Moderate,No,Therapy,Unemployed,0
+39,Female,United Kingdom,23,3,High,6.0,Low,No,Medication,Employed,0
+45,Female,South Africa,9,9,High,3.8,Moderate,No,Medication,Employed,0
+80,Female,Brazil,9,16,Medium,9.3,Moderate,No,,Unemployed,0
+78,Female,Brazil,19,3,Severe,6.2,,Yes,,Employed,1
+57,Female,India,1,11,Low,3.4,High,No,Therapy,Employed,0
+66,Female,France,2,12,High,4.4,Low,Yes,Medication,Unemployed,0
+24,Female,United States,7,3,Medium,4.2,,No,Both,Unemployed,1
+18,Male,India,10,9,Medium,8.3,High,No,Therapy,Student,0
+49,Female,United Kingdom,12,2,Medium,11.1,High,No,Medication,Student,0
+30,Male,Canada,6,14,Medium,10.1,Moderate,No,,Student,0
+47,Male,Germany,12,1,High,7.9,High,No,Both,Employed,0
+40,Male,South Africa,1,16,High,6.8,Moderate,No,Medication,Employed,0
+68,Male,Australia,5,5,Medium,8.6,High,Yes,Medication,Employed,0
+76,Female,Canada,8,7,High,7.0,,Yes,,Unemployed,1
+73,Male,Brazil,19,2,Medium,5.2,Moderate,No,,Student,0
+36,Female,Canada,24,17,High,9.1,Moderate,No,Medication,Employed,0
+79,Female,South Africa,1,21,Low,10.9,,Yes,,Employed,1
+49,Male,United States,17,0,Low,6.4,Moderate,Yes,,Employed,0
+47,Female,United Kingdom,15,15,Medium,10.6,Moderate,No,,Employed,0
+46,Male,Germany,24,6,Medium,6.9,Moderate,No,,Unemployed,0
+66,Male,Brazil,11,2,High,6.6,,No,Medication,Student,1
+62,Female,Brazil,6,3,Medium,3.3,Moderate,No,Therapy,Student,0
+46,Female,Japan,6,8,Low,9.3,,No,Therapy,Employed,1
+47,Male,France,16,4,Medium,10.3,Low,No,Therapy,Employed,0
+33,Female,United States,12,18,High,9.0,High,Yes,Both,Student,0
+57,Female,Brazil,10,14,High,4.4,Moderate,No,Both,Student,0
+36,Female,France,5,7,Low,3.9,Low,No,Therapy,Employed,0
+35,Male,Brazil,22,5,Low,8.2,,No,Medication,Employed,1
+18,Male,United Kingdom,26,17,High,6.6,Moderate,Yes,Therapy,Retired,0
+31,Female,France,13,18,Low,6.9,High,Yes,Therapy,Employed,0
+68,Female,South Africa,5,14,Low,11.7,High,Yes,Medication,Student,0
+64,Female,Japan,5,6,Low,9.5,Moderate,No,Therapy,Employed,0
+67,Female,United Kingdom,1,9,Medium,6.7,,Yes,Therapy,Student,1
+19,Female,South Africa,21,5,Medium,3.2,Low,No,Medication,Employed,0
+71,Male,Germany,19,13,High,3.3,,No,Both,Employed,1
+45,Female,United States,24,16,Medium,9.2,Low,No,Both,Employed,0
+66,Male,United States,14,8,High,10.5,Low,No,Medication,Unemployed,0
+67,Female,Australia,27,18,Low,9.4,Low,No,Therapy,Student,0
+47,Male,Australia,16,4,High,6.7,Moderate,No,,Retired,0
+55,Female,France,7,6,Medium,3.3,Low,Yes,Both,Unemployed,0
+68,Male,United States,4,18,Medium,11.7,Moderate,Yes,,Employed,0
+80,Female,France,16,19,Low,11.9,High,No,Medication,Student,0
+21,Male,Australia,19,6,Low,7.9,Moderate,Yes,Therapy,Employed,0
+18,Male,Germany,0,1,Medium,3.6,Moderate,No,Therapy,Employed,0
+25,Male,Brazil,21,15,High,7.9,Moderate,No,Therapy,Employed,0
+46,Male,South Africa,17,12,Low,11.0,Low,No,Both,Student,0
+72,Male,Canada,14,7,Severe,9.1,,Yes,,Retired,1
+56,Male,France,4,5,Severe,9.5,,Yes,Medication,Student,1
+20,Female,Germany,6,5,Medium,3.8,Low,No,Both,Employed,0
+49,Male,South Africa,17,8,Severe,4.0,Moderate,No,Both,Student,0
+27,Female,United States,5,3,Low,4.1,High,No,Therapy,Employed,0
+27,Female,Brazil,21,10,Low,11.1,High,Yes,Therapy,Unemployed,0
+36,Female,South Africa,20,4,Low,7.7,,No,Both,Employed,1
+63,Female,Japan,4,16,Medium,10.1,High,Yes,Therapy,Student,0
+51,Female,Australia,18,19,Low,4.0,Low,Yes,Therapy,Unemployed,0
+77,Male,South Africa,9,6,Severe,11.3,Moderate,Yes,Therapy,Unemployed,0
+50,Male,Canada,14,14,Low,10.4,,No,,Unemployed,1
+40,Male,Germany,9,14,Medium,5.0,,Yes,Therapy,Unemployed,1
+72,Female,Brazil,26,13,High,10.9,Low,Yes,Medication,Employed,0
+45,Male,United Kingdom,15,12,Low,5.4,High,Yes,Medication,Employed,0
+49,Male,South Africa,11,10,Low,4.8,Low,No,,Employed,0
+67,Male,India,17,12,High,5.4,,No,Both,Student,1
+24,Male,Canada,22,21,Medium,11.2,High,Yes,Therapy,Employed,0
+46,Male,Canada,0,8,Low,11.2,High,No,Therapy,Unemployed,0
+25,Female,India,15,9,Medium,6.0,,No,Both,Employed,1
+18,Male,Japan,21,3,Medium,9.3,Moderate,Yes,Therapy,Retired,0
+74,Female,United Kingdom,5,16,Severe,9.1,Low,Yes,Medication,Employed,0
+72,Female,Australia,2,13,High,10.3,Low,No,Medication,Employed,0
+20,Female,Germany,1,17,Medium,5.7,Low,Yes,Medication,Employed,0
+41,Female,Brazil,27,10,Medium,7.6,Low,Yes,Therapy,Employed,0
+40,Female,Germany,1,15,Medium,9.0,Moderate,No,Therapy,Employed,0
+76,Male,United Kingdom,12,0,Severe,3.2,Moderate,No,Therapy,Student,0
+80,Male,Germany,8,6,Low,6.4,Low,No,Therapy,Student,0
+78,Male,India,15,9,Medium,9.3,Moderate,No,,Retired,0
+25,Female,Canada,26,8,High,5.3,Moderate,No,Both,Student,0
+71,Male,Germany,4,2,Severe,11.6,Low,Yes,Therapy,Employed,0
+74,Male,France,22,21,Low,3.3,,Yes,Both,Employed,1
+64,Female,South Africa,27,13,Low,11.6,Moderate,No,Therapy,Employed,0
+54,Female,United Kingdom,20,14,Low,5.0,Moderate,No,Medication,Unemployed,0
+20,Female,Japan,6,1,Low,3.4,Moderate,No,Both,Unemployed,0
+68,Female,France,12,13,High,5.6,Moderate,Yes,Both,Retired,0
+50,Male,India,19,15,High,10.1,Low,Yes,Therapy,Employed,0
+45,Female,United States,23,6,High,9.8,Moderate,Yes,Both,Employed,0
+64,Female,India,26,3,Low,4.9,Low,No,Therapy,Unemployed,0
+25,Male,Japan,25,17,Low,4.8,High,Yes,,Retired,0
+51,Male,Japan,12,4,Low,8.8,Moderate,No,Medication,Retired,0
+52,Female,France,26,5,Medium,7.1,Low,No,Both,Unemployed,0
+49,Male,South Africa,25,6,High,10.1,Low,Yes,Both,Student,0
+41,Female,United Kingdom,6,14,Low,3.2,Moderate,Yes,,Student,0
+31,Female,Australia,9,0,Low,8.5,Low,Yes,Medication,Unemployed,0
+49,Male,Canada,14,3,Medium,9.6,Moderate,Yes,Both,Unemployed,0
+73,Male,France,20,0,Medium,11.9,Moderate,Yes,Therapy,Unemployed,0
+63,Female,Japan,26,10,Medium,9.1,Moderate,Yes,Medication,Employed,0
+60,Female,United States,5,17,High,5.1,,No,Therapy,Employed,1
+33,Female,Brazil,4,13,Low,4.0,Moderate,No,,Employed,0
+21,Male,Japan,22,21,High,8.8,High,Yes,Medication,Employed,0
+69,Female,South Africa,27,10,Medium,7.7,High,No,Therapy,Employed,0
+54,Female,South Africa,1,9,Medium,11.1,Moderate,No,Therapy,Retired,0
+71,Female,Japan,20,16,Severe,9.5,High,No,,Student,0
+38,Female,South Africa,14,3,Low,7.6,Moderate,Yes,Medication,Employed,0
+31,Female,France,25,14,High,6.6,Low,No,Therapy,Employed,0
+48,Male,Japan,15,15,Medium,6.6,Moderate,No,Therapy,Employed,0
+72,Female,Japan,18,20,Medium,5.0,,No,Medication,Employed,1
+65,Female,United Kingdom,8,12,High,3.2,Low,No,,Retired,0
+35,Female,Canada,21,8,Severe,8.2,Low,Yes,Both,Student,0
+24,Female,United States,25,10,High,4.9,Moderate,No,Therapy,Student,0
+27,Male,South Africa,18,10,Medium,4.9,Moderate,No,Therapy,Unemployed,0
+24,Male,United Kingdom,6,5,Low,4.1,Moderate,No,,Employed,0
+50,Male,Australia,3,0,High,4.7,Low,No,,Student,0
+40,Female,Australia,2,21,High,3.3,,Yes,Both,Employed,1
+38,Female,Germany,23,5,Low,9.1,Low,Yes,Therapy,Employed,0
+36,Male,France,19,12,Medium,6.6,Moderate,No,Medication,Student,0
+65,Male,France,10,21,High,8.1,Low,No,,Employed,0
+78,Male,India,0,21,Medium,8.7,Low,No,Medication,Unemployed,0
+36,Female,United States,5,4,Medium,11.8,Low,No,Both,Employed,0
+53,Female,Japan,25,14,Severe,3.6,Moderate,Yes,Therapy,Student,0
+46,Male,South Africa,10,17,Low,6.8,High,No,Medication,Employed,0
+77,Male,United States,26,19,Low,5.2,Moderate,Yes,Both,Employed,0
+35,Male,Germany,0,13,High,7.3,Low,No,Medication,Student,0
+19,Female,India,20,14,Medium,11.3,Low,No,,Unemployed,0
+18,Female,United Kingdom,6,4,High,9.5,,Yes,Therapy,Employed,1
+64,Female,United States,5,3,Low,9.0,,Yes,,Employed,1
+22,Male,United Kingdom,13,1,Medium,7.0,,Yes,Both,Retired,1
+37,Male,Australia,1,6,Low,9.0,,Yes,Medication,Employed,1
+28,Female,South Africa,26,9,Severe,3.3,,No,Both,Student,1
+59,Male,Germany,3,15,Medium,8.3,Low,Yes,,Employed,0
+80,Female,Japan,10,9,Medium,8.0,,Yes,Therapy,Employed,1
+19,Male,South Africa,14,17,Low,6.1,Moderate,Yes,,Employed,0
+20,Male,Canada,17,16,Low,4.8,High,No,Therapy,Employed,0
+40,Male,France,26,20,Medium,10.3,High,Yes,,Employed,0
+72,Male,Germany,0,12,Low,3.5,,Yes,Therapy,Employed,1
+29,Female,United States,2,0,Medium,3.6,Low,No,Both,Unemployed,0
+37,Male,South Africa,2,0,Medium,7.0,High,Yes,,Employed,0
+22,Female,Brazil,27,14,High,5.3,,Yes,Therapy,Employed,1
+54,Female,France,6,0,High,9.7,Moderate,No,Both,Employed,0
+55,Female,France,0,5,Medium,8.7,Moderate,Yes,Both,Employed,0
+47,Male,Brazil,24,12,Low,10.0,High,No,Therapy,Employed,0
+26,Female,India,10,0,High,5.9,High,No,Both,Student,0
+51,Female,India,5,4,High,9.7,Moderate,No,Therapy,Employed,0
+70,Female,Brazil,19,8,Low,10.8,Moderate,Yes,Therapy,Employed,0
+61,Male,Canada,2,16,Severe,6.1,Low,No,Both,Employed,0
+52,Male,Australia,18,15,Low,6.1,,No,Medication,Unemployed,1
+69,Female,Brazil,1,7,Low,11.1,Low,Yes,Both,Employed,0
+75,Male,Australia,17,16,Low,3.4,,Yes,Both,Retired,1
+39,Female,South Africa,11,14,Severe,6.2,,No,,Unemployed,1
+61,Female,Canada,9,0,Medium,4.1,Low,No,Medication,Retired,0
+41,Male,Germany,4,11,High,3.3,High,No,Therapy,Unemployed,0
+34,Female,Australia,8,4,Low,4.0,,No,Therapy,Employed,1
+27,Male,France,1,5,Medium,6.9,Low,No,,Employed,0
+47,Male,South Africa,1,0,Medium,9.2,Low,Yes,Therapy,Student,0
+73,Female,France,27,0,High,5.6,Moderate,No,Both,Unemployed,0
+76,Male,Canada,5,9,Low,10.6,,No,Both,Employed,1
+63,Male,Australia,9,9,Low,6.9,High,No,Medication,Employed,0
+40,Female,United Kingdom,17,2,Low,11.7,Moderate,Yes,Therapy,Employed,0
+49,Female,Canada,11,16,Severe,11.6,Moderate,Yes,Medication,Employed,0
+34,Male,Canada,3,18,Medium,10.0,,Yes,Medication,Employed,1
+67,Male,United Kingdom,21,10,Medium,11.4,Low,No,Both,Employed,0
+68,Female,South Africa,20,17,Medium,9.4,Moderate,No,,Unemployed,0
+34,Male,Australia,16,1,Severe,11.1,Low,Yes,Therapy,Unemployed,0
+31,Male,Australia,14,8,Severe,5.1,Low,Yes,Both,Unemployed,0
+26,Male,France,5,16,High,6.1,,No,Both,Unemployed,1
+57,Male,Canada,15,13,Medium,9.8,High,No,Therapy,Student,0
+19,Male,Canada,16,3,Low,6.8,,No,,Retired,1
+62,Male,Japan,2,16,Severe,10.5,High,Yes,Both,Employed,0
+42,Male,Germany,9,16,Medium,10.9,Low,Yes,Medication,Unemployed,0
+56,Female,Canada,4,11,Medium,5.7,Moderate,No,Medication,Student,0
+26,Female,United States,13,19,Medium,10.4,Moderate,No,Therapy,Employed,0
+71,Female,Germany,25,17,Severe,4.4,,Yes,,Unemployed,1
+39,Female,United States,20,2,Medium,6.0,Low,No,,Employed,0
+60,Female,Australia,12,10,Medium,7.7,Low,No,Medication,Employed,0
+63,Male,Germany,25,17,High,5.0,,No,,Employed,1
+21,Male,Canada,5,3,Medium,8.2,Moderate,Yes,,Employed,0
+43,Male,United Kingdom,11,16,Low,8.2,,No,Therapy,Employed,1
+75,Male,France,25,17,Severe,4.9,Moderate,No,Therapy,Employed,0
+46,Female,United States,7,4,Severe,10.2,Low,No,Therapy,Student,0
+62,Male,Germany,4,13,High,8.7,,No,,Employed,1
+51,Male,Canada,14,9,High,5.9,Moderate,No,Both,Student,0
+40,Female,Germany,26,14,Medium,5.1,Moderate,No,,Employed,0
+54,Male,Canada,15,0,Severe,10.9,Low,No,Therapy,Employed,0
+28,Male,Canada,0,15,Medium,10.5,Moderate,Yes,Therapy,Employed,0
+23,Female,Canada,15,10,High,5.1,Low,Yes,Both,Employed,0
+35,Male,Japan,4,19,Severe,3.3,High,Yes,Therapy,Employed,0
+38,Male,France,2,5,High,10.2,Low,No,,Retired,0
+59,Male,United Kingdom,19,21,High,8.5,Low,No,,Unemployed,0
+53,Male,United Kingdom,14,15,High,3.9,Moderate,Yes,Medication,Unemployed,0
+58,Male,Germany,12,1,Low,8.3,,Yes,Medication,Employed,1
+55,Female,Germany,23,0,High,7.1,Low,Yes,Therapy,Employed,0
+51,Female,Canada,15,8,Low,10.0,Low,No,,Student,0
+34,Female,Japan,22,21,Medium,4.9,High,Yes,Therapy,Employed,0
+54,Female,Canada,10,11,Low,7.1,High,No,Medication,Unemployed,0
+42,Female,Japan,20,16,Medium,4.4,Moderate,No,Medication,Employed,0
+55,Female,Canada,1,14,High,11.6,Low,No,,Employed,0
+75,Male,United States,21,18,Severe,10.0,Moderate,No,Medication,Employed,0
+29,Female,United States,26,21,Medium,9.6,Low,No,Therapy,Employed,0
+40,Female,Australia,5,9,Medium,9.2,Low,No,Medication,Student,0
+70,Male,Canada,25,11,Medium,6.8,High,No,Medication,Employed,0
+59,Male,France,25,13,Severe,11.3,,Yes,Both,Employed,1
+39,Female,Australia,26,8,Medium,3.7,Low,No,Therapy,Employed,0
+38,Male,Germany,5,12,High,10.2,High,No,Therapy,Employed,0
+44,Female,South Africa,13,2,Severe,4.9,Moderate,Yes,Therapy,Unemployed,0
+74,Male,Canada,24,20,Medium,5.9,,Yes,Therapy,Unemployed,1
+48,Female,United States,10,13,Severe,7.7,,Yes,,Unemployed,1
+23,Male,South Africa,7,20,Severe,10.0,Moderate,No,Therapy,Employed,0
+44,Male,Japan,7,9,Severe,10.5,Low,Yes,,Employed,0
+57,Female,South Africa,0,15,Medium,8.3,Low,No,Both,Retired,0
+51,Female,France,20,6,Medium,6.6,Low,Yes,Medication,Student,0
+29,Female,Canada,6,3,Severe,11.5,High,Yes,,Student,0
+62,Female,United Kingdom,5,19,Medium,5.2,Low,No,,Employed,0
+74,Female,South Africa,20,10,High,10.2,Low,No,Therapy,Employed,0
+70,Male,United Kingdom,7,15,Low,8.5,Low,No,Therapy,Student,0
+24,Female,Japan,18,19,Low,6.4,,No,Therapy,Unemployed,1
+27,Female,Australia,21,3,Medium,3.0,Low,Yes,Therapy,Employed,0
+62,Male,United Kingdom,20,21,Medium,7.0,High,No,Both,Employed,0
+34,Male,Australia,23,21,Medium,5.5,High,Yes,Medication,Employed,0
+43,Female,United States,19,16,Medium,3.9,,Yes,Therapy,Employed,1
+38,Male,Canada,7,12,Medium,3.7,High,Yes,Both,Student,0
+45,Male,South Africa,25,10,High,6.1,Low,No,,Student,0
+79,Female,United States,13,2,High,8.5,Moderate,Yes,,Employed,0
+75,Male,United States,17,8,Medium,10.5,,Yes,Therapy,Unemployed,1
+63,Male,Brazil,24,5,Medium,4.7,High,Yes,Medication,Employed,0
+19,Female,India,15,21,Low,6.8,,Yes,Therapy,Employed,1
+77,Female,France,8,20,Medium,6.5,Moderate,Yes,,Employed,0
+71,Male,Australia,14,10,Medium,7.6,Moderate,Yes,Both,Employed,0
+60,Male,Brazil,25,15,Medium,10.3,,Yes,Therapy,Employed,1
+18,Female,India,9,18,Medium,8.0,Low,Yes,Medication,Student,0
+68,Male,France,21,4,High,10.6,,Yes,Both,Unemployed,1
+70,Male,Australia,15,13,Low,7.7,Moderate,No,Therapy,Employed,0
+53,Male,Canada,3,16,Severe,8.4,Low,No,Both,Employed,0
+68,Female,France,19,2,Low,6.9,Moderate,No,Medication,Employed,0
+43,Male,South Africa,12,3,Severe,10.4,High,No,Both,Unemployed,0
+46,Male,United States,21,15,Medium,11.3,Low,Yes,Therapy,Employed,0
+38,Female,India,4,15,Medium,8.8,,Yes,Both,Student,1
+28,Male,India,21,20,Medium,10.4,Moderate,No,,Unemployed,0
+57,Male,India,6,3,Low,3.5,Moderate,No,Medication,Employed,0
+28,Female,Australia,22,18,Medium,11.2,High,No,Therapy,Student,0
+53,Female,South Africa,8,16,Low,4.7,,No,,Student,1
+66,Female,France,7,12,High,5.3,Low,Yes,,Unemployed,0
+76,Female,United States,15,21,Medium,3.5,Moderate,No,Therapy,Unemployed,0
+56,Male,South Africa,5,0,High,11.7,Moderate,No,Therapy,Unemployed,0
+57,Male,Brazil,27,11,Low,10.7,Moderate,Yes,,Retired,0
+52,Female,Canada,15,3,Severe,11.2,Low,No,,Employed,0
+71,Female,United Kingdom,5,10,Medium,10.6,Low,Yes,Therapy,Employed,0
+51,Male,South Africa,13,4,Low,7.3,,No,Therapy,Employed,1
+72,Female,Brazil,20,1,Medium,11.3,High,Yes,Therapy,Retired,0
+64,Male,United States,0,16,Low,11.7,,Yes,Both,Employed,1
+41,Female,United Kingdom,24,7,Low,7.5,Moderate,No,Medication,Retired,0
+71,Male,United Kingdom,8,5,Medium,4.6,Moderate,Yes,,Student,0
+39,Female,South Africa,24,20,High,8.9,Low,No,Therapy,Unemployed,0
+22,Female,India,26,8,Severe,11.8,Low,No,Medication,Employed,0
+73,Male,Germany,23,12,Medium,10.8,Moderate,Yes,,Unemployed,0
+50,Female,United States,12,10,Severe,10.8,Low,Yes,Therapy,Student,0
+75,Male,India,25,15,Severe,11.4,Low,No,Therapy,Student,0
+53,Male,United States,18,15,Severe,11.0,Low,No,Both,Student,0
+64,Male,Germany,16,1,Medium,10.0,Moderate,No,Therapy,Employed,0
+37,Male,Canada,10,9,Low,9.5,High,No,Medication,Employed,0
+36,Male,Germany,27,11,Low,5.4,Moderate,No,Therapy,Retired,0
+52,Female,Japan,27,7,High,8.6,Moderate,Yes,Medication,Employed,0
+69,Female,South Africa,7,10,Medium,7.7,Moderate,No,Therapy,Student,0
+60,Male,South Africa,22,9,Low,10.8,Moderate,No,Therapy,Student,0
+34,Female,Brazil,4,12,Medium,7.4,High,No,Therapy,Student,0
+79,Male,India,9,16,Low,4.1,Low,No,Both,Unemployed,0
+76,Female,Brazil,6,6,High,3.0,,No,,Unemployed,1
+62,Female,Japan,9,2,Low,9.1,High,No,,Retired,0
+60,Female,Germany,3,19,High,7.9,Moderate,No,Medication,Employed,0
+51,Female,South Africa,8,12,High,6.0,Low,No,Medication,Student,0
+26,Male,Australia,26,18,Low,4.5,High,No,Therapy,Student,0
+43,Male,Germany,25,6,Medium,7.2,Low,Yes,Therapy,Employed,0
+19,Female,Germany,13,8,High,3.9,Low,No,Therapy,Retired,0
+70,Female,Japan,1,18,Medium,6.0,Moderate,No,Therapy,Student,0
+26,Male,Canada,24,12,Low,6.4,Low,Yes,Both,Student,0
+26,Female,United States,8,21,Medium,7.2,Moderate,No,,Unemployed,0
+57,Male,Japan,20,7,Medium,7.2,,Yes,Both,Employed,1
+34,Male,United States,26,21,Medium,5.3,,Yes,Therapy,Employed,1
+18,Male,South Africa,0,17,Low,10.7,Moderate,No,,Unemployed,0
+42,Female,Japan,22,1,Medium,6.2,Moderate,No,Therapy,Student,0
+78,Male,United States,9,17,Medium,5.1,,No,Medication,Retired,1
+60,Female,Brazil,9,17,High,4.6,High,Yes,,Student,0
+57,Male,Japan,19,10,Medium,5.9,Moderate,Yes,Medication,Student,0
+59,Female,South Africa,24,0,High,3.6,,No,Medication,Employed,1
+42,Female,Japan,21,13,Medium,3.3,Low,Yes,,Student,0
+56,Female,South Africa,2,15,High,8.4,Moderate,No,,Employed,0
+52,Male,Japan,5,10,Medium,8.6,Moderate,No,,Employed,0
+20,Male,United States,25,0,High,7.8,,No,Medication,Employed,1
+67,Female,Canada,5,6,Medium,9.9,,Yes,Therapy,Employed,1
+54,Female,France,20,15,High,3.4,Low,Yes,Medication,Employed,0
+61,Female,United States,1,13,Medium,11.4,Low,Yes,Therapy,Student,0
+61,Male,India,25,14,Medium,3.9,Moderate,Yes,Medication,Retired,0
+68,Male,United Kingdom,25,13,Medium,9.1,High,No,Medication,Unemployed,0
+47,Male,Canada,17,20,High,4.2,Low,No,Therapy,Student,0
+55,Male,Brazil,22,10,High,10.9,High,Yes,Both,Employed,0
+51,Female,Germany,1,15,Medium,7.6,High,Yes,Medication,Employed,0
+29,Female,United States,11,18,High,3.7,High,Yes,Therapy,Student,0
+36,Male,Japan,21,16,High,8.6,High,No,Medication,Employed,0
+54,Male,United States,4,5,Severe,3.1,Moderate,Yes,Medication,Employed,0
+61,Female,Australia,19,10,High,10.0,Moderate,No,Therapy,Student,0
+76,Male,Canada,6,16,High,8.9,Low,Yes,Therapy,Student,0
+76,Male,France,23,8,Medium,4.9,Low,Yes,Therapy,Unemployed,0
+66,Male,Brazil,15,17,High,6.4,High,Yes,Both,Employed,0
+78,Male,Australia,19,16,Medium,3.1,Low,No,Medication,Student,0
+34,Male,South Africa,0,11,Severe,9.2,,No,,Unemployed,1
+27,Male,Australia,0,21,Low,5.9,,No,Therapy,Unemployed,1
+74,Female,United States,16,21,Low,8.1,Moderate,Yes,,Employed,0
+72,Male,Brazil,26,4,Low,11.6,Moderate,Yes,Therapy,Unemployed,0
+66,Male,United States,0,10,High,5.7,Low,Yes,Therapy,Employed,0
+64,Female,South Africa,20,3,Severe,11.9,Low,No,Therapy,Employed,0
+29,Female,Germany,19,3,Low,8.7,Moderate,Yes,Both,Employed,0
+79,Female,Brazil,12,2,High,5.2,,No,Both,Unemployed,1
+33,Male,Germany,8,16,High,6.9,Moderate,Yes,,Student,0
+41,Female,Canada,14,6,High,9.7,Low,Yes,Therapy,Employed,0
+36,Male,Canada,2,3,Medium,7.0,High,No,Both,Employed,0
+25,Male,Germany,13,12,High,3.6,Moderate,Yes,,Employed,0
+48,Male,Canada,22,11,Low,4.5,Moderate,No,Medication,Employed,0
+38,Female,Brazil,10,0,High,10.1,Moderate,Yes,Both,Employed,0
+34,Female,Japan,23,20,Medium,8.8,Low,Yes,Medication,Student,0
+40,Female,India,21,18,Medium,8.1,Low,No,Therapy,Employed,0
+54,Female,Canada,11,20,High,4.5,Moderate,Yes,Both,Employed,0
+71,Female,Canada,12,19,Medium,10.5,High,No,Both,Unemployed,0
+33,Male,United States,25,17,Low,11.6,Low,No,Medication,Employed,0
+23,Male,Germany,12,10,High,3.4,Moderate,Yes,Therapy,Employed,0
+25,Male,United Kingdom,0,19,Medium,3.7,High,No,Medication,Retired,0
+42,Male,France,23,2,Medium,11.0,Moderate,Yes,Therapy,Student,0
+35,Female,Australia,9,16,Medium,10.3,Moderate,No,Therapy,Student,0
+42,Female,Canada,2,11,Low,8.6,Moderate,No,Therapy,Employed,0
+29,Male,Australia,23,9,Medium,11.5,High,No,Both,Student,0
+32,Female,Brazil,27,7,Low,8.8,High,No,Both,Employed,0
+76,Female,United Kingdom,3,14,Severe,4.9,High,No,Medication,Student,0
+43,Male,France,15,4,Low,9.6,Moderate,No,Therapy,Student,0
+58,Male,Germany,7,3,Medium,8.8,Low,Yes,Therapy,Employed,0
+62,Female,India,15,20,Low,11.9,,No,Both,Employed,1
+43,Female,France,26,19,Low,4.9,Low,Yes,Medication,Unemployed,0
+64,Male,France,16,18,High,8.4,High,No,Both,Unemployed,0
+49,Male,India,18,20,High,10.0,High,No,Therapy,Student,0
+27,Male,Japan,21,3,Low,6.1,Moderate,No,Medication,Employed,0
+33,Female,Germany,14,14,Low,6.4,Moderate,No,Both,Student,0
+24,Male,United States,15,16,Low,11.0,Low,No,Therapy,Employed,0
+34,Male,Australia,14,11,High,6.6,Low,Yes,,Unemployed,0
+40,Female,Canada,24,2,Medium,8.6,Moderate,Yes,Therapy,Employed,0
+43,Female,France,1,9,Low,11.0,Low,No,Both,Student,0
+38,Female,Brazil,10,14,Medium,4.9,,No,Medication,Employed,1
+39,Female,India,0,9,High,11.8,Moderate,No,Medication,Student,0
+75,Female,Australia,14,17,Severe,9.3,Low,No,Therapy,Employed,0
+24,Male,United Kingdom,25,0,Severe,7.5,High,Yes,Medication,Employed,0
+31,Male,India,18,2,Medium,6.9,Low,No,Medication,Employed,0
+32,Female,United Kingdom,3,20,Low,11.6,High,Yes,,Retired,0
+70,Female,Germany,10,11,Low,4.9,Low,Yes,Both,Employed,0
+24,Female,France,4,0,High,5.8,,Yes,Therapy,Unemployed,1
+26,Female,Brazil,2,2,Severe,5.8,Moderate,No,Therapy,Unemployed,0
+68,Female,Canada,12,2,Medium,5.6,Moderate,No,Therapy,Employed,0
+65,Male,United Kingdom,9,4,Medium,7.2,Moderate,Yes,,Employed,0
+25,Male,Australia,10,18,Medium,11.9,Low,No,Medication,Student,0
+67,Male,Japan,17,0,Medium,11.0,,Yes,,Employed,1
+76,Male,Germany,1,3,Medium,6.0,Moderate,No,Both,Employed,0
+40,Female,Japan,6,3,Medium,6.8,,No,Therapy,Student,1
+46,Male,Germany,8,16,Low,9.0,Low,Yes,Therapy,Employed,0
+35,Female,United States,9,13,Medium,3.2,Moderate,No,Medication,Unemployed,0
+48,Female,Australia,17,17,High,10.4,,Yes,Medication,Retired,1
+47,Female,Japan,22,0,Low,10.9,,No,,Employed,1
+69,Male,Brazil,6,21,Low,10.7,,No,Both,Employed,1
+56,Female,France,26,15,Medium,6.4,High,Yes,Medication,Unemployed,0
+52,Male,India,6,2,Severe,7.2,Low,No,,Employed,0
+35,Male,Canada,2,20,High,3.1,High,Yes,Therapy,Student,0
+76,Female,France,11,8,Low,6.6,Low,No,Therapy,Employed,0
+59,Female,France,6,3,Medium,7.1,Moderate,Yes,Both,Unemployed,0
+56,Female,Germany,16,20,Medium,11.2,Low,Yes,Therapy,Student,0
+34,Male,Brazil,25,4,High,11.0,Low,No,Therapy,Employed,0
+31,Female,Germany,0,10,High,11.7,Moderate,Yes,,Employed,0
+48,Male,South Africa,4,20,Severe,11.0,Moderate,No,Therapy,Unemployed,0
+41,Female,United Kingdom,15,8,Medium,3.1,Moderate,No,Medication,Retired,0
+52,Female,Canada,14,2,Severe,8.8,Moderate,No,Medication,Employed,0
+61,Male,United Kingdom,1,5,Severe,3.6,Low,Yes,,Retired,0
+77,Male,India,8,10,Severe,5.5,Low,No,,Student,0
+62,Male,South Africa,6,8,Medium,8.2,Low,No,Therapy,Student,0
+51,Male,Australia,3,14,Medium,9.3,High,Yes,Medication,Retired,0
+20,Male,India,19,2,Medium,8.9,Low,No,Both,Employed,0
+54,Male,India,17,0,Low,3.4,High,Yes,,Student,0
+60,Female,United States,20,19,Low,3.9,Low,No,Therapy,Employed,0
+57,Female,Canada,3,21,High,4.2,Moderate,No,Therapy,Unemployed,0
+43,Male,Germany,27,18,High,3.8,Low,No,Both,Unemployed,0
+72,Female,Brazil,12,13,Severe,4.6,Low,No,Therapy,Unemployed,0
+40,Male,United Kingdom,0,16,Low,9.2,Moderate,Yes,Therapy,Employed,0
+61,Female,India,27,21,Low,10.5,Moderate,Yes,Therapy,Unemployed,0
+56,Female,United Kingdom,23,13,High,6.7,High,Yes,Therapy,Employed,0
+32,Male,United Kingdom,2,16,Medium,9.2,Moderate,Yes,Medication,Employed,0
+73,Male,Australia,15,13,Low,4.8,Moderate,No,,Unemployed,0
+66,Male,Canada,21,11,Severe,11.8,High,No,Therapy,Employed,0
+21,Female,Canada,3,15,High,6.1,Moderate,Yes,Medication,Student,0
+46,Male,Japan,24,0,Medium,10.6,Moderate,No,Therapy,Employed,0
+39,Female,France,22,12,High,11.5,Low,No,Medication,Employed,0
+42,Male,Canada,24,5,High,10.8,Low,Yes,Therapy,Student,0
+30,Female,United Kingdom,15,16,High,3.6,Moderate,Yes,Medication,Student,0
+35,Female,Germany,25,11,High,8.9,High,No,,Employed,0
+50,Male,United Kingdom,18,18,Low,4.1,Low,No,Both,Student,0
+33,Female,Germany,0,5,High,3.1,Low,No,,Unemployed,0
+62,Female,Japan,4,6,Low,3.5,Moderate,Yes,,Employed,0
+59,Male,Germany,18,0,Low,11.2,,No,Both,Student,1
+61,Female,Canada,21,0,Severe,11.2,Moderate,No,Both,Employed,0
+79,Male,Australia,23,4,Medium,5.0,Moderate,Yes,,Unemployed,0
+19,Male,Germany,10,5,High,7.9,Low,Yes,Both,Student,0
+72,Male,United Kingdom,12,15,High,11.6,High,Yes,Therapy,Student,0
+52,Male,Brazil,19,15,Severe,7.5,Moderate,Yes,Medication,Retired,0
+59,Female,Canada,4,13,Severe,6.5,Moderate,Yes,,Employed,0
+51,Female,Brazil,20,0,Medium,7.3,Low,No,Therapy,Retired,0
+47,Female,South Africa,3,12,Medium,10.1,Low,No,Therapy,Employed,0
+76,Male,South Africa,3,19,Low,7.3,High,No,Medication,Student,0
+72,Female,United Kingdom,3,9,Medium,10.0,Low,Yes,Therapy,Student,0
+30,Female,South Africa,3,9,Medium,6.9,Low,No,Therapy,Student,0
+30,Male,France,19,8,Medium,5.3,Low,No,Both,Unemployed,0
+35,Male,Japan,20,12,High,5.9,,No,,Retired,1
+49,Female,Canada,17,2,Severe,3.7,Low,No,,Retired,0
+49,Male,Brazil,17,17,High,7.5,Low,No,Medication,Unemployed,0
+52,Male,United Kingdom,15,19,High,4.3,High,No,,Unemployed,0
+76,Male,France,8,1,Medium,10.3,Moderate,Yes,Therapy,Employed,0
+56,Male,United Kingdom,17,16,Low,6.8,Low,Yes,Therapy,Unemployed,0
+63,Female,France,21,18,Medium,9.9,Moderate,No,Therapy,Student,0
+69,Male,South Africa,1,12,High,11.6,,No,Both,Employed,1
+46,Male,South Africa,20,12,Low,10.6,Moderate,No,Therapy,Employed,0
+79,Male,Germany,3,0,High,11.6,Low,No,Therapy,Unemployed,0
+66,Male,United States,11,1,Medium,8.1,,No,,Employed,1
+46,Male,United Kingdom,6,0,Low,4.5,High,Yes,,Unemployed,0
+79,Male,Germany,14,4,Medium,11.4,,Yes,Therapy,Employed,1
+70,Male,Canada,6,2,Medium,10.8,Moderate,Yes,Medication,Unemployed,0
+61,Male,Germany,21,6,Medium,10.8,Low,No,Medication,Retired,0
+74,Female,India,25,21,High,9.2,,No,Both,Student,1
+33,Male,South Africa,20,12,High,8.6,Moderate,No,,Retired,0
+73,Female,India,16,17,Medium,3.1,Moderate,No,,Employed,0
+61,Male,United Kingdom,15,20,High,9.7,Low,Yes,Both,Employed,0
+64,Male,Brazil,27,6,Medium,3.8,Low,Yes,,Unemployed,0
+74,Male,Brazil,18,0,Severe,5.3,,No,Both,Employed,1
+27,Male,Canada,8,4,Low,8.0,High,No,Both,Employed,0
+47,Female,Germany,13,16,High,7.1,Low,Yes,Both,Employed,0
+42,Male,Brazil,16,7,Medium,3.1,,No,Therapy,Student,1
+80,Male,France,4,14,Medium,10.4,High,Yes,,Employed,0
+56,Female,France,1,19,Low,10.9,Low,Yes,Medication,Employed,0
+37,Female,Canada,19,3,Medium,9.1,Low,No,Medication,Retired,0
+22,Male,Japan,15,1,Low,7.9,Low,Yes,,Student,0
+18,Female,South Africa,13,4,Low,11.6,Moderate,No,Medication,Employed,0
+47,Female,Germany,13,0,Severe,4.1,,Yes,,Retired,1
+66,Female,United Kingdom,26,4,High,9.6,Low,No,Therapy,Retired,0
+20,Male,Australia,0,5,High,4.2,High,No,Both,Unemployed,0
+62,Male,Australia,2,1,High,6.4,,No,,Employed,1
+31,Male,Australia,25,0,Severe,8.3,Low,Yes,,Employed,0
+73,Female,Brazil,6,3,Medium,9.6,Low,Yes,,Employed,0
+47,Male,Japan,25,6,Low,3.0,Moderate,No,,Student,0
+67,Female,Japan,14,21,Severe,5.3,High,Yes,,Unemployed,0
+21,Male,Germany,18,0,High,7.8,Low,No,,Employed,0
+35,Male,Germany,19,0,Medium,7.8,,No,Therapy,Employed,1
+79,Female,Japan,1,7,Medium,8.7,Low,Yes,Both,Employed,0
+54,Male,Canada,18,19,Medium,5.7,,No,Both,Employed,1
+42,Female,Germany,8,15,Severe,7.9,Moderate,No,Therapy,Employed,0
+65,Female,Canada,18,20,Medium,4.7,,No,,Unemployed,1
+18,Male,India,26,12,Severe,4.7,Low,Yes,,Student,0
+70,Female,France,4,17,Severe,8.2,Moderate,Yes,Medication,Employed,0
+63,Male,South Africa,17,19,High,9.2,Low,Yes,Medication,Student,0
+32,Male,Germany,15,9,Medium,4.1,Moderate,Yes,Both,Student,0
+26,Female,Japan,3,11,Medium,4.1,,Yes,,Employed,1
+32,Male,France,11,0,Low,8.1,High,No,Medication,Student,0
+66,Female,France,6,9,Low,5.4,Low,Yes,Therapy,Student,0
+74,Male,United States,13,8,High,6.5,High,Yes,Both,Unemployed,0
+41,Male,Japan,22,2,Medium,6.6,Low,Yes,Medication,Employed,0
+21,Male,South Africa,11,18,Low,4.6,Moderate,Yes,Therapy,Student,0
+29,Male,Japan,2,8,Medium,3.0,Low,Yes,Medication,Student,0
+76,Male,Germany,4,9,Severe,10.7,Moderate,No,Both,Student,0
+75,Female,United Kingdom,16,18,Medium,9.4,Low,No,Therapy,Employed,0
+54,Female,India,25,15,Severe,9.2,Moderate,Yes,,Employed,0
+78,Female,Canada,9,17,Medium,7.9,Moderate,Yes,Therapy,Employed,0
+54,Female,United Kingdom,9,13,Medium,9.3,Moderate,No,,Student,0
+60,Female,India,10,2,Low,11.4,Moderate,Yes,Therapy,Employed,0
+77,Female,United Kingdom,16,1,Medium,9.0,,Yes,Both,Employed,1
+23,Male,Canada,4,0,High,5.4,Low,No,Medication,Employed,0
+56,Male,Brazil,12,17,Low,8.1,Moderate,No,Medication,Unemployed,0
+73,Female,Japan,9,8,Medium,7.0,,No,Medication,Employed,1
+80,Female,United Kingdom,8,12,High,8.0,Low,No,Both,Student,0
+63,Male,Germany,16,1,High,7.7,Low,No,Both,Unemployed,0
+41,Male,South Africa,0,6,High,10.7,Low,No,Medication,Student,0
+28,Male,Australia,3,15,Medium,8.9,Moderate,No,Therapy,Employed,0
+79,Female,Germany,3,20,Medium,4.7,Moderate,Yes,Therapy,Unemployed,0
+30,Female,Canada,17,18,Severe,3.6,High,No,Therapy,Employed,0
+51,Female,South Africa,8,14,Severe,6.8,Low,Yes,Therapy,Unemployed,0
+42,Male,Germany,24,21,Severe,3.1,High,Yes,Therapy,Student,0
+24,Male,France,17,10,Medium,5.9,Moderate,No,Medication,Employed,0
+69,Female,Japan,13,0,High,6.3,High,No,Medication,Student,0
+21,Female,South Africa,24,20,High,6.4,Moderate,No,,Employed,0
+76,Male,France,14,6,Low,11.8,Moderate,Yes,Both,Employed,0
+25,Male,Germany,5,19,High,5.7,Low,No,Therapy,Employed,0
+37,Male,India,23,7,High,5.4,Low,No,Medication,Student,0
+46,Male,United States,9,9,Low,4.2,Low,Yes,Medication,Student,0
+80,Female,India,14,4,Low,7.6,High,No,Medication,Employed,0
+71,Male,Japan,3,8,High,4.4,High,Yes,Therapy,Retired,0
+70,Male,South Africa,17,0,Low,8.5,Moderate,Yes,Medication,Unemployed,0
+68,Male,South Africa,17,1,Low,4.4,High,Yes,,Retired,0
+62,Female,Japan,24,18,Medium,8.2,High,Yes,Medication,Employed,0
+63,Female,France,16,13,Low,10.4,Moderate,No,Therapy,Student,0
+27,Male,United States,11,19,Severe,3.4,Moderate,Yes,Medication,Employed,0
+60,Male,Germany,6,9,Medium,6.8,Low,No,,Employed,0
+51,Male,Canada,15,8,Medium,7.1,Low,Yes,Medication,Student,0
+74,Female,India,10,9,Severe,10.1,,No,,Employed,1
+43,Female,India,13,5,Medium,7.2,Low,No,Both,Student,0
+58,Female,Australia,2,16,Medium,8.1,Moderate,Yes,Both,Employed,0
+66,Male,United States,18,5,High,10.1,Low,No,Therapy,Student,0
+75,Female,Canada,17,3,Medium,8.0,High,No,Therapy,Student,0
+20,Male,India,9,19,Medium,6.2,Low,No,Medication,Employed,0
+73,Male,Canada,5,2,High,3.8,,No,,Employed,1
+23,Male,Germany,12,18,High,9.6,Moderate,No,,Employed,0
+22,Female,South Africa,9,17,High,10.8,Moderate,No,,Unemployed,0
+22,Male,Canada,17,3,Severe,11.7,Low,Yes,Medication,Student,0
+71,Female,India,25,7,High,11.3,Moderate,No,,Unemployed,0
+64,Female,France,19,16,High,10.2,Low,Yes,Therapy,Student,0
+40,Male,United States,25,4,Severe,8.8,High,Yes,Medication,Employed,0
+66,Male,Japan,15,12,Low,10.0,Moderate,Yes,,Employed,0
+26,Female,United Kingdom,24,0,Medium,6.9,,No,,Retired,1
+52,Male,Brazil,24,12,High,8.4,Moderate,No,Both,Employed,0
+37,Female,Brazil,5,3,Medium,6.1,High,Yes,Medication,Student,0
+75,Male,United Kingdom,12,21,Low,5.9,Moderate,Yes,Therapy,Employed,0
+66,Female,Canada,3,13,Medium,9.8,Moderate,No,,Employed,0
+78,Female,United States,22,2,Medium,7.1,Low,Yes,Medication,Employed,0
+76,Female,Canada,13,4,Medium,4.9,High,Yes,,Student,0
+59,Female,Japan,0,6,High,4.8,Moderate,No,Both,Employed,0
+52,Male,United States,27,0,Severe,10.7,Moderate,No,Medication,Student,0
+67,Male,United Kingdom,19,11,High,9.1,Low,Yes,Both,Unemployed,0
+35,Female,Canada,4,10,High,7.9,High,No,Both,Employed,0
+79,Female,Australia,7,7,Medium,6.6,Moderate,No,Therapy,Student,0
+34,Male,India,11,5,Medium,6.9,High,No,Medication,Unemployed,0
+41,Male,France,1,21,Medium,3.5,Low,Yes,Both,Employed,0
+20,Male,South Africa,11,1,High,7.1,,Yes,Medication,Employed,1
+49,Male,France,4,18,Low,10.2,Low,Yes,,Student,0
+52,Male,Japan,21,19,Medium,6.5,Low,No,Therapy,Employed,0
+55,Male,Canada,4,19,High,6.5,Moderate,No,,Employed,0
+30,Female,Germany,12,13,Medium,3.1,Moderate,Yes,Medication,Retired,0
+73,Male,United States,8,0,Severe,7.1,Moderate,No,Medication,Student,0
+78,Male,Canada,9,9,High,3.2,Moderate,No,Both,Student,0
+64,Female,United States,0,15,Low,8.1,,No,Medication,Retired,1
+42,Male,South Africa,2,3,Medium,7.6,Low,No,Both,Retired,0
+26,Male,Australia,17,10,High,10.6,High,No,Therapy,Student,0
+21,Male,France,11,15,Medium,8.2,Moderate,Yes,Therapy,Unemployed,0
+31,Male,India,2,19,Low,5.9,Moderate,No,Both,Student,0
+54,Male,South Africa,25,0,Medium,7.6,Low,No,Medication,Unemployed,0
+51,Female,South Africa,24,15,Severe,9.3,Moderate,Yes,Medication,Unemployed,0
+28,Male,France,8,18,Medium,3.8,,No,Therapy,Student,1
+58,Female,South Africa,25,20,Severe,8.6,Moderate,Yes,Medication,Student,0
+73,Female,Germany,1,21,High,11.2,High,Yes,Both,Student,0
+20,Male,Germany,2,8,Low,5.7,Moderate,Yes,,Student,0
+76,Female,Brazil,13,8,High,8.6,,No,Medication,Student,1
+45,Male,Brazil,3,8,Medium,10.4,Moderate,No,Therapy,Unemployed,0
+46,Female,Germany,24,16,Medium,7.6,Low,Yes,,Employed,0
+26,Female,United Kingdom,18,11,High,9.5,,No,Medication,Employed,1
+20,Male,Australia,12,12,High,5.8,High,No,,Unemployed,0
+42,Male,United States,6,7,Low,5.8,,No,Therapy,Employed,1
+51,Male,Australia,11,15,Severe,9.0,High,Yes,Medication,Employed,0
+29,Male,Japan,2,17,High,9.3,Low,Yes,Medication,Student,0
+59,Male,South Africa,22,0,Severe,11.4,Moderate,No,Therapy,Employed,0
+26,Female,India,22,0,Medium,5.0,Moderate,No,Both,Student,0
+32,Female,South Africa,8,11,Severe,7.2,Low,No,,Unemployed,0
+57,Female,Australia,1,5,Medium,5.3,Moderate,No,Both,Employed,0
+42,Female,Germany,21,8,Low,3.7,High,No,Medication,Employed,0
+22,Female,France,8,4,High,6.6,Moderate,Yes,Therapy,Employed,0
+28,Female,Japan,11,15,High,6.4,Moderate,No,,Employed,0
+76,Female,Germany,11,17,Medium,5.4,High,Yes,Therapy,Employed,0
+51,Male,Australia,14,16,Medium,5.7,Low,Yes,,Employed,0
+41,Male,France,1,17,Low,6.2,,Yes,Medication,Unemployed,1
+77,Female,India,17,0,High,11.9,,No,Therapy,Student,1
+32,Female,Australia,12,18,Medium,10.0,Moderate,No,Therapy,Student,0
+55,Male,United States,13,21,Medium,3.6,Moderate,Yes,Medication,Employed,0
+25,Male,Canada,4,7,Medium,10.9,Moderate,Yes,,Unemployed,0
+76,Male,France,25,2,Severe,8.7,High,Yes,Medication,Employed,0
+22,Male,Australia,9,4,High,11.0,Moderate,No,,Employed,0
+65,Female,Germany,11,7,High,6.1,Low,No,Medication,Employed,0
+43,Male,United States,9,18,Severe,7.2,,No,Medication,Student,1
+35,Female,United Kingdom,23,17,Medium,11.1,High,No,Medication,Employed,0
+23,Female,France,10,17,Low,5.5,,Yes,,Unemployed,1
+54,Female,United States,24,20,Low,11.2,Moderate,Yes,,Retired,0
+77,Male,Germany,1,0,High,10.5,Low,No,,Student,0
+65,Male,Australia,4,14,Medium,11.8,Low,Yes,,Employed,0
+30,Female,South Africa,6,17,Medium,5.9,Moderate,Yes,,Employed,0
+45,Female,India,5,6,Low,5.1,Low,Yes,Medication,Student,0
+22,Female,South Africa,21,15,Medium,6.0,High,No,Medication,Employed,0
+30,Male,Canada,22,15,Medium,11.6,Low,No,Both,Student,0
+34,Female,United States,2,14,Severe,6.0,Moderate,Yes,Therapy,Employed,0
+67,Male,Canada,12,5,High,8.1,Moderate,No,Therapy,Employed,0
+57,Female,India,2,8,Severe,6.6,Moderate,Yes,Both,Employed,0
+62,Female,United States,25,6,Severe,6.6,High,No,Therapy,Employed,0
+49,Female,Brazil,24,13,Low,4.7,Low,No,Medication,Employed,0
+79,Male,Germany,23,10,Medium,7.8,,Yes,Both,Employed,1
+46,Male,United States,20,20,High,10.6,,No,Both,Student,1
+68,Female,Germany,5,15,Severe,3.4,High,No,Therapy,Employed,0
+75,Male,South Africa,10,5,Medium,11.0,High,Yes,Medication,Unemployed,0
+20,Female,Japan,27,21,Severe,9.0,Low,Yes,Therapy,Student,0
+73,Male,France,25,15,Low,8.6,Moderate,No,Medication,Employed,0
+57,Male,Japan,16,19,Medium,8.6,,Yes,Both,Employed,1
+51,Male,Australia,9,15,High,5.7,,No,Therapy,Employed,1
+57,Female,France,11,11,Medium,6.7,Moderate,No,Both,Employed,0
+44,Male,France,16,16,Low,10.2,,Yes,Medication,Employed,1
+30,Male,United Kingdom,3,4,Medium,5.8,Low,Yes,Therapy,Student,0
+62,Female,France,1,12,Low,7.2,Moderate,No,Medication,Employed,0
+50,Female,India,10,7,High,3.2,Moderate,Yes,Therapy,Employed,0
+23,Female,Japan,6,4,Severe,9.6,Low,No,,Student,0
+41,Female,South Africa,1,11,Severe,6.8,Moderate,No,Both,Employed,0
+36,Male,Germany,25,8,High,7.7,Moderate,No,Therapy,Employed,0
+33,Male,Australia,17,2,Medium,4.0,,No,Therapy,Unemployed,1
+57,Male,France,20,2,Medium,11.9,Moderate,No,Both,Student,0
+45,Male,Australia,3,0,Low,5.7,,No,Both,Retired,1
+50,Male,South Africa,7,21,Medium,8.7,,No,Both,Employed,1
+76,Female,Australia,19,17,Low,8.2,Low,No,Therapy,Employed,0
+76,Male,South Africa,13,11,High,10.1,High,No,Therapy,Student,0
+65,Male,France,11,8,Severe,5.6,,No,Therapy,Employed,1
+58,Male,South Africa,21,8,Medium,9.8,,Yes,Therapy,Unemployed,1
+30,Female,France,20,17,High,6.4,,No,Both,Employed,1
+60,Female,United Kingdom,26,17,Low,6.7,Low,Yes,Medication,Employed,0
+62,Male,United Kingdom,17,6,High,9.1,Moderate,Yes,,Employed,0
+42,Female,South Africa,10,3,High,10.1,,Yes,,Employed,1
+70,Female,United Kingdom,27,12,Medium,9.0,Moderate,No,Both,Employed,0
+59,Female,Germany,7,16,Low,11.1,Moderate,Yes,Both,Unemployed,0
+53,Female,Germany,1,1,Severe,5.6,Moderate,No,Therapy,Employed,0
+80,Female,United Kingdom,24,13,High,11.1,Low,No,Medication,Student,0
+44,Female,United Kingdom,14,2,Severe,4.2,Low,Yes,Therapy,Employed,0
+55,Female,Brazil,8,4,High,8.9,Low,No,Medication,Unemployed,0
+77,Male,Brazil,18,13,Severe,7.9,Moderate,No,Medication,Unemployed,0
+24,Male,France,19,2,Low,7.5,,No,Medication,Employed,1
+22,Female,South Africa,7,6,Low,5.8,Moderate,Yes,Therapy,Retired,0
+60,Male,Canada,24,17,Medium,7.5,Low,Yes,Therapy,Student,0
+62,Male,Canada,18,12,Low,4.5,Low,No,,Student,0
+75,Female,United Kingdom,4,21,Medium,6.3,Low,Yes,Both,Student,0
+74,Male,Australia,10,9,High,3.9,,Yes,Both,Student,1
+68,Female,United Kingdom,14,12,Medium,8.1,High,Yes,Both,Student,0
+48,Female,Brazil,7,15,Medium,3.9,,No,Both,Employed,1
+40,Female,France,18,8,Severe,4.4,High,Yes,Medication,Employed,0
+59,Male,United Kingdom,22,1,Low,3.8,Moderate,No,,Employed,0
+27,Male,Japan,26,4,Medium,6.4,High,No,Medication,Employed,0
+49,Male,Australia,7,21,High,10.6,Low,No,Therapy,Unemployed,0
+60,Male,Japan,25,16,High,11.2,High,Yes,Therapy,Student,0
+70,Female,France,26,21,Medium,3.6,Low,No,Therapy,Employed,0
+47,Female,France,18,3,Low,8.7,Moderate,Yes,Therapy,Employed,0
+56,Male,Germany,17,16,High,9.2,,Yes,Medication,Retired,1
+48,Female,United States,9,8,Low,7.8,Low,Yes,,Student,0
+35,Female,Japan,6,19,Low,9.0,Moderate,Yes,,Student,0
+53,Male,Germany,27,1,High,5.1,Moderate,No,Medication,Employed,0
+19,Female,Brazil,8,17,Medium,7.4,Low,No,Medication,Unemployed,0
+31,Male,India,0,20,Medium,6.5,,No,Medication,Employed,1
+30,Female,Australia,18,21,Medium,3.8,Moderate,Yes,,Employed,0
+46,Male,India,4,10,Severe,8.6,Low,No,Therapy,Student,0
+29,Female,South Africa,18,12,Severe,7.5,,Yes,Medication,Retired,1
+56,Female,Brazil,0,7,Medium,5.5,High,No,Medication,Student,0
+19,Male,Brazil,14,0,Medium,7.3,High,Yes,,Student,0
+49,Male,India,15,16,Medium,10.0,High,No,Both,Student,0
+30,Male,Japan,22,11,Medium,10.2,Moderate,No,,Employed,0
+63,Male,United States,6,3,Medium,8.8,,Yes,,Student,1
+44,Female,Japan,25,20,High,7.2,High,No,Therapy,Unemployed,0
+66,Female,India,11,12,Medium,8.2,Low,No,Therapy,Unemployed,0
+58,Male,South Africa,7,8,Medium,6.5,,No,Both,Employed,1
+34,Female,Japan,4,6,Low,4.1,Moderate,No,,Employed,0
+57,Male,Canada,9,4,Medium,6.5,Low,No,Therapy,Student,0
+48,Male,Japan,27,4,Medium,7.8,Moderate,No,Therapy,Employed,0
+51,Female,France,20,16,Medium,8.4,,No,Therapy,Employed,1
+77,Female,Germany,4,8,High,11.4,Low,No,,Student,0
+41,Male,Australia,16,5,High,10.0,Moderate,No,,Employed,0
+62,Male,Japan,25,18,Medium,4.4,Low,No,Therapy,Student,0
+52,Male,United States,4,15,Medium,4.6,,Yes,Medication,Unemployed,1
+65,Female,United States,21,20,Medium,3.9,Low,Yes,Medication,Employed,0
+23,Female,Japan,14,1,Low,9.6,Low,No,Medication,Unemployed,0
+36,Female,United Kingdom,12,9,High,9.4,Low,No,Medication,Retired,0
+47,Female,Brazil,27,15,Medium,11.9,High,Yes,Therapy,Retired,0
+24,Male,Japan,0,4,High,7.7,Low,No,Both,Employed,0
+27,Male,Brazil,10,14,High,10.4,High,Yes,Therapy,Employed,0
+58,Male,Canada,22,12,Severe,8.2,,No,Therapy,Employed,1
+49,Male,India,0,12,Severe,10.9,Low,No,Medication,Unemployed,0
+51,Male,Canada,10,12,Low,9.5,,No,Medication,Employed,1
+80,Male,Japan,17,14,Severe,8.8,Low,No,Therapy,Retired,0
+45,Female,United States,17,13,High,8.1,,No,,Student,1
+77,Female,United Kingdom,20,7,High,9.5,Low,Yes,,Employed,0
+32,Male,South Africa,25,10,Low,6.8,Low,No,Both,Employed,0
+47,Male,Brazil,15,17,Severe,3.9,Low,Yes,,Unemployed,0
+54,Female,Germany,12,3,Low,3.4,Moderate,No,Medication,Student,0
+46,Female,Brazil,6,9,High,7.3,High,No,,Employed,0
+39,Female,France,0,0,Low,8.4,Low,No,,Employed,0
+21,Female,Australia,25,4,High,3.7,Moderate,No,Therapy,Student,0
+37,Male,Japan,15,12,Medium,5.6,Moderate,No,,Employed,0
+49,Male,Canada,0,0,Low,5.9,Low,No,,Employed,0
+53,Male,Germany,16,7,Low,8.1,High,Yes,Medication,Student,0
+67,Male,United States,5,2,Medium,5.5,High,Yes,Therapy,Employed,0
+21,Male,United States,1,2,Low,3.9,Low,No,Medication,Retired,0
+44,Female,United States,16,6,Medium,4.5,Moderate,No,,Retired,0
+34,Male,South Africa,5,3,High,4.6,Moderate,No,Both,Employed,0
+29,Female,France,13,2,High,10.6,Low,No,Both,Employed,0
+39,Male,United States,17,14,High,5.6,Low,No,,Employed,0
+34,Male,United States,5,7,Low,9.4,High,No,Both,Retired,0
+27,Male,Japan,9,2,Medium,8.1,Moderate,No,,Employed,0
+71,Male,France,23,6,Medium,11.8,,No,Medication,Employed,1
+18,Male,United Kingdom,17,17,Severe,5.5,,No,Therapy,Student,1
+39,Female,United Kingdom,26,10,Severe,4.4,High,No,Therapy,Employed,0
+43,Female,France,8,10,Medium,3.5,,No,Therapy,Student,1
+73,Female,Australia,7,16,Low,5.2,Moderate,Yes,Therapy,Unemployed,0
+76,Male,South Africa,27,5,Severe,9.2,Low,No,Medication,Employed,0
+35,Male,Germany,9,7,Severe,3.8,,Yes,Medication,Employed,1
+67,Female,Brazil,16,0,Severe,5.2,,Yes,Therapy,Employed,1
+31,Male,Japan,22,9,High,10.7,Low,No,Both,Unemployed,0
+64,Male,India,25,18,Medium,8.2,,No,Both,Student,1
+46,Female,United Kingdom,5,2,Low,3.6,Moderate,Yes,Both,Employed,0
+29,Male,France,13,3,Medium,3.4,Moderate,Yes,Both,Employed,0
+53,Female,Germany,21,10,Medium,3.6,Low,No,Therapy,Retired,0
+76,Male,France,21,14,Medium,11.5,Moderate,No,Therapy,Student,0
+52,Female,Brazil,5,0,Medium,10.6,Low,Yes,,Employed,0
+69,Male,Germany,25,8,Medium,10.6,Low,No,Both,Employed,0
+78,Male,United Kingdom,6,10,Medium,11.3,Low,Yes,,Unemployed,0
+29,Female,United States,11,18,Medium,7.5,Low,No,Therapy,Student,0
+24,Male,France,2,12,Low,5.2,High,No,,Employed,0
+46,Male,India,13,15,Medium,6.6,Moderate,No,,Student,0
+28,Female,United Kingdom,21,3,High,9.5,Low,No,,Student,0
+50,Male,Canada,18,0,High,10.9,Moderate,Yes,Medication,Student,0
+23,Female,India,22,19,Medium,6.9,Low,No,,Retired,0
+64,Male,Australia,15,12,Medium,7.8,,Yes,Medication,Student,1
+32,Male,South Africa,6,0,Low,11.4,Low,No,Both,Retired,0
+49,Male,United Kingdom,7,4,High,4.0,Moderate,No,Medication,Student,0
+68,Male,United States,17,4,Medium,10.8,Low,Yes,,Retired,0
+28,Female,United Kingdom,24,13,Medium,4.4,High,No,Both,Employed,0
+75,Male,Brazil,12,13,Severe,7.4,Low,Yes,Medication,Student,0
+40,Female,Germany,20,7,Medium,5.0,Low,No,,Employed,0
+43,Male,France,8,3,Low,8.4,High,No,Medication,Employed,0
+51,Male,Germany,9,6,Low,8.0,Low,No,Medication,Employed,0
+63,Male,Germany,20,19,Medium,6.4,Moderate,No,Therapy,Employed,0
+51,Male,United Kingdom,22,18,Medium,10.8,Moderate,Yes,,Employed,0
+46,Female,Brazil,26,14,Severe,8.9,High,No,Medication,Employed,0
+21,Female,France,8,21,Medium,9.5,,No,Medication,Unemployed,1
+34,Female,France,14,3,High,4.4,Low,Yes,Therapy,Employed,0
+52,Female,Germany,19,18,Medium,10.9,Moderate,Yes,Medication,Retired,0
+30,Male,Australia,1,8,Medium,4.5,Moderate,No,Therapy,Retired,0
+58,Female,South Africa,24,20,Medium,5.0,Moderate,No,Medication,Student,0
+56,Female,Brazil,12,12,Medium,4.2,,No,Therapy,Student,1
+32,Male,Australia,1,13,Medium,7.0,Low,No,Therapy,Employed,0
+72,Male,Japan,18,13,Medium,11.0,Moderate,No,Both,Employed,0
+46,Male,Japan,25,21,Severe,5.3,Low,Yes,Medication,Employed,0
+46,Male,India,1,9,Medium,6.4,Low,No,Therapy,Employed,0
+28,Female,Germany,2,15,Low,10.6,,Yes,Therapy,Employed,1
+69,Female,France,5,4,Low,8.6,,No,Medication,Employed,1
+49,Male,United Kingdom,2,5,Low,9.8,Moderate,Yes,Both,Student,0
+19,Male,France,9,1,Medium,4.9,Moderate,No,Medication,Unemployed,0
+64,Male,France,23,12,Low,9.4,,No,Therapy,Employed,1
+31,Female,United States,26,12,Low,5.0,Low,No,Both,Employed,0
+37,Female,France,5,18,Medium,11.9,Moderate,Yes,Medication,Employed,0
+39,Male,India,22,17,High,8.0,Low,No,,Student,0
+28,Male,Australia,15,18,Low,9.3,Moderate,Yes,Medication,Employed,0
+44,Female,Japan,16,0,Medium,4.1,Moderate,No,Therapy,Student,0
+20,Male,France,18,7,High,5.3,High,No,Medication,Student,0
+34,Male,France,2,21,Severe,4.3,Moderate,No,,Employed,0
+79,Female,United States,17,15,High,6.5,Low,Yes,Therapy,Student,0
+61,Male,Brazil,6,1,Low,5.6,Moderate,No,Therapy,Employed,0
+73,Female,United Kingdom,8,7,High,9.6,,No,,Employed,1
+45,Male,Brazil,19,5,Medium,4.0,,No,Therapy,Student,1
+46,Male,United Kingdom,11,15,Low,9.8,,No,Medication,Student,1
+38,Female,South Africa,4,10,Severe,3.4,Low,No,Therapy,Unemployed,0
+64,Female,France,2,16,Medium,4.8,Low,No,Medication,Student,0
+33,Male,United States,10,18,Severe,10.1,,No,Medication,Employed,1
+54,Female,Canada,24,10,High,9.7,Moderate,No,Medication,Employed,0
+76,Male,Germany,3,7,High,7.3,High,Yes,Therapy,Unemployed,0
+37,Male,Japan,4,21,High,3.4,,No,,Unemployed,1
+23,Female,Australia,0,3,Medium,8.5,Moderate,No,,Unemployed,0
+36,Male,Japan,26,10,Medium,6.7,,No,Both,Student,1
+74,Male,Australia,27,7,Severe,5.8,High,Yes,Therapy,Unemployed,0
+22,Female,South Africa,17,8,High,8.8,Low,Yes,Medication,Student,0
+20,Female,Brazil,11,1,Severe,6.9,High,No,Medication,Student,0
+76,Male,India,12,15,Severe,3.8,Low,No,,Employed,0
+18,Female,France,8,5,Severe,11.2,Moderate,No,Medication,Employed,0
+75,Female,Canada,1,20,High,10.0,Low,Yes,,Student,0
+77,Female,Australia,4,20,Medium,3.5,Low,Yes,Both,Student,0
+55,Female,Germany,12,18,Low,7.7,,No,,Unemployed,1
+32,Male,Australia,15,7,High,3.8,Low,No,Therapy,Unemployed,0
+51,Male,India,15,13,Medium,10.5,Moderate,Yes,,Employed,0
+78,Male,Japan,23,15,Medium,8.5,Moderate,Yes,Both,Employed,0
+52,Female,United States,2,11,Low,4.6,Low,No,Both,Unemployed,0
+66,Female,Japan,21,4,Severe,3.2,High,Yes,,Unemployed,0
+42,Female,South Africa,3,18,Severe,3.3,Low,No,Therapy,Employed,0
+41,Female,United States,10,17,High,7.6,High,Yes,,Employed,0
+29,Female,Japan,22,8,Medium,9.6,,No,Medication,Student,1
+35,Female,Germany,25,1,High,4.1,High,Yes,Therapy,Employed,0
+32,Female,Japan,13,19,High,5.0,,No,Medication,Employed,1
+61,Male,Germany,2,11,Medium,5.9,Moderate,Yes,,Employed,0
+33,Male,Germany,15,1,Medium,5.0,Low,Yes,Medication,Employed,0
+44,Female,United States,21,9,Medium,6.5,Moderate,Yes,Therapy,Student,0
+25,Female,Brazil,14,0,Medium,8.0,Moderate,No,Medication,Unemployed,0
+77,Female,United Kingdom,27,3,High,9.2,Low,No,Medication,Student,0
+63,Male,France,9,11,Medium,11.7,High,Yes,,Employed,0
+42,Male,Australia,8,8,Severe,11.4,High,Yes,Medication,Unemployed,0
+34,Female,United Kingdom,10,3,Low,8.1,High,No,Medication,Employed,0
+46,Female,India,15,8,Medium,9.6,High,No,Therapy,Employed,0
+70,Male,Brazil,9,5,Medium,11.6,Moderate,No,,Employed,0
+25,Male,United Kingdom,16,0,Low,3.8,High,No,Medication,Unemployed,0
+32,Male,United States,18,9,Medium,3.1,High,Yes,Both,Retired,0
+44,Male,India,1,13,Medium,3.3,Low,Yes,Both,Employed,0
+63,Female,Canada,23,21,Medium,8.1,Moderate,Yes,Medication,Unemployed,0
+67,Male,Brazil,22,17,Medium,9.9,High,No,Therapy,Student,0
+69,Male,United Kingdom,1,5,High,6.3,Moderate,No,Therapy,Unemployed,0
+24,Female,India,5,17,Medium,7.9,Low,Yes,,Retired,0
+20,Male,Canada,18,19,Low,7.6,,Yes,Therapy,Employed,1
+46,Male,Japan,7,15,High,3.9,Moderate,No,,Unemployed,0
+61,Male,India,25,14,Low,5.9,High,Yes,Therapy,Employed,0
+70,Female,United States,2,15,High,3.2,Low,Yes,Both,Employed,0
+41,Male,Japan,25,7,Severe,4.0,,No,Both,Unemployed,1
+77,Female,United States,13,12,Medium,10.3,Low,Yes,Both,Employed,0
+75,Female,United Kingdom,24,10,Severe,10.5,Moderate,Yes,,Employed,0
+20,Male,France,15,6,High,10.2,Low,No,Both,Employed,0
+37,Male,United Kingdom,0,16,Severe,9.5,Moderate,No,,Unemployed,0
+63,Male,Japan,20,17,High,10.1,High,No,Therapy,Unemployed,0
+32,Male,Germany,2,21,Low,9.0,Moderate,Yes,Medication,Student,0
+42,Female,United Kingdom,21,18,Severe,9.0,Low,No,Therapy,Employed,0
+47,Male,Japan,25,12,Low,9.0,High,No,Both,Retired,0
+31,Male,India,17,14,Low,7.6,Moderate,Yes,Therapy,Employed,0
+24,Male,South Africa,8,21,Medium,6.3,,No,Therapy,Retired,1
+34,Female,United Kingdom,5,21,Medium,9.6,Low,No,,Unemployed,0
+79,Male,India,22,0,Medium,5.7,Moderate,No,Both,Employed,0
+61,Male,United States,20,15,High,7.9,Moderate,No,Therapy,Employed,0
+37,Female,Brazil,24,4,Severe,6.9,High,No,Medication,Employed,0
+53,Female,France,0,2,Low,5.5,Low,No,Medication,Employed,0
+26,Male,United States,20,9,Severe,11.8,,No,Medication,Employed,1
+55,Male,United States,26,18,Severe,5.3,,Yes,Therapy,Unemployed,1
+65,Male,Japan,9,4,Low,5.8,Moderate,No,Therapy,Unemployed,0
+74,Male,Germany,26,6,Medium,4.5,Moderate,Yes,Medication,Employed,0
+77,Male,Australia,5,13,High,10.4,Low,Yes,Both,Unemployed,0
+80,Female,South Africa,22,2,High,8.3,Low,No,Both,Employed,0
+39,Female,Germany,11,12,High,8.5,High,No,,Employed,0
+71,Male,Japan,3,12,High,10.4,High,Yes,,Employed,0
+70,Male,France,27,9,Medium,6.1,Low,No,Therapy,Unemployed,0
+70,Female,South Africa,12,1,Low,4.7,Moderate,Yes,Medication,Employed,0
+19,Male,South Africa,16,5,Medium,4.8,Moderate,No,Therapy,Employed,0
+41,Male,Japan,26,7,Low,9.6,,Yes,Medication,Employed,1
+25,Male,Canada,7,3,High,8.5,Low,No,Both,Student,0
+28,Male,United States,25,11,High,4.9,,No,Therapy,Employed,1
+30,Male,Brazil,19,14,Medium,4.3,Low,No,,Student,0
+34,Female,Canada,2,7,Severe,4.1,Moderate,Yes,Both,Unemployed,0
+25,Male,Japan,11,6,Medium,8.7,Low,No,Therapy,Student,0
+38,Male,Canada,6,13,High,3.0,Low,No,Therapy,Employed,0
+35,Male,Brazil,11,18,High,3.2,Moderate,No,Therapy,Student,0
+47,Female,Japan,1,13,Severe,6.5,,No,Therapy,Retired,1
+35,Female,Japan,23,21,High,9.2,Moderate,No,Medication,Employed,0
+63,Female,South Africa,13,12,Low,9.3,Low,Yes,Therapy,Unemployed,0
+64,Female,Canada,21,20,Severe,6.9,Low,Yes,Therapy,Unemployed,0
+48,Male,India,22,0,High,9.2,High,No,Medication,Unemployed,0
+55,Female,United Kingdom,4,18,Low,7.7,Low,No,,Unemployed,0
+49,Male,Japan,8,0,High,11.8,Moderate,No,,Student,0
+28,Male,Canada,20,3,Severe,4.5,Low,No,Medication,Employed,0
